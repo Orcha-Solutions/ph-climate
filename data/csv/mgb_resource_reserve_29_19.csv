@@ -1,0 +1,181 @@
+record_id,year,facility_id,operator,region_code,region_name,commodity,resource_or_reserve,unit,classification,report_basis,source_office,data_status
+RR-2021-001,2021,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,27.19,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-002,2021,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,39.14,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-003,2021,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,76.79,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-004,2021,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,41.93,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-005,2021,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,39.58,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-006,2021,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,83.89,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-007,2021,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,93.46,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-008,2021,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,11.9,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-009,2021,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,87.73,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-010,2021,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,11.64,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-011,2021,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,89.61,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-012,2021,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,26.51,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-013,2021,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,53.01,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-014,2021,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,55.78,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-015,2021,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,65.66,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-016,2021,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,71.8,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-017,2021,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,51.8,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-018,2021,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,56.99,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-019,2021,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,10.44,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-020,2021,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,56.29,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-021,2021,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,1.94,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-022,2021,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,15.56,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-023,2021,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,81.49,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-024,2021,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,14.23,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-025,2021,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,5.88,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-026,2021,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,23.17,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-027,2021,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,64.95,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-028,2021,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,93.72,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-029,2021,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,16.74,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-030,2021,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,10.26,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-031,2021,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,7.71,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-032,2021,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,45.44,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-033,2021,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,48.83,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-034,2021,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,23.14,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-035,2021,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,13.32,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2021-036,2021,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,89.14,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-001,2022,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,27.95,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-002,2022,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,3.31,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-003,2022,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,1.8,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-004,2022,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,53.29,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-005,2022,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,9.75,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-006,2022,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,32.48,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-007,2022,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,46.14,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-008,2022,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,30.71,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-009,2022,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,4.44,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-010,2022,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,46.38,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-011,2022,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,93.08,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-012,2022,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,23.57,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-013,2022,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,66.66,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-014,2022,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,64.23,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-015,2022,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,23.16,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-016,2022,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,41.78,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-017,2022,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,21.81,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-018,2022,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,24.01,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-019,2022,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,70.54,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-020,2022,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,79.81,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-021,2022,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,33.86,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-022,2022,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,93.55,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-023,2022,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,4.22,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-024,2022,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,20.55,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-025,2022,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,50.93,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-026,2022,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,5.25,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-027,2022,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,15.63,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-028,2022,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,82.23,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-029,2022,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,27.52,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-030,2022,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,73.86,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-031,2022,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,39.63,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-032,2022,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,73.73,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-033,2022,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,11.22,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-034,2022,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,25.95,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-035,2022,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,16.82,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2022-036,2022,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,89.71,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-001,2023,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,78.56,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-002,2023,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,46.86,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-003,2023,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,80.84,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-004,2023,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,38.24,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-005,2023,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,57.77,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-006,2023,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,36.36,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-007,2023,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,36.75,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-008,2023,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,10.88,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-009,2023,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,69.19,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-010,2023,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,59.33,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-011,2023,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,37.45,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-012,2023,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,16.56,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-013,2023,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,20.82,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-014,2023,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,23.44,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-015,2023,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,31.77,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-016,2023,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,63.16,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-017,2023,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,81.34,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-018,2023,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,73,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-019,2023,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,69.24,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-020,2023,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,53.37,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-021,2023,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,68.63,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-022,2023,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,43.84,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-023,2023,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,73.59,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-024,2023,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,88.76,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-025,2023,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,71,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-026,2023,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,39.7,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-027,2023,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,48.25,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-028,2023,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,85.91,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-029,2023,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,20.28,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-030,2023,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,58.96,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-031,2023,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,75.39,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-032,2023,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,37.94,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-033,2023,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,71.3,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-034,2023,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,26.96,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-035,2023,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,78.83,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2023-036,2023,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,42.5,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-001,2024,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,15.65,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-002,2024,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,66.82,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-003,2024,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,61.51,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-004,2024,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,21.12,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-005,2024,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,4.63,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-006,2024,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,10.3,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-007,2024,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,49.47,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-008,2024,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,26.73,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-009,2024,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,48.8,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-010,2024,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,48.84,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-011,2024,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,50.25,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-012,2024,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,41.25,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-013,2024,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,70.07,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-014,2024,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,13.45,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-015,2024,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,24.5,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-016,2024,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,83.97,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-017,2024,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,73.55,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-018,2024,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,66.95,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-019,2024,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,79.63,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-020,2024,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,15.73,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-021,2024,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,65.24,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-022,2024,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,90.87,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-023,2024,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,17.22,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-024,2024,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,49.08,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-025,2024,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,81.07,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-026,2024,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,2.51,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-027,2024,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,52.35,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-028,2024,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,61.78,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-029,2024,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,69.89,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-030,2024,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,44.66,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-031,2024,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,56.32,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-032,2024,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,18.64,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-033,2024,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,68.41,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-034,2024,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,41.08,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-035,2024,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,87.53,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2024-036,2024,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,60.89,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-001,2025,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,7.23,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-002,2025,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,48.91,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-003,2025,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,1.51,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-004,2025,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,76,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-005,2025,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,46.69,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-006,2025,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,69.99,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-007,2025,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,33.27,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-008,2025,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,14.34,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-009,2025,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,17.93,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-010,2025,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,13.58,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-011,2025,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,22.56,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-012,2025,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,55.39,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-013,2025,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,42.78,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-014,2025,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,51.75,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-015,2025,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,3.92,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-016,2025,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,91.19,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-017,2025,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,54.54,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-018,2025,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,20.43,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-019,2025,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,25.29,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-020,2025,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,43.55,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-021,2025,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,19.73,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-022,2025,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,22.91,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-023,2025,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,18.4,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-024,2025,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,23.79,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-025,2025,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,30.09,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-026,2025,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,2.12,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-027,2025,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,9.99,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-028,2025,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,24.47,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-029,2025,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,3.81,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-030,2025,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,76.1,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-031,2025,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,69.51,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-032,2025,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,83.45,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-033,2025,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,27.35,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-034,2025,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,92.07,million metric tonnes,indicated,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-035,2025,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,85.97,million metric tonnes,inferred,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO
+RR-2025-036,2025,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,15.29,million metric tonnes,measured,MGB Form 29-19,DENR-MGB,SYNTHETIC_DEMO

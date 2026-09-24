@@ -1,0 +1,5510 @@
+[
+  {
+    "year": 2020,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Energy",
+    "emissions_mtco2e": 6.106,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Transport",
+    "emissions_mtco2e": 2.794,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.695,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.914,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.526,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.321,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.636,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.288,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.286,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.176,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.121,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.127,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.342,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.506,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.257,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.159,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.1,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.997,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.438,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.024,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.285,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.207,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.097,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Energy",
+    "emissions_mtco2e": 5.517,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.916,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 2.04,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.632,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.383,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.217,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Energy",
+    "emissions_mtco2e": 5.931,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.058,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.555,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.676,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.57,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.338,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.808,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.302,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.331,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.199,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.148,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.09,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.492,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.574,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.627,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.382,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.251,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.115,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.657,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.514,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.288,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.429,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.256,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.143,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.122,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.804,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.785,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.546,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.353,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.211,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.946,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.659,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.732,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.404,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.334,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.138,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.876,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.611,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.865,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.512,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.335,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.184,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.988,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.845,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.763,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.452,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.287,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.192,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.615,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.727,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.807,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.494,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.303,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.149,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.32,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.875,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.91,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.554,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.372,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.176,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.327,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.727,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.895,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.553,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.363,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.231,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.994,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.343,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.773,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.25,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.147,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2020,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.088,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Energy",
+    "emissions_mtco2e": 6.176,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Transport",
+    "emissions_mtco2e": 3.271,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.328,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.874,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.49,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.351,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.764,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.242,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.361,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.173,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.14,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.098,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.413,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.523,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.309,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.168,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.085,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.196,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.475,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.848,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.292,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.185,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.096,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Energy",
+    "emissions_mtco2e": 4.878,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.034,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 2.012,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.682,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.48,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.233,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Energy",
+    "emissions_mtco2e": 5.496,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.322,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.457,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.843,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.524,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.271,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.769,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.329,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.412,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.21,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.116,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.547,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.591,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.689,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.409,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.218,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.143,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.463,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.603,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.171,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.36,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.292,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.127,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.794,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.987,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.573,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.377,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.187,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.073,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.669,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.742,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.407,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.314,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.187,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.123,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.695,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.815,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.543,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.19,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.747,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.717,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.932,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.538,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.376,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.195,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.646,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.746,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.679,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.487,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.313,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.189,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.155,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.703,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.708,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.562,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.395,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.167,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.367,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.897,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.073,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.53,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.367,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.245,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.863,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.315,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.63,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.216,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.165,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2021,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.087,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Energy",
+    "emissions_mtco2e": 6.997,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Transport",
+    "emissions_mtco2e": 3.312,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.456,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.942,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.652,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.31,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.818,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.292,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.376,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.184,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.107,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.051,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.458,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.468,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.17,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.121,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.361,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.484,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.019,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.343,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.213,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.097,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Energy",
+    "emissions_mtco2e": 5.546,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.913,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 2.528,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.73,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.472,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Energy",
+    "emissions_mtco2e": 6.98,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.215,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.551,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.874,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.495,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.28,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.96,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.35,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.353,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.187,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.131,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.085,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.619,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.677,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.627,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.441,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.299,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.145,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.837,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.613,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.283,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.4,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.251,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.161,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.872,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.705,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.062,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.6,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.364,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.233,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.937,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.653,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.847,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.462,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.285,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.164,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.705,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.626,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.837,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.56,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.304,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.181,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.785,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.707,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.901,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.535,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.29,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.183,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.052,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.67,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.785,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.405,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.316,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.155,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.187,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.822,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.711,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.609,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.352,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.192,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.258,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.943,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.912,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.57,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.347,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.201,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.88,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.319,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.73,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.233,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.174,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2022,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.096,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Energy",
+    "emissions_mtco2e": 7.602,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Transport",
+    "emissions_mtco2e": 3.487,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.668,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Waste",
+    "emissions_mtco2e": 1.013,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.53,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.383,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.815,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.324,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.322,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.173,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.135,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.146,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.404,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.564,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.264,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.199,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.092,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.343,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.423,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.128,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.297,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.184,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.094,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Energy",
+    "emissions_mtco2e": 6.467,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.94,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 2.453,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.77,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.51,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.237,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Energy",
+    "emissions_mtco2e": 7.559,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.363,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.288,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.801,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.555,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.348,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.815,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.279,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.405,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.253,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.141,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.094,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.675,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.647,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.63,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.411,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.291,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.154,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.582,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.671,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.488,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.412,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.3,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.183,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.253,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.764,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.883,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.535,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.322,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.18,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.731,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.687,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.851,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.539,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.309,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.212,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.847,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.639,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.986,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.468,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.333,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.184,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.237,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.877,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.945,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.538,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.372,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.166,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.834,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.642,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.851,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.509,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.313,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.187,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.339,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.956,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.661,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.592,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.389,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.199,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.265,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.938,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.079,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.682,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.436,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.251,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.875,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.362,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.779,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.257,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.159,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2023,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.105,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Energy",
+    "emissions_mtco2e": 8.103,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Transport",
+    "emissions_mtco2e": 3.476,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.712,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.921,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.604,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.33,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.885,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.278,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.341,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.192,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.13,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.999,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.408,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.468,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.266,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.187,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.112,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.11,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.468,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.958,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.347,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.19,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.138,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Energy",
+    "emissions_mtco2e": 5.847,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.192,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 2.362,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.828,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.479,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.291,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Energy",
+    "emissions_mtco2e": 7.7,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.316,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.452,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.971,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.568,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.291,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.971,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.298,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.385,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.231,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.16,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.083,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.626,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.65,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.634,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.463,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.301,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.133,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.601,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.574,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.364,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.491,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.166,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.045,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.784,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.069,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.582,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.315,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.224,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.92,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.77,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.868,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.556,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.165,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.913,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.827,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.784,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.459,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.346,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.207,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.913,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.688,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.066,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.57,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.39,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.189,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.84,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.72,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.814,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.428,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.332,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.194,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.141,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.998,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.851,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.686,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.344,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.224,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.415,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.995,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.194,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.701,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.351,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.194,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.044,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.392,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.792,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.286,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.138,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2024,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.093,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Energy",
+    "emissions_mtco2e": 8.457,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Transport",
+    "emissions_mtco2e": 4.055,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.482,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.83,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.558,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.402,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Energy",
+    "emissions_mtco2e": 0.881,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.297,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.364,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.239,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.147,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.084,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.071,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.466,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.475,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.327,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.166,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.124,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.259,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.429,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.007,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.341,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.195,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.098,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Energy",
+    "emissions_mtco2e": 5.375,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.054,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 2.629,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.724,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.458,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.32,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Energy",
+    "emissions_mtco2e": 6.871,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.225,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.591,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.829,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.489,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.369,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.012,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.363,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.366,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.248,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.14,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.08,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.546,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.551,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.727,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.386,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.178,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.848,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.746,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.273,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.419,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.277,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.19,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.044,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.952,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.896,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.659,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.318,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.21,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.872,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.835,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.986,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.483,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.317,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.158,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.22,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.69,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.907,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.569,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.352,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.165,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.266,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.702,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.084,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.484,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.377,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.188,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.124,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.783,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.839,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.549,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.296,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.192,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.59,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Transport",
+    "emissions_mtco2e": 1.002,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.767,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.675,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.394,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.243,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Energy",
+    "emissions_mtco2e": 2.517,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.952,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 1.007,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.715,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.456,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.244,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Energy",
+    "emissions_mtco2e": 1.113,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Transport",
+    "emissions_mtco2e": 0.389,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Agriculture",
+    "emissions_mtco2e": 0.89,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "Waste",
+    "emissions_mtco2e": 0.247,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "IPPU",
+    "emissions_mtco2e": 0.146,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "sector": "LULUCF",
+    "emissions_mtco2e": -0.104,
+    "data_status": "SYNTHETIC",
+    "method": "PoC proxy calibrated to Philippine sector profile; not official inventory"
+  }
+]

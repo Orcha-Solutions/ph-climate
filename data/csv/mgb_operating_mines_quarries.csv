@@ -1,0 +1,37 @@
+facility_id,operator,region_code,region_name,commodity,permit_type,permit_no,operating_status,source_dataset,data_status
+MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,MPP,SYN-1001,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,Quarry Permit,SYN-1002,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,FTAA,SYN-1003,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,MPSA,SYN-1004,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,MPP,SYN-1005,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,Quarry Permit,SYN-1006,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,FTAA,SYN-1007,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,MPSA,SYN-1008,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,MPP,SYN-1009,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,MPSA,SYN-1010,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,MPP,SYN-1011,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,Quarry Permit,SYN-1012,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,FTAA,SYN-1013,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,MPSA,SYN-1014,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,MPP,SYN-1015,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,Quarry Permit,SYN-1016,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,FTAA,SYN-1017,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,MPSA,SYN-1018,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,MPP,SYN-1019,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,MPSA,SYN-1020,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,MPP,SYN-1021,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,Quarry Permit,SYN-1022,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,FTAA,SYN-1023,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,MPSA,SYN-1024,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,MPP,SYN-1025,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,Quarry Permit,SYN-1026,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,FTAA,SYN-1027,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,MPSA,SYN-1028,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,MPP,SYN-1029,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,MPSA,SYN-1030,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,MPP,SYN-1031,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,Quarry Permit,SYN-1032,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,FTAA,SYN-1033,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,MPSA,SYN-1034,care and maintenance,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,MPP,SYN-1035,development,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO
+MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,Quarry Permit,SYN-1036,operating,DENR-MGB Directory of Operating Mines and Quarries,SYNTHETIC_DEMO

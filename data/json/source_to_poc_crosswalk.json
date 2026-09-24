@@ -1,0 +1,152 @@
+[
+  {
+    "agency": "EMB",
+    "source_unit": "Philippine Ozone Desk",
+    "source_dataset": "HFC / controlled-substance activity",
+    "synthetic_table": "emb_pod_hfc_activity",
+    "record_count": 120,
+    "key_fields": "year; region; substance; quantity; GWP",
+    "transformation": "IPCC 2.F synthetic CO2e proxy",
+    "dashboard_use": "IPPU F-gases + provenance"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "EQMD / industry reporting",
+    "source_dataset": "PFC, SF6, NF3 activity",
+    "synthetic_table": "emb_eqmd_fgas_activity",
+    "record_count": 100,
+    "key_fields": "gas; application; kg; GWP",
+    "transformation": "IPCC 2.E/2.G synthetic CO2e proxy",
+    "dashboard_use": "IPPU electronics/electrical"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "IPPU inventory team",
+    "source_dataset": "Industrial process activity",
+    "synthetic_table": "emb_industrial_process_activity",
+    "record_count": 140,
+    "key_fields": "facility; process; activity; EF",
+    "transformation": "illustrative activity \u00d7 EF",
+    "dashboard_use": "IPPU process emissions"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "Industry/SCMAR-type reporting",
+    "source_dataset": "Cement/clinker/SCM activity",
+    "synthetic_table": "emb_cement_scm_activity",
+    "record_count": 80,
+    "key_fields": "cement; clinker ratio; SCM",
+    "transformation": "feeds mineral-products activity",
+    "dashboard_use": "cement decarbonization"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "POD / CHWMS",
+    "source_dataset": "ODS/HFC recovery, storage, reclamation, destruction",
+    "synthetic_table": "emb_ods_recovery_destruction",
+    "record_count": 90,
+    "key_fields": "substance; action; kg",
+    "transformation": "management activity",
+    "dashboard_use": "refrigerant management"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "AQMS / Regional Offices",
+    "source_dataset": "Facility stationary-source activity/emissions",
+    "synthetic_table": "emb_aqms_facility_emissions",
+    "record_count": 170,
+    "key_fields": "fuel/source; activity; CO2/CH4/N2O",
+    "transformation": "facility source record",
+    "dashboard_use": "facility emissions explorer"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "Regional Offices",
+    "source_dataset": "Facility GHG reporting/verification",
+    "synthetic_table": "emb_regional_facility_verification",
+    "record_count": 210,
+    "key_fields": "baseline; reduction; net; status",
+    "transformation": "verification layer",
+    "dashboard_use": "QA/QC + drill-down"
+  },
+  {
+    "agency": "EMB",
+    "source_unit": "EIA / Regional Offices",
+    "source_dataset": "ECC/CMR GHG-relevant monitoring",
+    "synthetic_table": "emb_eia_ecc_ghg_monitoring",
+    "record_count": 120,
+    "key_fields": "project; ECC; emissions; mitigation; CMR",
+    "transformation": "commitment-to-monitoring link",
+    "dashboard_use": "EIA/ECC traceability"
+  },
+  {
+    "agency": "MGB",
+    "source_unit": "Mineral Economics / Regional Offices",
+    "source_dataset": "Mineral production and inventory",
+    "synthetic_table": "mgb_mineral_production",
+    "record_count": 180,
+    "key_fields": "operator; commodity; production",
+    "transformation": "mineral-industry activity",
+    "dashboard_use": "mining activity explorer"
+  },
+  {
+    "agency": "MGB",
+    "source_unit": "Contractors / MPP holders",
+    "source_dataset": "Quarterly Energy Consumption Report (29-18)",
+    "synthetic_table": "mgb_energy_consumption_29_18",
+    "record_count": 720,
+    "key_fields": "diesel; gasoline; coal; electricity",
+    "transformation": "fuel activity \u2192 PoC proxy",
+    "dashboard_use": "mining energy/GHG"
+  },
+  {
+    "agency": "MGB",
+    "source_unit": "Contractors / permittees",
+    "source_dataset": "Annual Resource/Reserve Inventory (29-19)",
+    "synthetic_table": "mgb_resource_reserve_29_19",
+    "record_count": 180,
+    "key_fields": "commodity; quantity; class",
+    "transformation": "context / denominator",
+    "dashboard_use": "resource context"
+  },
+  {
+    "agency": "MGB",
+    "source_unit": "Central/Regional Offices",
+    "source_dataset": "Directory of Operating Mines and Quarries",
+    "synthetic_table": "mgb_operating_mines_quarries",
+    "record_count": 36,
+    "key_fields": "operator; commodity; permit; status",
+    "transformation": "facility master join",
+    "dashboard_use": "map + registry"
+  },
+  {
+    "agency": "MGB",
+    "source_unit": "Contractors / permittees",
+    "source_dataset": "Integrated Annual Report / land-use footprint",
+    "synthetic_table": "mgb_integrated_annual_landuse",
+    "record_count": 180,
+    "key_fields": "raw material; disturbed/rehab ha",
+    "transformation": "production-land footprint link",
+    "dashboard_use": "mining/FOLU context"
+  },
+  {
+    "agency": "DERIVED",
+    "source_unit": "PoC orchestration layer",
+    "source_dataset": "EMB synthetic inventory output",
+    "synthetic_table": "emb_ghg_inventory_output",
+    "record_count": 85,
+    "key_fields": "region; year; IPPU tCO2e",
+    "transformation": "sum selected EMB streams",
+    "dashboard_use": "executive/IPPU dashboard"
+  },
+  {
+    "agency": "DERIVED",
+    "source_unit": "PoC orchestration layer",
+    "source_dataset": "MGB mining fuel-emissions proxy",
+    "synthetic_table": "mgb_energy_emissions_proxy",
+    "record_count": 720,
+    "key_fields": "facility; quarter; tCO2e",
+    "transformation": "fuel activity \u00d7 illustrative EF",
+    "dashboard_use": "mining emissions explorer"
+  }
+]

@@ -1,0 +1,81 @@
+record_id,year,region_code,region_name,facility,cement_output_t,clinker_ratio,scm_type,scm_use_t,estimated_clinker_t,source_office,data_status,ipcc_category
+SCM-2021-001,2021,R13,Caraga,Synthetic Cement Plant 01,293486.1,0.592,fly ash,98606.7,173743.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-002,2021,R02,Cagayan Valley,Synthetic Cement Plant 02,145562.2,0.696,ground granulated blast-furnace slag,20446,101311.3,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-003,2021,R06,Western Visayas,Synthetic Cement Plant 03,378806.4,0.727,natural pozzolan,60623.2,275392.3,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-004,2021,R11,Davao Region,Synthetic Cement Plant 04,335713,0.595,calcined clay,93649.8,199749.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-005,2021,CAR,Cordillera Administrative Region,Synthetic Cement Plant 05,119112.7,0.716,fly ash,28042.6,85284.7,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-006,2021,MIMAROPA,MIMAROPA Region,Synthetic Cement Plant 06,157941.1,0.657,ground granulated blast-furnace slag,33742.7,103767.3,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-007,2021,R09,Zamboanga Peninsula,Synthetic Cement Plant 07,233961.2,0.804,natural pozzolan,31607.3,188104.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-008,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Cement Plant 08,170186.6,0.617,calcined clay,54199.3,105005.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-009,2021,R03,Central Luzon,Synthetic Cement Plant 09,153607.5,0.672,fly ash,41995.3,103224.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-010,2021,R07,Central Visayas,Synthetic Cement Plant 10,35580.1,0.73,ground granulated blast-furnace slag,6998.9,25973.5,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-011,2021,R12,SOCCSKSARGEN,Synthetic Cement Plant 11,112118.4,0.736,natural pozzolan,16128.1,82519.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-012,2021,R01,Ilocos Region,Synthetic Cement Plant 12,225503.9,0.742,calcined clay,45129.2,167323.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-013,2021,R05,Bicol Region,Synthetic Cement Plant 13,197452.2,0.769,fly ash,26172.7,151840.7,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-014,2021,R10,Northern Mindanao,Synthetic Cement Plant 14,339671.1,0.74,ground granulated blast-furnace slag,60876.9,251356.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-015,2021,NCR,National Capital Region,Synthetic Cement Plant 15,406835.1,0.776,natural pozzolan,57831.6,315704,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2021-016,2021,R04A,CALABARZON,Synthetic Cement Plant 16,185562.6,0.631,calcined clay,44833.6,117090,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Cement Plant 01,113572.3,0.693,fly ash,18556,78705.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-002,2022,R03,Central Luzon,Synthetic Cement Plant 02,174384.3,0.649,ground granulated blast-furnace slag,33172,113175.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-003,2022,R07,Central Visayas,Synthetic Cement Plant 03,362845,0.716,natural pozzolan,62388.2,259797,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-004,2022,R12,SOCCSKSARGEN,Synthetic Cement Plant 04,348643.5,0.802,calcined clay,34306.4,279612.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-005,2022,R01,Ilocos Region,Synthetic Cement Plant 05,329048.2,0.767,fly ash,56708.2,252380,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-006,2022,R05,Bicol Region,Synthetic Cement Plant 06,319870.5,0.743,ground granulated blast-furnace slag,67919.8,237663.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-007,2022,R10,Northern Mindanao,Synthetic Cement Plant 07,227393.9,0.688,natural pozzolan,35608.2,156447,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-008,2022,NCR,National Capital Region,Synthetic Cement Plant 08,38523.7,0.679,calcined clay,9056.9,26157.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-009,2022,R04A,CALABARZON,Synthetic Cement Plant 09,154974.6,0.583,fly ash,31223.3,90350.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-010,2022,R08,Eastern Visayas,Synthetic Cement Plant 10,209497.7,0.726,ground granulated blast-furnace slag,42447,152095.3,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-011,2022,R13,Caraga,Synthetic Cement Plant 11,80369.9,0.746,natural pozzolan,16361.7,59955.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-012,2022,R02,Cagayan Valley,Synthetic Cement Plant 12,294030.4,0.62,calcined clay,63797.2,182298.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-013,2022,R06,Western Visayas,Synthetic Cement Plant 13,215203.1,0.728,fly ash,44239.2,156667.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-014,2022,R11,Davao Region,Synthetic Cement Plant 14,139359.7,0.598,ground granulated blast-furnace slag,34297.9,83337.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-015,2022,CAR,Cordillera Administrative Region,Synthetic Cement Plant 15,74380.3,0.621,natural pozzolan,21163.7,46190.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2022-016,2022,MIMAROPA,MIMAROPA Region,Synthetic Cement Plant 16,92173.3,0.782,calcined clay,10081.1,72079.5,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-001,2023,NCR,National Capital Region,Synthetic Cement Plant 01,153000,0.607,fly ash,27212.6,92871,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-002,2023,R04A,CALABARZON,Synthetic Cement Plant 02,172358.7,0.623,ground granulated blast-furnace slag,30356.6,107379.5,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-003,2023,R08,Eastern Visayas,Synthetic Cement Plant 03,143929.2,0.648,natural pozzolan,38849.8,93266.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-004,2023,R13,Caraga,Synthetic Cement Plant 04,165481.3,0.585,calcined clay,57937.6,96806.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-005,2023,R02,Cagayan Valley,Synthetic Cement Plant 05,323622.5,0.752,fly ash,50782.9,243364.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-006,2023,R06,Western Visayas,Synthetic Cement Plant 06,367786.3,0.734,ground granulated blast-furnace slag,44531.1,269955.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-007,2023,R11,Davao Region,Synthetic Cement Plant 07,51486.6,0.582,natural pozzolan,11390.2,29965.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-008,2023,CAR,Cordillera Administrative Region,Synthetic Cement Plant 08,73015,0.669,calcined clay,12360.2,48847,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-009,2023,MIMAROPA,MIMAROPA Region,Synthetic Cement Plant 09,345140.8,0.659,fly ash,59797.3,227447.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-010,2023,R09,Zamboanga Peninsula,Synthetic Cement Plant 10,67094.5,0.6,ground granulated blast-furnace slag,18505.1,40256.7,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-011,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Cement Plant 11,279734.6,0.707,natural pozzolan,39477.5,197772.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-012,2023,R03,Central Luzon,Synthetic Cement Plant 12,211277.6,0.755,calcined clay,30277.2,159514.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-013,2023,R07,Central Visayas,Synthetic Cement Plant 13,260278.6,0.722,fly ash,57561.7,187921.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-014,2023,R12,SOCCSKSARGEN,Synthetic Cement Plant 14,384850.5,0.792,ground granulated blast-furnace slag,57230.3,304801.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-015,2023,R01,Ilocos Region,Synthetic Cement Plant 15,389737.8,0.707,natural pozzolan,62679.4,275544.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2023-016,2023,R05,Bicol Region,Synthetic Cement Plant 16,181196.3,0.727,calcined clay,25799.3,131729.7,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-001,2024,CAR,Cordillera Administrative Region,Synthetic Cement Plant 01,406380.5,0.688,fly ash,71777.1,279589.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-002,2024,MIMAROPA,MIMAROPA Region,Synthetic Cement Plant 02,325580.8,0.636,ground granulated blast-furnace slag,91402.7,207069.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-003,2024,R09,Zamboanga Peninsula,Synthetic Cement Plant 03,266865.8,0.813,natural pozzolan,40519.1,216961.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-004,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Cement Plant 04,389144,0.666,calcined clay,88209.6,259169.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-005,2024,R03,Central Luzon,Synthetic Cement Plant 05,398743.4,0.632,fly ash,79738.4,252005.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-006,2024,R07,Central Visayas,Synthetic Cement Plant 06,386885.6,0.677,ground granulated blast-furnace slag,59034.8,261921.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-007,2024,R12,SOCCSKSARGEN,Synthetic Cement Plant 07,335434.3,0.811,natural pozzolan,47701.7,272037.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-008,2024,R01,Ilocos Region,Synthetic Cement Plant 08,358361.4,0.708,calcined clay,49027,253719.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-009,2024,R05,Bicol Region,Synthetic Cement Plant 09,331063,0.803,fly ash,47372,265843.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-010,2024,R10,Northern Mindanao,Synthetic Cement Plant 10,304069.3,0.683,ground granulated blast-furnace slag,46558.5,207679.3,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-011,2024,NCR,National Capital Region,Synthetic Cement Plant 11,248063.8,0.633,natural pozzolan,72398.7,157024.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-012,2024,R04A,CALABARZON,Synthetic Cement Plant 12,158756,0.739,calcined clay,20540.5,117320.7,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-013,2024,R08,Eastern Visayas,Synthetic Cement Plant 13,330297.9,0.798,fly ash,49497.7,263577.7,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-014,2024,R13,Caraga,Synthetic Cement Plant 14,160375.7,0.727,ground granulated blast-furnace slag,30196,116593.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-015,2024,R02,Cagayan Valley,Synthetic Cement Plant 15,255314.6,0.59,natural pozzolan,84305.2,150635.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2024-016,2024,R06,Western Visayas,Synthetic Cement Plant 16,381919.7,0.635,calcined clay,103857.3,242519,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-001,2025,R01,Ilocos Region,Synthetic Cement Plant 01,41363.2,0.664,fly ash,7503.6,27465.2,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-002,2025,R05,Bicol Region,Synthetic Cement Plant 02,60881.9,0.783,ground granulated blast-furnace slag,9893.4,47670.5,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-003,2025,R10,Northern Mindanao,Synthetic Cement Plant 03,241618.7,0.666,natural pozzolan,65435,160918.1,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-004,2025,NCR,National Capital Region,Synthetic Cement Plant 04,175722.6,0.582,calcined clay,33668.8,102270.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-005,2025,R04A,CALABARZON,Synthetic Cement Plant 05,284236.9,0.66,fly ash,76808,187596.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-006,2025,R08,Eastern Visayas,Synthetic Cement Plant 06,36156.4,0.649,ground granulated blast-furnace slag,6015,23465.5,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-007,2025,R13,Caraga,Synthetic Cement Plant 07,100292.8,0.712,natural pozzolan,22664.9,71408.5,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-008,2025,R02,Cagayan Valley,Synthetic Cement Plant 08,125968.9,0.688,calcined clay,24051.7,86666.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-009,2025,R06,Western Visayas,Synthetic Cement Plant 09,387035.1,0.627,fly ash,73216,242671,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-010,2025,R11,Davao Region,Synthetic Cement Plant 10,118291.1,0.582,ground granulated blast-furnace slag,26495.9,68845.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-011,2025,CAR,Cordillera Administrative Region,Synthetic Cement Plant 11,170639.7,0.661,natural pozzolan,42092.4,112792.8,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-012,2025,MIMAROPA,MIMAROPA Region,Synthetic Cement Plant 12,144745.7,0.657,calcined clay,37363.3,95097.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-013,2025,R09,Zamboanga Peninsula,Synthetic Cement Plant 13,312109,0.801,fly ash,34578.7,249999.3,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-014,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Cement Plant 14,43203.8,0.787,ground granulated blast-furnace slag,5117.7,34001.4,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-015,2025,R03,Central Luzon,Synthetic Cement Plant 15,400815.2,0.807,natural pozzolan,51578.6,323457.9,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1
+SCM-2025-016,2025,R07,Central Visayas,Synthetic Cement Plant 16,39837.2,0.623,calcined clay,7320,24818.6,DENR-EMB / industry submissions,SYNTHETIC_DEMO,2.A.1

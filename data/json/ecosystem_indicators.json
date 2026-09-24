@@ -1,0 +1,172 @@
+[
+  {
+    "year": 2025,
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "forest_cover_pct_land_area": 1,
+    "mangrove_area_kha": 3.6,
+    "protected_area_pct_land_area": 5.8,
+    "watershed_condition_index": 73.1,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "forest_cover_pct_land_area": 22.3,
+    "mangrove_area_kha": 0,
+    "protected_area_pct_land_area": 3.8,
+    "watershed_condition_index": 81.8,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "forest_cover_pct_land_area": 31.1,
+    "mangrove_area_kha": 0.3,
+    "protected_area_pct_land_area": 2.7,
+    "watershed_condition_index": 49.2,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "forest_cover_pct_land_area": 26.8,
+    "mangrove_area_kha": 5.1,
+    "protected_area_pct_land_area": 3.8,
+    "watershed_condition_index": 54.1,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "forest_cover_pct_land_area": 19.2,
+    "mangrove_area_kha": 6.8,
+    "protected_area_pct_land_area": 8.3,
+    "watershed_condition_index": 62.1,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "forest_cover_pct_land_area": 7.8,
+    "mangrove_area_kha": 2.3,
+    "protected_area_pct_land_area": 16.3,
+    "watershed_condition_index": 79.7,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "forest_cover_pct_land_area": 6.8,
+    "mangrove_area_kha": 2.2,
+    "protected_area_pct_land_area": 16.6,
+    "watershed_condition_index": 85.3,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "forest_cover_pct_land_area": 30.5,
+    "mangrove_area_kha": 2.5,
+    "protected_area_pct_land_area": 15.6,
+    "watershed_condition_index": 64.0,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "forest_cover_pct_land_area": 20.2,
+    "mangrove_area_kha": 4.4,
+    "protected_area_pct_land_area": 5.9,
+    "watershed_condition_index": 61.1,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "forest_cover_pct_land_area": 27.7,
+    "mangrove_area_kha": 2.3,
+    "protected_area_pct_land_area": 21.5,
+    "watershed_condition_index": 75.8,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "forest_cover_pct_land_area": 13.5,
+    "mangrove_area_kha": 4.9,
+    "protected_area_pct_land_area": 8.8,
+    "watershed_condition_index": 49.3,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "forest_cover_pct_land_area": 13.4,
+    "mangrove_area_kha": 3.8,
+    "protected_area_pct_land_area": 15.2,
+    "watershed_condition_index": 42.1,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "forest_cover_pct_land_area": 11.7,
+    "mangrove_area_kha": 5.1,
+    "protected_area_pct_land_area": 10.6,
+    "watershed_condition_index": 50.0,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "forest_cover_pct_land_area": 5.1,
+    "mangrove_area_kha": 0.7,
+    "protected_area_pct_land_area": 11.1,
+    "watershed_condition_index": 73.0,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "forest_cover_pct_land_area": 18.4,
+    "mangrove_area_kha": 0.8,
+    "protected_area_pct_land_area": 13.0,
+    "watershed_condition_index": 56.1,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "forest_cover_pct_land_area": 15.1,
+    "mangrove_area_kha": 3.7,
+    "protected_area_pct_land_area": 13.6,
+    "watershed_condition_index": 48.4,
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "year": 2025,
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "forest_cover_pct_land_area": 11.1,
+    "mangrove_area_kha": 0.6,
+    "protected_area_pct_land_area": 20.0,
+    "watershed_condition_index": 59.5,
+    "data_status": "SYNTHETIC"
+  }
+]

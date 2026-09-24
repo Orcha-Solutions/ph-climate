@@ -1,0 +1,721 @@
+record_id,year,quarter,facility_id,region_code,region_name,scope1_proxy_tco2e,method,data_status
+EC-2021Q1-001,2021,1,MGB-FAC-001,R04A,CALABARZON,336.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-002,2021,1,MGB-FAC-002,R08,Eastern Visayas,448.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-003,2021,1,MGB-FAC-003,R13,Caraga,4217.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-004,2021,1,MGB-FAC-004,R02,Cagayan Valley,492.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-005,2021,1,MGB-FAC-005,R06,Western Visayas,279.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-006,2021,1,MGB-FAC-006,R11,Davao Region,274.17,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-007,2021,1,MGB-FAC-007,CAR,Cordillera Administrative Region,4048.36,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-008,2021,1,MGB-FAC-008,MIMAROPA,MIMAROPA Region,256.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-009,2021,1,MGB-FAC-009,R09,Zamboanga Peninsula,261.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-010,2021,1,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,1149.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-011,2021,1,MGB-FAC-011,R03,Central Luzon,411.91,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-012,2021,1,MGB-FAC-012,R07,Central Visayas,240.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-013,2021,1,MGB-FAC-013,R12,SOCCSKSARGEN,119.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-014,2021,1,MGB-FAC-014,R01,Ilocos Region,4407.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-015,2021,1,MGB-FAC-015,R05,Bicol Region,257.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-016,2021,1,MGB-FAC-016,R10,Northern Mindanao,506.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-017,2021,1,MGB-FAC-017,NCR,National Capital Region,3837.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-018,2021,1,MGB-FAC-018,R04A,CALABARZON,241.17,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-019,2021,1,MGB-FAC-019,R08,Eastern Visayas,397.71,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-020,2021,1,MGB-FAC-020,R13,Caraga,150.93,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-021,2021,1,MGB-FAC-021,R02,Cagayan Valley,690.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-022,2021,1,MGB-FAC-022,R06,Western Visayas,246.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-023,2021,1,MGB-FAC-023,R11,Davao Region,321.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-024,2021,1,MGB-FAC-024,CAR,Cordillera Administrative Region,1941.94,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-025,2021,1,MGB-FAC-025,MIMAROPA,MIMAROPA Region,355.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-026,2021,1,MGB-FAC-026,R09,Zamboanga Peninsula,371.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-027,2021,1,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,482.96,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-028,2021,1,MGB-FAC-028,R03,Central Luzon,3308.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-029,2021,1,MGB-FAC-029,R07,Central Visayas,453.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-030,2021,1,MGB-FAC-030,R12,SOCCSKSARGEN,135.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-031,2021,1,MGB-FAC-031,R01,Ilocos Region,2523.61,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-032,2021,1,MGB-FAC-032,R05,Bicol Region,338.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-033,2021,1,MGB-FAC-033,R10,Northern Mindanao,472.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-034,2021,1,MGB-FAC-034,NCR,National Capital Region,221.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-035,2021,1,MGB-FAC-035,R04A,CALABARZON,4997.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q1-036,2021,1,MGB-FAC-036,R08,Eastern Visayas,319.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-001,2021,2,MGB-FAC-001,R04A,CALABARZON,14.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-002,2021,2,MGB-FAC-002,R08,Eastern Visayas,315.23,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-003,2021,2,MGB-FAC-003,R13,Caraga,3633.54,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-004,2021,2,MGB-FAC-004,R02,Cagayan Valley,192.73,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-005,2021,2,MGB-FAC-005,R06,Western Visayas,322.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-006,2021,2,MGB-FAC-006,R11,Davao Region,246.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-007,2021,2,MGB-FAC-007,CAR,Cordillera Administrative Region,3979.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-008,2021,2,MGB-FAC-008,MIMAROPA,MIMAROPA Region,52.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-009,2021,2,MGB-FAC-009,R09,Zamboanga Peninsula,308.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-010,2021,2,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,5678.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-011,2021,2,MGB-FAC-011,R03,Central Luzon,381.1,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-012,2021,2,MGB-FAC-012,R07,Central Visayas,91.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-013,2021,2,MGB-FAC-013,R12,SOCCSKSARGEN,392.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-014,2021,2,MGB-FAC-014,R01,Ilocos Region,544.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-015,2021,2,MGB-FAC-015,R05,Bicol Region,483.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-016,2021,2,MGB-FAC-016,R10,Northern Mindanao,191.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-017,2021,2,MGB-FAC-017,NCR,National Capital Region,1401.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-018,2021,2,MGB-FAC-018,R04A,CALABARZON,346.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-019,2021,2,MGB-FAC-019,R08,Eastern Visayas,107.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-020,2021,2,MGB-FAC-020,R13,Caraga,93.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-021,2021,2,MGB-FAC-021,R02,Cagayan Valley,315.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-022,2021,2,MGB-FAC-022,R06,Western Visayas,528.69,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-023,2021,2,MGB-FAC-023,R11,Davao Region,272.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-024,2021,2,MGB-FAC-024,CAR,Cordillera Administrative Region,1015.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-025,2021,2,MGB-FAC-025,MIMAROPA,MIMAROPA Region,440.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-026,2021,2,MGB-FAC-026,R09,Zamboanga Peninsula,320.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-027,2021,2,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,53.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-028,2021,2,MGB-FAC-028,R03,Central Luzon,2923.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-029,2021,2,MGB-FAC-029,R07,Central Visayas,474.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-030,2021,2,MGB-FAC-030,R12,SOCCSKSARGEN,459.08,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-031,2021,2,MGB-FAC-031,R01,Ilocos Region,5687.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-032,2021,2,MGB-FAC-032,R05,Bicol Region,86.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-033,2021,2,MGB-FAC-033,R10,Northern Mindanao,202.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-034,2021,2,MGB-FAC-034,NCR,National Capital Region,259.75,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-035,2021,2,MGB-FAC-035,R04A,CALABARZON,4218.63,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q2-036,2021,2,MGB-FAC-036,R08,Eastern Visayas,388.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-001,2021,3,MGB-FAC-001,R04A,CALABARZON,529.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-002,2021,3,MGB-FAC-002,R08,Eastern Visayas,521.42,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-003,2021,3,MGB-FAC-003,R13,Caraga,3745.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-004,2021,3,MGB-FAC-004,R02,Cagayan Valley,152.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-005,2021,3,MGB-FAC-005,R06,Western Visayas,259.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-006,2021,3,MGB-FAC-006,R11,Davao Region,287.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-007,2021,3,MGB-FAC-007,CAR,Cordillera Administrative Region,3801.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-008,2021,3,MGB-FAC-008,MIMAROPA,MIMAROPA Region,99.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-009,2021,3,MGB-FAC-009,R09,Zamboanga Peninsula,107.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-010,2021,3,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4579.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-011,2021,3,MGB-FAC-011,R03,Central Luzon,288.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-012,2021,3,MGB-FAC-012,R07,Central Visayas,187.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-013,2021,3,MGB-FAC-013,R12,SOCCSKSARGEN,436.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-014,2021,3,MGB-FAC-014,R01,Ilocos Region,1122.67,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-015,2021,3,MGB-FAC-015,R05,Bicol Region,355.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-016,2021,3,MGB-FAC-016,R10,Northern Mindanao,145.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-017,2021,3,MGB-FAC-017,NCR,National Capital Region,4695.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-018,2021,3,MGB-FAC-018,R04A,CALABARZON,477.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-019,2021,3,MGB-FAC-019,R08,Eastern Visayas,49.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-020,2021,3,MGB-FAC-020,R13,Caraga,444.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-021,2021,3,MGB-FAC-021,R02,Cagayan Valley,6092.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-022,2021,3,MGB-FAC-022,R06,Western Visayas,310.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-023,2021,3,MGB-FAC-023,R11,Davao Region,336,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-024,2021,3,MGB-FAC-024,CAR,Cordillera Administrative Region,2557.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-025,2021,3,MGB-FAC-025,MIMAROPA,MIMAROPA Region,386.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-026,2021,3,MGB-FAC-026,R09,Zamboanga Peninsula,526.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-027,2021,3,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,52.13,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-028,2021,3,MGB-FAC-028,R03,Central Luzon,2326.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-029,2021,3,MGB-FAC-029,R07,Central Visayas,244.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-030,2021,3,MGB-FAC-030,R12,SOCCSKSARGEN,74.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-031,2021,3,MGB-FAC-031,R01,Ilocos Region,2608.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-032,2021,3,MGB-FAC-032,R05,Bicol Region,432.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-033,2021,3,MGB-FAC-033,R10,Northern Mindanao,433.42,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-034,2021,3,MGB-FAC-034,NCR,National Capital Region,164.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-035,2021,3,MGB-FAC-035,R04A,CALABARZON,5870.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q3-036,2021,3,MGB-FAC-036,R08,Eastern Visayas,92.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-001,2021,4,MGB-FAC-001,R04A,CALABARZON,377.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-002,2021,4,MGB-FAC-002,R08,Eastern Visayas,477.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-003,2021,4,MGB-FAC-003,R13,Caraga,5544.76,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-004,2021,4,MGB-FAC-004,R02,Cagayan Valley,500.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-005,2021,4,MGB-FAC-005,R06,Western Visayas,195.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-006,2021,4,MGB-FAC-006,R11,Davao Region,513.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-007,2021,4,MGB-FAC-007,CAR,Cordillera Administrative Region,3725.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-008,2021,4,MGB-FAC-008,MIMAROPA,MIMAROPA Region,207.79,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-009,2021,4,MGB-FAC-009,R09,Zamboanga Peninsula,318.88,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-010,2021,4,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4199.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-011,2021,4,MGB-FAC-011,R03,Central Luzon,255.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-012,2021,4,MGB-FAC-012,R07,Central Visayas,241.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-013,2021,4,MGB-FAC-013,R12,SOCCSKSARGEN,453.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-014,2021,4,MGB-FAC-014,R01,Ilocos Region,1860.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-015,2021,4,MGB-FAC-015,R05,Bicol Region,424.54,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-016,2021,4,MGB-FAC-016,R10,Northern Mindanao,93.06,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-017,2021,4,MGB-FAC-017,NCR,National Capital Region,1888.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-018,2021,4,MGB-FAC-018,R04A,CALABARZON,151.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-019,2021,4,MGB-FAC-019,R08,Eastern Visayas,527.06,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-020,2021,4,MGB-FAC-020,R13,Caraga,280.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-021,2021,4,MGB-FAC-021,R02,Cagayan Valley,3846.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-022,2021,4,MGB-FAC-022,R06,Western Visayas,498.79,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-023,2021,4,MGB-FAC-023,R11,Davao Region,342.45,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-024,2021,4,MGB-FAC-024,CAR,Cordillera Administrative Region,5374,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-025,2021,4,MGB-FAC-025,MIMAROPA,MIMAROPA Region,70.75,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-026,2021,4,MGB-FAC-026,R09,Zamboanga Peninsula,503.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-027,2021,4,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,194.56,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-028,2021,4,MGB-FAC-028,R03,Central Luzon,5781.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-029,2021,4,MGB-FAC-029,R07,Central Visayas,500.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-030,2021,4,MGB-FAC-030,R12,SOCCSKSARGEN,208.71,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-031,2021,4,MGB-FAC-031,R01,Ilocos Region,5646.66,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-032,2021,4,MGB-FAC-032,R05,Bicol Region,508.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-033,2021,4,MGB-FAC-033,R10,Northern Mindanao,329.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-034,2021,4,MGB-FAC-034,NCR,National Capital Region,493.94,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-035,2021,4,MGB-FAC-035,R04A,CALABARZON,929.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2021Q4-036,2021,4,MGB-FAC-036,R08,Eastern Visayas,35.09,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-001,2022,1,MGB-FAC-001,R04A,CALABARZON,23.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-002,2022,1,MGB-FAC-002,R08,Eastern Visayas,449.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-003,2022,1,MGB-FAC-003,R13,Caraga,4420.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-004,2022,1,MGB-FAC-004,R02,Cagayan Valley,280.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-005,2022,1,MGB-FAC-005,R06,Western Visayas,449.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-006,2022,1,MGB-FAC-006,R11,Davao Region,169.51,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-007,2022,1,MGB-FAC-007,CAR,Cordillera Administrative Region,5921.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-008,2022,1,MGB-FAC-008,MIMAROPA,MIMAROPA Region,383.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-009,2022,1,MGB-FAC-009,R09,Zamboanga Peninsula,441.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-010,2022,1,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,5561.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-011,2022,1,MGB-FAC-011,R03,Central Luzon,269.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-012,2022,1,MGB-FAC-012,R07,Central Visayas,211.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-013,2022,1,MGB-FAC-013,R12,SOCCSKSARGEN,241.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-014,2022,1,MGB-FAC-014,R01,Ilocos Region,3975.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-015,2022,1,MGB-FAC-015,R05,Bicol Region,262.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-016,2022,1,MGB-FAC-016,R10,Northern Mindanao,420.08,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-017,2022,1,MGB-FAC-017,NCR,National Capital Region,5958.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-018,2022,1,MGB-FAC-018,R04A,CALABARZON,221.81,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-019,2022,1,MGB-FAC-019,R08,Eastern Visayas,485.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-020,2022,1,MGB-FAC-020,R13,Caraga,225.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-021,2022,1,MGB-FAC-021,R02,Cagayan Valley,2372.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-022,2022,1,MGB-FAC-022,R06,Western Visayas,336.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-023,2022,1,MGB-FAC-023,R11,Davao Region,546.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-024,2022,1,MGB-FAC-024,CAR,Cordillera Administrative Region,1051.13,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-025,2022,1,MGB-FAC-025,MIMAROPA,MIMAROPA Region,155.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-026,2022,1,MGB-FAC-026,R09,Zamboanga Peninsula,341.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-027,2022,1,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,442.14,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-028,2022,1,MGB-FAC-028,R03,Central Luzon,1640.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-029,2022,1,MGB-FAC-029,R07,Central Visayas,111.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-030,2022,1,MGB-FAC-030,R12,SOCCSKSARGEN,309.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-031,2022,1,MGB-FAC-031,R01,Ilocos Region,3167.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-032,2022,1,MGB-FAC-032,R05,Bicol Region,367.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-033,2022,1,MGB-FAC-033,R10,Northern Mindanao,221.08,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-034,2022,1,MGB-FAC-034,NCR,National Capital Region,363.06,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-035,2022,1,MGB-FAC-035,R04A,CALABARZON,4643.41,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q1-036,2022,1,MGB-FAC-036,R08,Eastern Visayas,86.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-001,2022,2,MGB-FAC-001,R04A,CALABARZON,524.13,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-002,2022,2,MGB-FAC-002,R08,Eastern Visayas,73.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-003,2022,2,MGB-FAC-003,R13,Caraga,5424.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-004,2022,2,MGB-FAC-004,R02,Cagayan Valley,425.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-005,2022,2,MGB-FAC-005,R06,Western Visayas,249.67,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-006,2022,2,MGB-FAC-006,R11,Davao Region,263.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-007,2022,2,MGB-FAC-007,CAR,Cordillera Administrative Region,3027.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-008,2022,2,MGB-FAC-008,MIMAROPA,MIMAROPA Region,328.14,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-009,2022,2,MGB-FAC-009,R09,Zamboanga Peninsula,390.61,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-010,2022,2,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,3731.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-011,2022,2,MGB-FAC-011,R03,Central Luzon,195.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-012,2022,2,MGB-FAC-012,R07,Central Visayas,184.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-013,2022,2,MGB-FAC-013,R12,SOCCSKSARGEN,99.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-014,2022,2,MGB-FAC-014,R01,Ilocos Region,3997.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-015,2022,2,MGB-FAC-015,R05,Bicol Region,347.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-016,2022,2,MGB-FAC-016,R10,Northern Mindanao,330.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-017,2022,2,MGB-FAC-017,NCR,National Capital Region,3082.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-018,2022,2,MGB-FAC-018,R04A,CALABARZON,229.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-019,2022,2,MGB-FAC-019,R08,Eastern Visayas,195.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-020,2022,2,MGB-FAC-020,R13,Caraga,252.96,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-021,2022,2,MGB-FAC-021,R02,Cagayan Valley,3396.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-022,2022,2,MGB-FAC-022,R06,Western Visayas,205.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-023,2022,2,MGB-FAC-023,R11,Davao Region,272.66,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-024,2022,2,MGB-FAC-024,CAR,Cordillera Administrative Region,830.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-025,2022,2,MGB-FAC-025,MIMAROPA,MIMAROPA Region,295.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-026,2022,2,MGB-FAC-026,R09,Zamboanga Peninsula,272.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-027,2022,2,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,174.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-028,2022,2,MGB-FAC-028,R03,Central Luzon,3470.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-029,2022,2,MGB-FAC-029,R07,Central Visayas,375.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-030,2022,2,MGB-FAC-030,R12,SOCCSKSARGEN,347.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-031,2022,2,MGB-FAC-031,R01,Ilocos Region,4898.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-032,2022,2,MGB-FAC-032,R05,Bicol Region,98.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-033,2022,2,MGB-FAC-033,R10,Northern Mindanao,438.48,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-034,2022,2,MGB-FAC-034,NCR,National Capital Region,325.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-035,2022,2,MGB-FAC-035,R04A,CALABARZON,1030.1,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q2-036,2022,2,MGB-FAC-036,R08,Eastern Visayas,371.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-001,2022,3,MGB-FAC-001,R04A,CALABARZON,153.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-002,2022,3,MGB-FAC-002,R08,Eastern Visayas,423.1,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-003,2022,3,MGB-FAC-003,R13,Caraga,6324.66,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-004,2022,3,MGB-FAC-004,R02,Cagayan Valley,490.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-005,2022,3,MGB-FAC-005,R06,Western Visayas,199.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-006,2022,3,MGB-FAC-006,R11,Davao Region,198.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-007,2022,3,MGB-FAC-007,CAR,Cordillera Administrative Region,4767.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-008,2022,3,MGB-FAC-008,MIMAROPA,MIMAROPA Region,432.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-009,2022,3,MGB-FAC-009,R09,Zamboanga Peninsula,186.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-010,2022,3,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4685.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-011,2022,3,MGB-FAC-011,R03,Central Luzon,497,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-012,2022,3,MGB-FAC-012,R07,Central Visayas,200.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-013,2022,3,MGB-FAC-013,R12,SOCCSKSARGEN,338,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-014,2022,3,MGB-FAC-014,R01,Ilocos Region,3400.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-015,2022,3,MGB-FAC-015,R05,Bicol Region,367.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-016,2022,3,MGB-FAC-016,R10,Northern Mindanao,213.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-017,2022,3,MGB-FAC-017,NCR,National Capital Region,899.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-018,2022,3,MGB-FAC-018,R04A,CALABARZON,250.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-019,2022,3,MGB-FAC-019,R08,Eastern Visayas,283.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-020,2022,3,MGB-FAC-020,R13,Caraga,408.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-021,2022,3,MGB-FAC-021,R02,Cagayan Valley,3650.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-022,2022,3,MGB-FAC-022,R06,Western Visayas,93.54,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-023,2022,3,MGB-FAC-023,R11,Davao Region,372.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-024,2022,3,MGB-FAC-024,CAR,Cordillera Administrative Region,5509.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-025,2022,3,MGB-FAC-025,MIMAROPA,MIMAROPA Region,242.42,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-026,2022,3,MGB-FAC-026,R09,Zamboanga Peninsula,222.45,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-027,2022,3,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,371.13,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-028,2022,3,MGB-FAC-028,R03,Central Luzon,3422.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-029,2022,3,MGB-FAC-029,R07,Central Visayas,269.96,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-030,2022,3,MGB-FAC-030,R12,SOCCSKSARGEN,392.75,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-031,2022,3,MGB-FAC-031,R01,Ilocos Region,2054.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-032,2022,3,MGB-FAC-032,R05,Bicol Region,511.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-033,2022,3,MGB-FAC-033,R10,Northern Mindanao,95.17,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-034,2022,3,MGB-FAC-034,NCR,National Capital Region,80.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-035,2022,3,MGB-FAC-035,R04A,CALABARZON,722.61,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q3-036,2022,3,MGB-FAC-036,R08,Eastern Visayas,327.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-001,2022,4,MGB-FAC-001,R04A,CALABARZON,435.81,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-002,2022,4,MGB-FAC-002,R08,Eastern Visayas,84.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-003,2022,4,MGB-FAC-003,R13,Caraga,5652.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-004,2022,4,MGB-FAC-004,R02,Cagayan Valley,267.45,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-005,2022,4,MGB-FAC-005,R06,Western Visayas,88.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-006,2022,4,MGB-FAC-006,R11,Davao Region,428.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-007,2022,4,MGB-FAC-007,CAR,Cordillera Administrative Region,5240.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-008,2022,4,MGB-FAC-008,MIMAROPA,MIMAROPA Region,238.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-009,2022,4,MGB-FAC-009,R09,Zamboanga Peninsula,224.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-010,2022,4,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4085.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-011,2022,4,MGB-FAC-011,R03,Central Luzon,420.91,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-012,2022,4,MGB-FAC-012,R07,Central Visayas,61.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-013,2022,4,MGB-FAC-013,R12,SOCCSKSARGEN,423.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-014,2022,4,MGB-FAC-014,R01,Ilocos Region,5679.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-015,2022,4,MGB-FAC-015,R05,Bicol Region,176.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-016,2022,4,MGB-FAC-016,R10,Northern Mindanao,75.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-017,2022,4,MGB-FAC-017,NCR,National Capital Region,1491.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-018,2022,4,MGB-FAC-018,R04A,CALABARZON,246.36,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-019,2022,4,MGB-FAC-019,R08,Eastern Visayas,385.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-020,2022,4,MGB-FAC-020,R13,Caraga,159.91,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-021,2022,4,MGB-FAC-021,R02,Cagayan Valley,2271.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-022,2022,4,MGB-FAC-022,R06,Western Visayas,443.14,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-023,2022,4,MGB-FAC-023,R11,Davao Region,442.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-024,2022,4,MGB-FAC-024,CAR,Cordillera Administrative Region,2826.19,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-025,2022,4,MGB-FAC-025,MIMAROPA,MIMAROPA Region,502.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-026,2022,4,MGB-FAC-026,R09,Zamboanga Peninsula,66.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-027,2022,4,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,390.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-028,2022,4,MGB-FAC-028,R03,Central Luzon,2489.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-029,2022,4,MGB-FAC-029,R07,Central Visayas,248.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-030,2022,4,MGB-FAC-030,R12,SOCCSKSARGEN,229.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-031,2022,4,MGB-FAC-031,R01,Ilocos Region,2887.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-032,2022,4,MGB-FAC-032,R05,Bicol Region,61.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-033,2022,4,MGB-FAC-033,R10,Northern Mindanao,66.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-034,2022,4,MGB-FAC-034,NCR,National Capital Region,393.75,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-035,2022,4,MGB-FAC-035,R04A,CALABARZON,4628.55,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2022Q4-036,2022,4,MGB-FAC-036,R08,Eastern Visayas,293.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-001,2023,1,MGB-FAC-001,R04A,CALABARZON,531.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-002,2023,1,MGB-FAC-002,R08,Eastern Visayas,500.51,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-003,2023,1,MGB-FAC-003,R13,Caraga,1214.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-004,2023,1,MGB-FAC-004,R02,Cagayan Valley,453.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-005,2023,1,MGB-FAC-005,R06,Western Visayas,440.96,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-006,2023,1,MGB-FAC-006,R11,Davao Region,404.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-007,2023,1,MGB-FAC-007,CAR,Cordillera Administrative Region,3468.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-008,2023,1,MGB-FAC-008,MIMAROPA,MIMAROPA Region,291.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-009,2023,1,MGB-FAC-009,R09,Zamboanga Peninsula,357.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-010,2023,1,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,3738.53,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-011,2023,1,MGB-FAC-011,R03,Central Luzon,287.91,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-012,2023,1,MGB-FAC-012,R07,Central Visayas,370.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-013,2023,1,MGB-FAC-013,R12,SOCCSKSARGEN,531.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-014,2023,1,MGB-FAC-014,R01,Ilocos Region,3339.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-015,2023,1,MGB-FAC-015,R05,Bicol Region,173.54,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-016,2023,1,MGB-FAC-016,R10,Northern Mindanao,206.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-017,2023,1,MGB-FAC-017,NCR,National Capital Region,5170.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-018,2023,1,MGB-FAC-018,R04A,CALABARZON,49.76,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-019,2023,1,MGB-FAC-019,R08,Eastern Visayas,547.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-020,2023,1,MGB-FAC-020,R13,Caraga,245.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-021,2023,1,MGB-FAC-021,R02,Cagayan Valley,3404.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-022,2023,1,MGB-FAC-022,R06,Western Visayas,310.45,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-023,2023,1,MGB-FAC-023,R11,Davao Region,467.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-024,2023,1,MGB-FAC-024,CAR,Cordillera Administrative Region,2668.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-025,2023,1,MGB-FAC-025,MIMAROPA,MIMAROPA Region,453.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-026,2023,1,MGB-FAC-026,R09,Zamboanga Peninsula,190.17,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-027,2023,1,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,309.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-028,2023,1,MGB-FAC-028,R03,Central Luzon,4214.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-029,2023,1,MGB-FAC-029,R07,Central Visayas,53.55,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-030,2023,1,MGB-FAC-030,R12,SOCCSKSARGEN,197.61,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-031,2023,1,MGB-FAC-031,R01,Ilocos Region,5694.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-032,2023,1,MGB-FAC-032,R05,Bicol Region,501.51,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-033,2023,1,MGB-FAC-033,R10,Northern Mindanao,195.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-034,2023,1,MGB-FAC-034,NCR,National Capital Region,87.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-035,2023,1,MGB-FAC-035,R04A,CALABARZON,1183.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q1-036,2023,1,MGB-FAC-036,R08,Eastern Visayas,33.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-001,2023,2,MGB-FAC-001,R04A,CALABARZON,143.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-002,2023,2,MGB-FAC-002,R08,Eastern Visayas,98.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-003,2023,2,MGB-FAC-003,R13,Caraga,3191.18,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-004,2023,2,MGB-FAC-004,R02,Cagayan Valley,92.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-005,2023,2,MGB-FAC-005,R06,Western Visayas,151.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-006,2023,2,MGB-FAC-006,R11,Davao Region,363.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-007,2023,2,MGB-FAC-007,CAR,Cordillera Administrative Region,1808.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-008,2023,2,MGB-FAC-008,MIMAROPA,MIMAROPA Region,506.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-009,2023,2,MGB-FAC-009,R09,Zamboanga Peninsula,129.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-010,2023,2,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4059.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-011,2023,2,MGB-FAC-011,R03,Central Luzon,390.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-012,2023,2,MGB-FAC-012,R07,Central Visayas,240.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-013,2023,2,MGB-FAC-013,R12,SOCCSKSARGEN,70.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-014,2023,2,MGB-FAC-014,R01,Ilocos Region,2914.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-015,2023,2,MGB-FAC-015,R05,Bicol Region,85.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-016,2023,2,MGB-FAC-016,R10,Northern Mindanao,81.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-017,2023,2,MGB-FAC-017,NCR,National Capital Region,2927.36,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-018,2023,2,MGB-FAC-018,R04A,CALABARZON,390.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-019,2023,2,MGB-FAC-019,R08,Eastern Visayas,226.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-020,2023,2,MGB-FAC-020,R13,Caraga,206.06,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-021,2023,2,MGB-FAC-021,R02,Cagayan Valley,4058.93,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-022,2023,2,MGB-FAC-022,R06,Western Visayas,104.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-023,2023,2,MGB-FAC-023,R11,Davao Region,173.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-024,2023,2,MGB-FAC-024,CAR,Cordillera Administrative Region,5391.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-025,2023,2,MGB-FAC-025,MIMAROPA,MIMAROPA Region,131.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-026,2023,2,MGB-FAC-026,R09,Zamboanga Peninsula,35.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-027,2023,2,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,386.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-028,2023,2,MGB-FAC-028,R03,Central Luzon,5493.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-029,2023,2,MGB-FAC-029,R07,Central Visayas,88.79,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-030,2023,2,MGB-FAC-030,R12,SOCCSKSARGEN,403.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-031,2023,2,MGB-FAC-031,R01,Ilocos Region,1774.46,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-032,2023,2,MGB-FAC-032,R05,Bicol Region,364.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-033,2023,2,MGB-FAC-033,R10,Northern Mindanao,231.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-034,2023,2,MGB-FAC-034,NCR,National Capital Region,503.1,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-035,2023,2,MGB-FAC-035,R04A,CALABARZON,6321.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q2-036,2023,2,MGB-FAC-036,R08,Eastern Visayas,163.09,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-001,2023,3,MGB-FAC-001,R04A,CALABARZON,69.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-002,2023,3,MGB-FAC-002,R08,Eastern Visayas,221.88,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-003,2023,3,MGB-FAC-003,R13,Caraga,1769.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-004,2023,3,MGB-FAC-004,R02,Cagayan Valley,542.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-005,2023,3,MGB-FAC-005,R06,Western Visayas,302.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-006,2023,3,MGB-FAC-006,R11,Davao Region,467.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-007,2023,3,MGB-FAC-007,CAR,Cordillera Administrative Region,5608.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-008,2023,3,MGB-FAC-008,MIMAROPA,MIMAROPA Region,133.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-009,2023,3,MGB-FAC-009,R09,Zamboanga Peninsula,444.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-010,2023,3,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,2914.67,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-011,2023,3,MGB-FAC-011,R03,Central Luzon,383.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-012,2023,3,MGB-FAC-012,R07,Central Visayas,280.41,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-013,2023,3,MGB-FAC-013,R12,SOCCSKSARGEN,415.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-014,2023,3,MGB-FAC-014,R01,Ilocos Region,2186.67,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-015,2023,3,MGB-FAC-015,R05,Bicol Region,348.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-016,2023,3,MGB-FAC-016,R10,Northern Mindanao,316.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-017,2023,3,MGB-FAC-017,NCR,National Capital Region,4285.54,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-018,2023,3,MGB-FAC-018,R04A,CALABARZON,471,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-019,2023,3,MGB-FAC-019,R08,Eastern Visayas,113.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-020,2023,3,MGB-FAC-020,R13,Caraga,325.5,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-021,2023,3,MGB-FAC-021,R02,Cagayan Valley,623.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-022,2023,3,MGB-FAC-022,R06,Western Visayas,235.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-023,2023,3,MGB-FAC-023,R11,Davao Region,443.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-024,2023,3,MGB-FAC-024,CAR,Cordillera Administrative Region,2609.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-025,2023,3,MGB-FAC-025,MIMAROPA,MIMAROPA Region,87.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-026,2023,3,MGB-FAC-026,R09,Zamboanga Peninsula,343.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-027,2023,3,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,248.73,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-028,2023,3,MGB-FAC-028,R03,Central Luzon,3119.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-029,2023,3,MGB-FAC-029,R07,Central Visayas,165.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-030,2023,3,MGB-FAC-030,R12,SOCCSKSARGEN,108.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-031,2023,3,MGB-FAC-031,R01,Ilocos Region,749.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-032,2023,3,MGB-FAC-032,R05,Bicol Region,108.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-033,2023,3,MGB-FAC-033,R10,Northern Mindanao,387.18,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-034,2023,3,MGB-FAC-034,NCR,National Capital Region,457.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-035,2023,3,MGB-FAC-035,R04A,CALABARZON,2288.94,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q3-036,2023,3,MGB-FAC-036,R08,Eastern Visayas,331.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-001,2023,4,MGB-FAC-001,R04A,CALABARZON,388.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-002,2023,4,MGB-FAC-002,R08,Eastern Visayas,374.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-003,2023,4,MGB-FAC-003,R13,Caraga,6131.23,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-004,2023,4,MGB-FAC-004,R02,Cagayan Valley,51.41,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-005,2023,4,MGB-FAC-005,R06,Western Visayas,526.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-006,2023,4,MGB-FAC-006,R11,Davao Region,489.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-007,2023,4,MGB-FAC-007,CAR,Cordillera Administrative Region,4898.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-008,2023,4,MGB-FAC-008,MIMAROPA,MIMAROPA Region,375.09,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-009,2023,4,MGB-FAC-009,R09,Zamboanga Peninsula,383.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-010,2023,4,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,3691.63,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-011,2023,4,MGB-FAC-011,R03,Central Luzon,241.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-012,2023,4,MGB-FAC-012,R07,Central Visayas,321.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-013,2023,4,MGB-FAC-013,R12,SOCCSKSARGEN,294.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-014,2023,4,MGB-FAC-014,R01,Ilocos Region,4053,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-015,2023,4,MGB-FAC-015,R05,Bicol Region,389.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-016,2023,4,MGB-FAC-016,R10,Northern Mindanao,167.56,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-017,2023,4,MGB-FAC-017,NCR,National Capital Region,1954.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-018,2023,4,MGB-FAC-018,R04A,CALABARZON,395.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-019,2023,4,MGB-FAC-019,R08,Eastern Visayas,505.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-020,2023,4,MGB-FAC-020,R13,Caraga,159.51,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-021,2023,4,MGB-FAC-021,R02,Cagayan Valley,4708.5,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-022,2023,4,MGB-FAC-022,R06,Western Visayas,41.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-023,2023,4,MGB-FAC-023,R11,Davao Region,425.36,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-024,2023,4,MGB-FAC-024,CAR,Cordillera Administrative Region,6308.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-025,2023,4,MGB-FAC-025,MIMAROPA,MIMAROPA Region,509.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-026,2023,4,MGB-FAC-026,R09,Zamboanga Peninsula,426.81,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-027,2023,4,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,333.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-028,2023,4,MGB-FAC-028,R03,Central Luzon,752.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-029,2023,4,MGB-FAC-029,R07,Central Visayas,502.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-030,2023,4,MGB-FAC-030,R12,SOCCSKSARGEN,78.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-031,2023,4,MGB-FAC-031,R01,Ilocos Region,3964.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-032,2023,4,MGB-FAC-032,R05,Bicol Region,81.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-033,2023,4,MGB-FAC-033,R10,Northern Mindanao,302.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-034,2023,4,MGB-FAC-034,NCR,National Capital Region,75.13,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-035,2023,4,MGB-FAC-035,R04A,CALABARZON,4807.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2023Q4-036,2023,4,MGB-FAC-036,R08,Eastern Visayas,291.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-001,2024,1,MGB-FAC-001,R04A,CALABARZON,278.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-002,2024,1,MGB-FAC-002,R08,Eastern Visayas,523.42,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-003,2024,1,MGB-FAC-003,R13,Caraga,755.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-004,2024,1,MGB-FAC-004,R02,Cagayan Valley,352.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-005,2024,1,MGB-FAC-005,R06,Western Visayas,345.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-006,2024,1,MGB-FAC-006,R11,Davao Region,460.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-007,2024,1,MGB-FAC-007,CAR,Cordillera Administrative Region,2387.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-008,2024,1,MGB-FAC-008,MIMAROPA,MIMAROPA Region,508.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-009,2024,1,MGB-FAC-009,R09,Zamboanga Peninsula,74.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-010,2024,1,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4319.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-011,2024,1,MGB-FAC-011,R03,Central Luzon,224.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-012,2024,1,MGB-FAC-012,R07,Central Visayas,36.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-013,2024,1,MGB-FAC-013,R12,SOCCSKSARGEN,218.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-014,2024,1,MGB-FAC-014,R01,Ilocos Region,405.94,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-015,2024,1,MGB-FAC-015,R05,Bicol Region,454.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-016,2024,1,MGB-FAC-016,R10,Northern Mindanao,125.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-017,2024,1,MGB-FAC-017,NCR,National Capital Region,5565.6,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-018,2024,1,MGB-FAC-018,R04A,CALABARZON,473.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-019,2024,1,MGB-FAC-019,R08,Eastern Visayas,484.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-020,2024,1,MGB-FAC-020,R13,Caraga,150.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-021,2024,1,MGB-FAC-021,R02,Cagayan Valley,6422.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-022,2024,1,MGB-FAC-022,R06,Western Visayas,370.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-023,2024,1,MGB-FAC-023,R11,Davao Region,103.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-024,2024,1,MGB-FAC-024,CAR,Cordillera Administrative Region,2974.75,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-025,2024,1,MGB-FAC-025,MIMAROPA,MIMAROPA Region,104.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-026,2024,1,MGB-FAC-026,R09,Zamboanga Peninsula,202.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-027,2024,1,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,384.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-028,2024,1,MGB-FAC-028,R03,Central Luzon,6268.46,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-029,2024,1,MGB-FAC-029,R07,Central Visayas,458.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-030,2024,1,MGB-FAC-030,R12,SOCCSKSARGEN,117.48,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-031,2024,1,MGB-FAC-031,R01,Ilocos Region,1666.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-032,2024,1,MGB-FAC-032,R05,Bicol Region,101.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-033,2024,1,MGB-FAC-033,R10,Northern Mindanao,85.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-034,2024,1,MGB-FAC-034,NCR,National Capital Region,402.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-035,2024,1,MGB-FAC-035,R04A,CALABARZON,6219.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q1-036,2024,1,MGB-FAC-036,R08,Eastern Visayas,78.5,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-001,2024,2,MGB-FAC-001,R04A,CALABARZON,269.48,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-002,2024,2,MGB-FAC-002,R08,Eastern Visayas,176.18,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-003,2024,2,MGB-FAC-003,R13,Caraga,5412.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-004,2024,2,MGB-FAC-004,R02,Cagayan Valley,112.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-005,2024,2,MGB-FAC-005,R06,Western Visayas,424.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-006,2024,2,MGB-FAC-006,R11,Davao Region,468.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-007,2024,2,MGB-FAC-007,CAR,Cordillera Administrative Region,5381.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-008,2024,2,MGB-FAC-008,MIMAROPA,MIMAROPA Region,199.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-009,2024,2,MGB-FAC-009,R09,Zamboanga Peninsula,315.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-010,2024,2,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,2560.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-011,2024,2,MGB-FAC-011,R03,Central Luzon,438.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-012,2024,2,MGB-FAC-012,R07,Central Visayas,459.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-013,2024,2,MGB-FAC-013,R12,SOCCSKSARGEN,159.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-014,2024,2,MGB-FAC-014,R01,Ilocos Region,3428.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-015,2024,2,MGB-FAC-015,R05,Bicol Region,318.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-016,2024,2,MGB-FAC-016,R10,Northern Mindanao,441.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-017,2024,2,MGB-FAC-017,NCR,National Capital Region,5706.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-018,2024,2,MGB-FAC-018,R04A,CALABARZON,223.26,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-019,2024,2,MGB-FAC-019,R08,Eastern Visayas,34.14,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-020,2024,2,MGB-FAC-020,R13,Caraga,442.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-021,2024,2,MGB-FAC-021,R02,Cagayan Valley,2164.9,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-022,2024,2,MGB-FAC-022,R06,Western Visayas,298.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-023,2024,2,MGB-FAC-023,R11,Davao Region,356.96,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-024,2024,2,MGB-FAC-024,CAR,Cordillera Administrative Region,2231.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-025,2024,2,MGB-FAC-025,MIMAROPA,MIMAROPA Region,146.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-026,2024,2,MGB-FAC-026,R09,Zamboanga Peninsula,512.23,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-027,2024,2,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,197.19,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-028,2024,2,MGB-FAC-028,R03,Central Luzon,2091.69,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-029,2024,2,MGB-FAC-029,R07,Central Visayas,276.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-030,2024,2,MGB-FAC-030,R12,SOCCSKSARGEN,100.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-031,2024,2,MGB-FAC-031,R01,Ilocos Region,3062.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-032,2024,2,MGB-FAC-032,R05,Bicol Region,455.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-033,2024,2,MGB-FAC-033,R10,Northern Mindanao,181.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-034,2024,2,MGB-FAC-034,NCR,National Capital Region,402.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-035,2024,2,MGB-FAC-035,R04A,CALABARZON,6021.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q2-036,2024,2,MGB-FAC-036,R08,Eastern Visayas,441.41,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-001,2024,3,MGB-FAC-001,R04A,CALABARZON,468.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-002,2024,3,MGB-FAC-002,R08,Eastern Visayas,287.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-003,2024,3,MGB-FAC-003,R13,Caraga,2838.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-004,2024,3,MGB-FAC-004,R02,Cagayan Valley,333.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-005,2024,3,MGB-FAC-005,R06,Western Visayas,130.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-006,2024,3,MGB-FAC-006,R11,Davao Region,461.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-007,2024,3,MGB-FAC-007,CAR,Cordillera Administrative Region,3116.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-008,2024,3,MGB-FAC-008,MIMAROPA,MIMAROPA Region,154.42,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-009,2024,3,MGB-FAC-009,R09,Zamboanga Peninsula,343.53,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-010,2024,3,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,3560.81,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-011,2024,3,MGB-FAC-011,R03,Central Luzon,164.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-012,2024,3,MGB-FAC-012,R07,Central Visayas,322.08,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-013,2024,3,MGB-FAC-013,R12,SOCCSKSARGEN,339.27,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-014,2024,3,MGB-FAC-014,R01,Ilocos Region,3412.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-015,2024,3,MGB-FAC-015,R05,Bicol Region,447.73,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-016,2024,3,MGB-FAC-016,R10,Northern Mindanao,165.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-017,2024,3,MGB-FAC-017,NCR,National Capital Region,3679.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-018,2024,3,MGB-FAC-018,R04A,CALABARZON,549.14,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-019,2024,3,MGB-FAC-019,R08,Eastern Visayas,137.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-020,2024,3,MGB-FAC-020,R13,Caraga,105.61,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-021,2024,3,MGB-FAC-021,R02,Cagayan Valley,1654.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-022,2024,3,MGB-FAC-022,R06,Western Visayas,322.42,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-023,2024,3,MGB-FAC-023,R11,Davao Region,413.56,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-024,2024,3,MGB-FAC-024,CAR,Cordillera Administrative Region,924.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-025,2024,3,MGB-FAC-025,MIMAROPA,MIMAROPA Region,329.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-026,2024,3,MGB-FAC-026,R09,Zamboanga Peninsula,415.73,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-027,2024,3,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,325.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-028,2024,3,MGB-FAC-028,R03,Central Luzon,2939.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-029,2024,3,MGB-FAC-029,R07,Central Visayas,357.23,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-030,2024,3,MGB-FAC-030,R12,SOCCSKSARGEN,516.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-031,2024,3,MGB-FAC-031,R01,Ilocos Region,1375.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-032,2024,3,MGB-FAC-032,R05,Bicol Region,514.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-033,2024,3,MGB-FAC-033,R10,Northern Mindanao,342.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-034,2024,3,MGB-FAC-034,NCR,National Capital Region,354.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-035,2024,3,MGB-FAC-035,R04A,CALABARZON,4221,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q3-036,2024,3,MGB-FAC-036,R08,Eastern Visayas,515.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-001,2024,4,MGB-FAC-001,R04A,CALABARZON,111.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-002,2024,4,MGB-FAC-002,R08,Eastern Visayas,484.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-003,2024,4,MGB-FAC-003,R13,Caraga,659.75,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-004,2024,4,MGB-FAC-004,R02,Cagayan Valley,517.98,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-005,2024,4,MGB-FAC-005,R06,Western Visayas,186.72,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-006,2024,4,MGB-FAC-006,R11,Davao Region,284.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-007,2024,4,MGB-FAC-007,CAR,Cordillera Administrative Region,3834.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-008,2024,4,MGB-FAC-008,MIMAROPA,MIMAROPA Region,482.54,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-009,2024,4,MGB-FAC-009,R09,Zamboanga Peninsula,268.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-010,2024,4,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,5343.21,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-011,2024,4,MGB-FAC-011,R03,Central Luzon,86.48,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-012,2024,4,MGB-FAC-012,R07,Central Visayas,222.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-013,2024,4,MGB-FAC-013,R12,SOCCSKSARGEN,262.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-014,2024,4,MGB-FAC-014,R01,Ilocos Region,2369.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-015,2024,4,MGB-FAC-015,R05,Bicol Region,378.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-016,2024,4,MGB-FAC-016,R10,Northern Mindanao,329.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-017,2024,4,MGB-FAC-017,NCR,National Capital Region,5927.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-018,2024,4,MGB-FAC-018,R04A,CALABARZON,279.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-019,2024,4,MGB-FAC-019,R08,Eastern Visayas,454.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-020,2024,4,MGB-FAC-020,R13,Caraga,325.71,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-021,2024,4,MGB-FAC-021,R02,Cagayan Valley,5375.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-022,2024,4,MGB-FAC-022,R06,Western Visayas,84.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-023,2024,4,MGB-FAC-023,R11,Davao Region,136.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-024,2024,4,MGB-FAC-024,CAR,Cordillera Administrative Region,402.48,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-025,2024,4,MGB-FAC-025,MIMAROPA,MIMAROPA Region,478.16,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-026,2024,4,MGB-FAC-026,R09,Zamboanga Peninsula,325.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-027,2024,4,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,561.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-028,2024,4,MGB-FAC-028,R03,Central Luzon,5530.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-029,2024,4,MGB-FAC-029,R07,Central Visayas,233.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-030,2024,4,MGB-FAC-030,R12,SOCCSKSARGEN,85.5,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-031,2024,4,MGB-FAC-031,R01,Ilocos Region,3833.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-032,2024,4,MGB-FAC-032,R05,Bicol Region,435.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-033,2024,4,MGB-FAC-033,R10,Northern Mindanao,521.58,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-034,2024,4,MGB-FAC-034,NCR,National Capital Region,93.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-035,2024,4,MGB-FAC-035,R04A,CALABARZON,4901.94,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2024Q4-036,2024,4,MGB-FAC-036,R08,Eastern Visayas,498.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-001,2025,1,MGB-FAC-001,R04A,CALABARZON,143.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-002,2025,1,MGB-FAC-002,R08,Eastern Visayas,73.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-003,2025,1,MGB-FAC-003,R13,Caraga,5575.1,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-004,2025,1,MGB-FAC-004,R02,Cagayan Valley,47.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-005,2025,1,MGB-FAC-005,R06,Western Visayas,95.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-006,2025,1,MGB-FAC-006,R11,Davao Region,490.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-007,2025,1,MGB-FAC-007,CAR,Cordillera Administrative Region,2618.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-008,2025,1,MGB-FAC-008,MIMAROPA,MIMAROPA Region,66.88,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-009,2025,1,MGB-FAC-009,R09,Zamboanga Peninsula,524.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-010,2025,1,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,1233.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-011,2025,1,MGB-FAC-011,R03,Central Luzon,531.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-012,2025,1,MGB-FAC-012,R07,Central Visayas,191.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-013,2025,1,MGB-FAC-013,R12,SOCCSKSARGEN,343.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-014,2025,1,MGB-FAC-014,R01,Ilocos Region,4684.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-015,2025,1,MGB-FAC-015,R05,Bicol Region,343.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-016,2025,1,MGB-FAC-016,R10,Northern Mindanao,240.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-017,2025,1,MGB-FAC-017,NCR,National Capital Region,771.47,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-018,2025,1,MGB-FAC-018,R04A,CALABARZON,114.92,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-019,2025,1,MGB-FAC-019,R08,Eastern Visayas,280.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-020,2025,1,MGB-FAC-020,R13,Caraga,125.88,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-021,2025,1,MGB-FAC-021,R02,Cagayan Valley,4199.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-022,2025,1,MGB-FAC-022,R06,Western Visayas,423.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-023,2025,1,MGB-FAC-023,R11,Davao Region,509.4,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-024,2025,1,MGB-FAC-024,CAR,Cordillera Administrative Region,352.08,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-025,2025,1,MGB-FAC-025,MIMAROPA,MIMAROPA Region,278.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-026,2025,1,MGB-FAC-026,R09,Zamboanga Peninsula,161.35,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-027,2025,1,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,472.77,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-028,2025,1,MGB-FAC-028,R03,Central Luzon,231.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-029,2025,1,MGB-FAC-029,R07,Central Visayas,506.93,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-030,2025,1,MGB-FAC-030,R12,SOCCSKSARGEN,397.88,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-031,2025,1,MGB-FAC-031,R01,Ilocos Region,1586.78,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-032,2025,1,MGB-FAC-032,R05,Bicol Region,122.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-033,2025,1,MGB-FAC-033,R10,Northern Mindanao,175.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-034,2025,1,MGB-FAC-034,NCR,National Capital Region,477.04,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-035,2025,1,MGB-FAC-035,R04A,CALABARZON,384.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q1-036,2025,1,MGB-FAC-036,R08,Eastern Visayas,212.5,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-001,2025,2,MGB-FAC-001,R04A,CALABARZON,299.66,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-002,2025,2,MGB-FAC-002,R08,Eastern Visayas,188.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-003,2025,2,MGB-FAC-003,R13,Caraga,3225.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-004,2025,2,MGB-FAC-004,R02,Cagayan Valley,181.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-005,2025,2,MGB-FAC-005,R06,Western Visayas,265.06,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-006,2025,2,MGB-FAC-006,R11,Davao Region,452.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-007,2025,2,MGB-FAC-007,CAR,Cordillera Administrative Region,3220.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-008,2025,2,MGB-FAC-008,MIMAROPA,MIMAROPA Region,518.63,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-009,2025,2,MGB-FAC-009,R09,Zamboanga Peninsula,490.88,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-010,2025,2,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,3933.79,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-011,2025,2,MGB-FAC-011,R03,Central Luzon,250.76,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-012,2025,2,MGB-FAC-012,R07,Central Visayas,291.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-013,2025,2,MGB-FAC-013,R12,SOCCSKSARGEN,113,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-014,2025,2,MGB-FAC-014,R01,Ilocos Region,4417.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-015,2025,2,MGB-FAC-015,R05,Bicol Region,470.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-016,2025,2,MGB-FAC-016,R10,Northern Mindanao,517.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-017,2025,2,MGB-FAC-017,NCR,National Capital Region,3866.19,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-018,2025,2,MGB-FAC-018,R04A,CALABARZON,308.43,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-019,2025,2,MGB-FAC-019,R08,Eastern Visayas,64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-020,2025,2,MGB-FAC-020,R13,Caraga,334.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-021,2025,2,MGB-FAC-021,R02,Cagayan Valley,3950.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-022,2025,2,MGB-FAC-022,R06,Western Visayas,49.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-023,2025,2,MGB-FAC-023,R11,Davao Region,457.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-024,2025,2,MGB-FAC-024,CAR,Cordillera Administrative Region,118.93,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-025,2025,2,MGB-FAC-025,MIMAROPA,MIMAROPA Region,176.69,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-026,2025,2,MGB-FAC-026,R09,Zamboanga Peninsula,73.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-027,2025,2,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,240.89,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-028,2025,2,MGB-FAC-028,R03,Central Luzon,2972.33,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-029,2025,2,MGB-FAC-029,R07,Central Visayas,494.69,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-030,2025,2,MGB-FAC-030,R12,SOCCSKSARGEN,477.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-031,2025,2,MGB-FAC-031,R01,Ilocos Region,5461.2,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-032,2025,2,MGB-FAC-032,R05,Bicol Region,432.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-033,2025,2,MGB-FAC-033,R10,Northern Mindanao,545.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-034,2025,2,MGB-FAC-034,NCR,National Capital Region,555.23,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-035,2025,2,MGB-FAC-035,R04A,CALABARZON,2112.31,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q2-036,2025,2,MGB-FAC-036,R08,Eastern Visayas,521.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-001,2025,3,MGB-FAC-001,R04A,CALABARZON,243.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-002,2025,3,MGB-FAC-002,R08,Eastern Visayas,475.86,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-003,2025,3,MGB-FAC-003,R13,Caraga,2723.07,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-004,2025,3,MGB-FAC-004,R02,Cagayan Valley,72.34,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-005,2025,3,MGB-FAC-005,R06,Western Visayas,372.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-006,2025,3,MGB-FAC-006,R11,Davao Region,37.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-007,2025,3,MGB-FAC-007,CAR,Cordillera Administrative Region,5759.62,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-008,2025,3,MGB-FAC-008,MIMAROPA,MIMAROPA Region,404.25,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-009,2025,3,MGB-FAC-009,R09,Zamboanga Peninsula,483.44,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-010,2025,3,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,6368.59,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-011,2025,3,MGB-FAC-011,R03,Central Luzon,450.09,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-012,2025,3,MGB-FAC-012,R07,Central Visayas,495.82,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-013,2025,3,MGB-FAC-013,R12,SOCCSKSARGEN,232.8,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-014,2025,3,MGB-FAC-014,R01,Ilocos Region,5806.87,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-015,2025,3,MGB-FAC-015,R05,Bicol Region,332.11,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-016,2025,3,MGB-FAC-016,R10,Northern Mindanao,260.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-017,2025,3,MGB-FAC-017,NCR,National Capital Region,5303.96,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-018,2025,3,MGB-FAC-018,R04A,CALABARZON,366.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-019,2025,3,MGB-FAC-019,R08,Eastern Visayas,490.73,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-020,2025,3,MGB-FAC-020,R13,Caraga,457.15,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-021,2025,3,MGB-FAC-021,R02,Cagayan Valley,5621.24,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-022,2025,3,MGB-FAC-022,R06,Western Visayas,519.68,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-023,2025,3,MGB-FAC-023,R11,Davao Region,157.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-024,2025,3,MGB-FAC-024,CAR,Cordillera Administrative Region,3032.37,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-025,2025,3,MGB-FAC-025,MIMAROPA,MIMAROPA Region,136.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-026,2025,3,MGB-FAC-026,R09,Zamboanga Peninsula,362.66,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-027,2025,3,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,340.57,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-028,2025,3,MGB-FAC-028,R03,Central Luzon,4859.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-029,2025,3,MGB-FAC-029,R07,Central Visayas,456.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-030,2025,3,MGB-FAC-030,R12,SOCCSKSARGEN,201.71,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-031,2025,3,MGB-FAC-031,R01,Ilocos Region,4463.7,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-032,2025,3,MGB-FAC-032,R05,Bicol Region,398.55,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-033,2025,3,MGB-FAC-033,R10,Northern Mindanao,229.06,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-034,2025,3,MGB-FAC-034,NCR,National Capital Region,128.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-035,2025,3,MGB-FAC-035,R04A,CALABARZON,6151.38,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q3-036,2025,3,MGB-FAC-036,R08,Eastern Visayas,436.22,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-001,2025,4,MGB-FAC-001,R04A,CALABARZON,173.53,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-002,2025,4,MGB-FAC-002,R08,Eastern Visayas,234.55,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-003,2025,4,MGB-FAC-003,R13,Caraga,2789.36,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-004,2025,4,MGB-FAC-004,R02,Cagayan Valley,346.99,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-005,2025,4,MGB-FAC-005,R06,Western Visayas,539.29,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-006,2025,4,MGB-FAC-006,R11,Davao Region,331.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-007,2025,4,MGB-FAC-007,CAR,Cordillera Administrative Region,5947.01,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-008,2025,4,MGB-FAC-008,MIMAROPA,MIMAROPA Region,383.39,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-009,2025,4,MGB-FAC-009,R09,Zamboanga Peninsula,351.14,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-010,2025,4,MGB-FAC-010,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,4345.64,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-011,2025,4,MGB-FAC-011,R03,Central Luzon,273.51,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-012,2025,4,MGB-FAC-012,R07,Central Visayas,165.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-013,2025,4,MGB-FAC-013,R12,SOCCSKSARGEN,472.85,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-014,2025,4,MGB-FAC-014,R01,Ilocos Region,147.65,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-015,2025,4,MGB-FAC-015,R05,Bicol Region,12.12,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-016,2025,4,MGB-FAC-016,R10,Northern Mindanao,432.1,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-017,2025,4,MGB-FAC-017,NCR,National Capital Region,3098.52,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-018,2025,4,MGB-FAC-018,R04A,CALABARZON,483.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-019,2025,4,MGB-FAC-019,R08,Eastern Visayas,265.84,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-020,2025,4,MGB-FAC-020,R13,Caraga,510.32,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-021,2025,4,MGB-FAC-021,R02,Cagayan Valley,1767.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-022,2025,4,MGB-FAC-022,R06,Western Visayas,68.53,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-023,2025,4,MGB-FAC-023,R11,Davao Region,482.97,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-024,2025,4,MGB-FAC-024,CAR,Cordillera Administrative Region,1225.02,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-025,2025,4,MGB-FAC-025,MIMAROPA,MIMAROPA Region,435.95,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-026,2025,4,MGB-FAC-026,R09,Zamboanga Peninsula,257.49,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-027,2025,4,MGB-FAC-027,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,555.53,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-028,2025,4,MGB-FAC-028,R03,Central Luzon,5887.28,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-029,2025,4,MGB-FAC-029,R07,Central Visayas,384.17,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-030,2025,4,MGB-FAC-030,R12,SOCCSKSARGEN,93.08,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-031,2025,4,MGB-FAC-031,R01,Ilocos Region,4115.05,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-032,2025,4,MGB-FAC-032,R05,Bicol Region,142.3,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-033,2025,4,MGB-FAC-033,R10,Northern Mindanao,469.83,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-034,2025,4,MGB-FAC-034,NCR,National Capital Region,66.46,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-035,2025,4,MGB-FAC-035,R04A,CALABARZON,5054.74,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED
+EC-2025Q4-036,2025,4,MGB-FAC-036,R08,Eastern Visayas,188.03,PoC proxy only: fuel activity × illustrative EF; not official inventory,SYNTHETIC_DERIVED

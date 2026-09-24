@@ -1,0 +1,167 @@
+[
+  {
+    "dataset_id": "emb_pod_hfc_activity",
+    "agency": "EMB",
+    "source_unit": "Philippine Ozone Desk",
+    "dataset_title": "HFC / controlled-substance activity",
+    "records": 120,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "IPPU F-gases + provenance"
+  },
+  {
+    "dataset_id": "emb_eqmd_fgas_activity",
+    "agency": "EMB",
+    "source_unit": "EQMD / industry reporting",
+    "dataset_title": "PFC, SF6, NF3 activity",
+    "records": 100,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "IPPU electronics/electrical"
+  },
+  {
+    "dataset_id": "emb_industrial_process_activity",
+    "agency": "EMB",
+    "source_unit": "IPPU inventory team",
+    "dataset_title": "Industrial process activity",
+    "records": 140,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "IPPU process emissions"
+  },
+  {
+    "dataset_id": "emb_cement_scm_activity",
+    "agency": "EMB",
+    "source_unit": "Industry/SCMAR-type reporting",
+    "dataset_title": "Cement/clinker/SCM activity",
+    "records": 80,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "cement decarbonization"
+  },
+  {
+    "dataset_id": "emb_ods_recovery_destruction",
+    "agency": "EMB",
+    "source_unit": "POD / CHWMS",
+    "dataset_title": "ODS/HFC recovery, storage, reclamation, destruction",
+    "records": 90,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "refrigerant management"
+  },
+  {
+    "dataset_id": "emb_aqms_facility_emissions",
+    "agency": "EMB",
+    "source_unit": "AQMS / Regional Offices",
+    "dataset_title": "Facility stationary-source activity/emissions",
+    "records": 170,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "facility emissions explorer"
+  },
+  {
+    "dataset_id": "emb_regional_facility_verification",
+    "agency": "EMB",
+    "source_unit": "Regional Offices",
+    "dataset_title": "Facility GHG reporting/verification",
+    "records": 210,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "QA/QC + drill-down"
+  },
+  {
+    "dataset_id": "emb_eia_ecc_ghg_monitoring",
+    "agency": "EMB",
+    "source_unit": "EIA / Regional Offices",
+    "dataset_title": "ECC/CMR GHG-relevant monitoring",
+    "records": 120,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "EIA/ECC traceability"
+  },
+  {
+    "dataset_id": "mgb_mineral_production",
+    "agency": "MGB",
+    "source_unit": "Mineral Economics / Regional Offices",
+    "dataset_title": "Mineral production and inventory",
+    "records": 180,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "mining activity explorer"
+  },
+  {
+    "dataset_id": "mgb_energy_consumption_29_18",
+    "agency": "MGB",
+    "source_unit": "Contractors / MPP holders",
+    "dataset_title": "Quarterly Energy Consumption Report (29-18)",
+    "records": 720,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "mining energy/GHG"
+  },
+  {
+    "dataset_id": "mgb_resource_reserve_29_19",
+    "agency": "MGB",
+    "source_unit": "Contractors / permittees",
+    "dataset_title": "Annual Resource/Reserve Inventory (29-19)",
+    "records": 180,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "resource context"
+  },
+  {
+    "dataset_id": "mgb_operating_mines_quarries",
+    "agency": "MGB",
+    "source_unit": "Central/Regional Offices",
+    "dataset_title": "Directory of Operating Mines and Quarries",
+    "records": 36,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "map + registry"
+  },
+  {
+    "dataset_id": "mgb_integrated_annual_landuse",
+    "agency": "MGB",
+    "source_unit": "Contractors / permittees",
+    "dataset_title": "Integrated Annual Report / land-use footprint",
+    "records": 180,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "mining/FOLU context"
+  },
+  {
+    "dataset_id": "emb_ghg_inventory_output",
+    "agency": "DERIVED",
+    "source_unit": "PoC orchestration layer",
+    "dataset_title": "EMB synthetic inventory output",
+    "records": 85,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "executive/IPPU dashboard"
+  },
+  {
+    "dataset_id": "mgb_energy_emissions_proxy",
+    "agency": "DERIVED",
+    "source_unit": "PoC orchestration layer",
+    "dataset_title": "MGB mining fuel-emissions proxy",
+    "records": 720,
+    "coverage": "2021-2025 where applicable",
+    "geography": "Philippines / region / facility",
+    "status": "SYNTHETIC DEMO DATA",
+    "portal_use": "mining emissions explorer"
+  }
+]

@@ -1,0 +1,61 @@
+project_id,project_name,region_psgc,region_code,lead_agency,adaptation_theme,start_year,end_year,budget_php_m,physical_progress_pct,beneficiaries_est,status,data_status
+ADP-001,Resilient Watershed Rehabilitation,PH050000000,V,DA,Ecosystems,2025,2026,155.73,74.0,83490,Ongoing,SYNTHETIC
+ADP-002,Water Security and Small Impounding,PH120000000,XII,DA,Climate Information,2026,2027,323.5,57.7,149865,Ongoing,SYNTHETIC
+ADP-003,Community Early Warning Upgrade,PH030000000,III,LGU,Climate Information,2024,2025,20.24,74.8,149618,Ongoing,SYNTHETIC
+ADP-004,Community Early Warning Upgrade,PH090000000,IX,DENR,Climate Information,2025,2027,306.79,18.6,22053,Delayed,SYNTHETIC
+ADP-005,Community Early Warning Upgrade,PH140000000,CAR,DENR/FMB,Coastal,2026,2027,281.87,48.3,136206,Ongoing,SYNTHETIC
+ADP-006,Climate Information Services Expansion,PH060000000,VI,DENR/FMB,Water,2024,2025,427.51,49.0,101343,Ongoing,SYNTHETIC
+ADP-007,Solid Waste Methane Reduction,PH160000000,XIII,LGU,Coastal,2025,2027,70.72,59.9,193993,Ongoing,SYNTHETIC
+ADP-008,Solid Waste Methane Reduction,PH040000000,IV-A,DENR/BMB,Food Security,2026,2028,224.79,65.9,148564,Ongoing,SYNTHETIC
+ADP-009,Mangrove and Coastal Greenbelt,PH100000000,X,DENR/EMB,Food Security,2024,2026,424.18,57.1,217586,Ongoing,SYNTHETIC
+ADP-010,Community Early Warning Upgrade,PH010000000,I,DENR/FMB,Water,2025,2027,253.07,27.9,229120,Ongoing,SYNTHETIC
+ADP-011,Solid Waste Methane Reduction,PH070000000,VII,DPWH,Ecosystems,2026,2028,363.9,58.4,79769,Ongoing,SYNTHETIC
+ADP-012,Water Security and Small Impounding,PH190000000,BARMM,DPWH,Food Security,2024,2027,435.8,42.2,203406,Ongoing,SYNTHETIC
+ADP-013,Nature-Based River Basin Protection,PH170000000,MIMAROPA,DA,Food Security,2025,2028,202.06,82.8,219264,Ongoing,SYNTHETIC
+ADP-014,Resilient Watershed Rehabilitation,PH110000000,XI,LGU,Water,2026,2028,419.13,44.6,226774,Ongoing,SYNTHETIC
+ADP-015,Solid Waste Methane Reduction,PH020000000,II,LGU,Climate Information,2024,2027,86.79,33.4,128246,Ongoing,SYNTHETIC
+ADP-016,Urban Heat and Flood Resilience,PH080000000,VIII,DENR/EMB,Ecosystems,2025,2026,440.83,5.7,13851,Delayed,SYNTHETIC
+ADP-017,Community Early Warning Upgrade,PH130000000,NCR,DENR/EMB,Water,2026,2028,362.63,15.4,124666,Delayed,SYNTHETIC
+ADP-018,Water Security and Small Impounding,PH050000000,V,LGU,Coastal,2024,2026,431.65,40.9,206834,Ongoing,SYNTHETIC
+ADP-019,Solid Waste Methane Reduction,PH120000000,XII,DPWH,Human Settlements,2025,2026,333.27,41.4,132366,Ongoing,SYNTHETIC
+ADP-020,Climate Information Services Expansion,PH030000000,III,DENR/EMB,Climate Information,2026,2027,236.68,46.9,14917,Ongoing,SYNTHETIC
+ADP-021,Climate Information Services Expansion,PH090000000,IX,DOST-PAGASA,Coastal,2024,2026,364.82,84.8,12312,Ongoing,SYNTHETIC
+ADP-022,Urban Heat and Flood Resilience,PH140000000,CAR,DENR/EMB,Water,2025,2028,373.24,89.5,170994,Completed,SYNTHETIC
+ADP-023,Resilient Watershed Rehabilitation,PH060000000,VI,DOST-PAGASA,Food Security,2026,2028,464.09,84.5,219982,Ongoing,SYNTHETIC
+ADP-024,Climate Information Services Expansion,PH160000000,XIII,DA,Ecosystems,2024,2025,313.08,83.0,149639,Ongoing,SYNTHETIC
+ADP-025,Climate-Smart Agriculture Scale-up,PH040000000,IV-A,DPWH,Human Settlements,2025,2027,33.48,16.7,108525,Delayed,SYNTHETIC
+ADP-026,Climate-Smart Agriculture Scale-up,PH100000000,X,DA,Food Security,2026,2028,100.68,52.4,217314,Ongoing,SYNTHETIC
+ADP-027,Climate Information Services Expansion,PH010000000,I,DENR/FMB,Water,2024,2025,315.02,45.1,36799,Ongoing,SYNTHETIC
+ADP-028,Community Early Warning Upgrade,PH070000000,VII,LGU,Climate Information,2025,2028,138.68,19.9,232509,Delayed,SYNTHETIC
+ADP-029,Climate-Smart Agriculture Scale-up,PH190000000,BARMM,DOST-PAGASA,Water,2026,2028,401.68,45.2,172701,Ongoing,SYNTHETIC
+ADP-030,Community Early Warning Upgrade,PH170000000,MIMAROPA,DENR,Climate Information,2024,2025,420.48,90.9,26769,Completed,SYNTHETIC
+ADP-031,Climate-Smart Agriculture Scale-up,PH110000000,XI,DENR/FMB,Climate Information,2025,2026,324.92,51.7,64539,Ongoing,SYNTHETIC
+ADP-032,Water Security and Small Impounding,PH020000000,II,DENR/FMB,Ecosystems,2026,2028,453.83,80.2,217164,Ongoing,SYNTHETIC
+ADP-033,Climate-Smart Agriculture Scale-up,PH080000000,VIII,DENR,Food Security,2024,2026,145.24,67.4,122266,Ongoing,SYNTHETIC
+ADP-034,Mangrove and Coastal Greenbelt,PH130000000,NCR,DOST-PAGASA,Ecosystems,2025,2026,333.14,59.1,40704,Ongoing,SYNTHETIC
+ADP-035,Climate Information Services Expansion,PH050000000,V,DOST-PAGASA,Human Settlements,2026,2028,316.7,22.5,211561,Delayed,SYNTHETIC
+ADP-036,Urban Heat and Flood Resilience,PH120000000,XII,LGU,Coastal,2024,2025,214.05,76.5,222033,Ongoing,SYNTHETIC
+ADP-037,Solid Waste Methane Reduction,PH030000000,III,DPWH,Coastal,2025,2028,140.32,85.0,238980,Ongoing,SYNTHETIC
+ADP-038,Mangrove and Coastal Greenbelt,PH090000000,IX,DOST-PAGASA,Water,2026,2027,418.49,33.2,135303,Ongoing,SYNTHETIC
+ADP-039,Resilient Watershed Rehabilitation,PH140000000,CAR,DOST-PAGASA,Food Security,2024,2026,202.21,27.5,165310,Ongoing,SYNTHETIC
+ADP-040,Urban Heat and Flood Resilience,PH060000000,VI,LGU,Ecosystems,2025,2026,49.78,35.6,82751,Ongoing,SYNTHETIC
+ADP-041,Solid Waste Methane Reduction,PH160000000,XIII,DOST-PAGASA,Water,2026,2028,385.0,78.4,59093,Ongoing,SYNTHETIC
+ADP-042,Forest Fire and Drought Preparedness,PH040000000,IV-A,LGU,Water,2024,2026,366.21,13.8,167917,Delayed,SYNTHETIC
+ADP-043,Climate-Smart Agriculture Scale-up,PH100000000,X,DENR/BMB,Coastal,2025,2027,39.84,58.6,130086,Ongoing,SYNTHETIC
+ADP-044,Forest Fire and Drought Preparedness,PH010000000,I,DPWH,Coastal,2026,2027,190.57,25.3,113690,Ongoing,SYNTHETIC
+ADP-045,Community Early Warning Upgrade,PH070000000,VII,DENR/EMB,Food Security,2024,2025,232.16,33.5,162490,Ongoing,SYNTHETIC
+ADP-046,Urban Heat and Flood Resilience,PH190000000,BARMM,DOST-PAGASA,Human Settlements,2025,2027,408.7,87.5,226746,Completed,SYNTHETIC
+ADP-047,Community Early Warning Upgrade,PH170000000,MIMAROPA,DPWH,Food Security,2026,2028,50.33,26.9,68075,Ongoing,SYNTHETIC
+ADP-048,Mangrove and Coastal Greenbelt,PH110000000,XI,DENR/EMB,Human Settlements,2024,2027,337.61,86.0,161054,Completed,SYNTHETIC
+ADP-049,Climate-Smart Agriculture Scale-up,PH020000000,II,DENR/FMB,Ecosystems,2025,2028,110.79,47.1,231757,Ongoing,SYNTHETIC
+ADP-050,Community Early Warning Upgrade,PH080000000,VIII,DPWH,Human Settlements,2026,2028,28.16,44.7,223116,Ongoing,SYNTHETIC
+ADP-051,Water Security and Small Impounding,PH130000000,NCR,DPWH,Food Security,2024,2027,284.46,51.2,87397,Ongoing,SYNTHETIC
+ADP-052,Resilient Watershed Rehabilitation,PH050000000,V,DENR/FMB,Ecosystems,2025,2027,367.92,23.1,158834,Delayed,SYNTHETIC
+ADP-053,Resilient Watershed Rehabilitation,PH120000000,XII,DOST-PAGASA,Ecosystems,2026,2028,293.56,91.0,144432,Completed,SYNTHETIC
+ADP-054,Climate-Smart Agriculture Scale-up,PH030000000,III,DENR,Human Settlements,2024,2025,252.51,40.8,219123,Ongoing,SYNTHETIC
+ADP-055,Climate Information Services Expansion,PH090000000,IX,DPWH,Ecosystems,2025,2026,282.68,37.5,217376,Ongoing,SYNTHETIC
+ADP-056,Community Early Warning Upgrade,PH140000000,CAR,DENR/EMB,Food Security,2026,2027,304.07,64.1,201313,Ongoing,SYNTHETIC
+ADP-057,Mangrove and Coastal Greenbelt,PH060000000,VI,LGU,Coastal,2024,2027,365.49,71.9,131535,Ongoing,SYNTHETIC
+ADP-058,Solid Waste Methane Reduction,PH160000000,XIII,DA,Coastal,2025,2028,440.95,82.1,179381,Ongoing,SYNTHETIC
+ADP-059,Climate Information Services Expansion,PH040000000,IV-A,DENR,Climate Information,2026,2027,366.31,59.8,221636,Ongoing,SYNTHETIC
+ADP-060,Mangrove and Coastal Greenbelt,PH100000000,X,DENR/FMB,Ecosystems,2024,2025,335.91,55.5,45368,Ongoing,SYNTHETIC

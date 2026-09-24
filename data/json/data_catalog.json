@@ -1,0 +1,90 @@
+[
+  {
+    "dataset_id": "ref_regions",
+    "title": "Ref Regions",
+    "domain": "Reference",
+    "records": 17,
+    "spatial_granularity": "Region",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "ref_regions.csv"
+  },
+  {
+    "dataset_id": "ghg_inventory_region_sector",
+    "title": "Ghg Inventory Region Sector",
+    "domain": "Mitigation",
+    "records": 612,
+    "spatial_granularity": "Region",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "ghg_inventory_region_sector.csv"
+  },
+  {
+    "dataset_id": "climate_risk_region",
+    "title": "Climate Risk Region",
+    "domain": "Adaptation/Risk",
+    "records": 102,
+    "spatial_granularity": "Region",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "climate_risk_region.csv"
+  },
+  {
+    "dataset_id": "climate_finance_ccet",
+    "title": "Climate Finance Ccet",
+    "domain": "Finance",
+    "records": 680,
+    "spatial_granularity": "Region",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "climate_finance_ccet.csv"
+  },
+  {
+    "dataset_id": "ndc_pams",
+    "title": "Ndc Pams",
+    "domain": "Mitigation",
+    "records": 15,
+    "spatial_granularity": "National/Action",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "ndc_pams.csv"
+  },
+  {
+    "dataset_id": "adaptation_projects",
+    "title": "Adaptation Projects",
+    "domain": "Adaptation/Risk",
+    "records": 60,
+    "spatial_granularity": "Region",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "adaptation_projects.csv"
+  },
+  {
+    "dataset_id": "ecosystem_indicators",
+    "title": "Ecosystem Indicators",
+    "domain": "Environment/CIS",
+    "records": 17,
+    "spatial_granularity": "Region",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "ecosystem_indicators.csv"
+  },
+  {
+    "dataset_id": "climate_stations",
+    "title": "Climate Stations",
+    "domain": "Environment/CIS",
+    "records": 40,
+    "spatial_granularity": "Point",
+    "temporal_granularity": "Annual / latest",
+    "authoritative_owner_candidate": "DENR/CCC/sector agency depending on dataset",
+    "poc_status": "Synthetic demo data - NOT OFFICIAL",
+    "file": "climate_stations.csv"
+  }
+]

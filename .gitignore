@@ -1,0 +1,67 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node dependencies
+node_modules/
+*/node_modules/
+.pnpm-store/
+
+# Build and distribution outputs
+dist/
+*/dist/
+build/
+out/
+.next/
+*.tsbuildinfo
+
+# Python caches and virtual environments
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Docker and Database runtime data
+postgres_data/
+*/postgres_data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor and IDE configurations
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+scratch/
+
+
+.env

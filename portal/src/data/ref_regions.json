@@ -1,0 +1,138 @@
+[
+  {
+    "region_psgc": "PH130000000",
+    "region_code": "NCR",
+    "region_name": "National Capital Region",
+    "centroid_lat": 14.6091,
+    "centroid_lon": 121.0223,
+    "population_2020": 13484462
+  },
+  {
+    "region_psgc": "PH140000000",
+    "region_code": "CAR",
+    "region_name": "Cordillera Administrative Region",
+    "centroid_lat": 16.4023,
+    "centroid_lon": 120.596,
+    "population_2020": 1797660
+  },
+  {
+    "region_psgc": "PH010000000",
+    "region_code": "I",
+    "region_name": "Ilocos Region",
+    "centroid_lat": 16.0832,
+    "centroid_lon": 120.619,
+    "population_2020": 5301139
+  },
+  {
+    "region_psgc": "PH020000000",
+    "region_code": "II",
+    "region_name": "Cagayan Valley",
+    "centroid_lat": 16.9754,
+    "centroid_lon": 121.8107,
+    "population_2020": 3685744
+  },
+  {
+    "region_psgc": "PH030000000",
+    "region_code": "III",
+    "region_name": "Central Luzon",
+    "centroid_lat": 15.4828,
+    "centroid_lon": 120.712,
+    "population_2020": 12422172
+  },
+  {
+    "region_psgc": "PH040000000",
+    "region_code": "IV-A",
+    "region_name": "CALABARZON",
+    "centroid_lat": 14.1008,
+    "centroid_lon": 121.0794,
+    "population_2020": 16195042
+  },
+  {
+    "region_psgc": "PH170000000",
+    "region_code": "MIMAROPA",
+    "region_name": "MIMAROPA Region",
+    "centroid_lat": 12.8797,
+    "centroid_lon": 121.774,
+    "population_2020": 3228558
+  },
+  {
+    "region_psgc": "PH050000000",
+    "region_code": "V",
+    "region_name": "Bicol Region",
+    "centroid_lat": 13.4209,
+    "centroid_lon": 123.4137,
+    "population_2020": 6082165
+  },
+  {
+    "region_psgc": "PH060000000",
+    "region_code": "VI",
+    "region_name": "Western Visayas",
+    "centroid_lat": 10.7202,
+    "centroid_lon": 122.5621,
+    "population_2020": 7954723
+  },
+  {
+    "region_psgc": "PH070000000",
+    "region_code": "VII",
+    "region_name": "Central Visayas",
+    "centroid_lat": 10.3157,
+    "centroid_lon": 123.8854,
+    "population_2020": 8081988
+  },
+  {
+    "region_psgc": "PH080000000",
+    "region_code": "VIII",
+    "region_name": "Eastern Visayas",
+    "centroid_lat": 11.2443,
+    "centroid_lon": 125.0048,
+    "population_2020": 4547150
+  },
+  {
+    "region_psgc": "PH090000000",
+    "region_code": "IX",
+    "region_name": "Zamboanga Peninsula",
+    "centroid_lat": 7.8383,
+    "centroid_lon": 123.2967,
+    "population_2020": 3875576
+  },
+  {
+    "region_psgc": "PH100000000",
+    "region_code": "X",
+    "region_name": "Northern Mindanao",
+    "centroid_lat": 8.0202,
+    "centroid_lon": 124.6857,
+    "population_2020": 5022768
+  },
+  {
+    "region_psgc": "PH110000000",
+    "region_code": "XI",
+    "region_name": "Davao Region",
+    "centroid_lat": 7.1907,
+    "centroid_lon": 125.4553,
+    "population_2020": 5243536
+  },
+  {
+    "region_psgc": "PH120000000",
+    "region_code": "XII",
+    "region_name": "SOCCSKSARGEN",
+    "centroid_lat": 6.2707,
+    "centroid_lon": 124.6857,
+    "population_2020": 4901486
+  },
+  {
+    "region_psgc": "PH160000000",
+    "region_code": "XIII",
+    "region_name": "Caraga",
+    "centroid_lat": 8.8015,
+    "centroid_lon": 125.7407,
+    "population_2020": 2804788
+  },
+  {
+    "region_psgc": "PH190000000",
+    "region_code": "BARMM",
+    "region_name": "Bangsamoro Autonomous Region in Muslim Mindanao",
+    "centroid_lat": 7.2167,
+    "centroid_lon": 124.25,
+    "population_2020": 4404288
+  }
+]

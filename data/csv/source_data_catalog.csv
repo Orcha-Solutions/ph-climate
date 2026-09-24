@@ -1,0 +1,16 @@
+dataset_id,agency,source_unit,dataset_title,records,coverage,geography,status,portal_use
+emb_pod_hfc_activity,EMB,Philippine Ozone Desk,HFC / controlled-substance activity,120,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,IPPU F-gases + provenance
+emb_eqmd_fgas_activity,EMB,EQMD / industry reporting,"PFC, SF6, NF3 activity",100,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,IPPU electronics/electrical
+emb_industrial_process_activity,EMB,IPPU inventory team,Industrial process activity,140,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,IPPU process emissions
+emb_cement_scm_activity,EMB,Industry/SCMAR-type reporting,Cement/clinker/SCM activity,80,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,cement decarbonization
+emb_ods_recovery_destruction,EMB,POD / CHWMS,"ODS/HFC recovery, storage, reclamation, destruction",90,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,refrigerant management
+emb_aqms_facility_emissions,EMB,AQMS / Regional Offices,Facility stationary-source activity/emissions,170,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,facility emissions explorer
+emb_regional_facility_verification,EMB,Regional Offices,Facility GHG reporting/verification,210,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,QA/QC + drill-down
+emb_eia_ecc_ghg_monitoring,EMB,EIA / Regional Offices,ECC/CMR GHG-relevant monitoring,120,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,EIA/ECC traceability
+mgb_mineral_production,MGB,Mineral Economics / Regional Offices,Mineral production and inventory,180,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,mining activity explorer
+mgb_energy_consumption_29_18,MGB,Contractors / MPP holders,Quarterly Energy Consumption Report (29-18),720,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,mining energy/GHG
+mgb_resource_reserve_29_19,MGB,Contractors / permittees,Annual Resource/Reserve Inventory (29-19),180,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,resource context
+mgb_operating_mines_quarries,MGB,Central/Regional Offices,Directory of Operating Mines and Quarries,36,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,map + registry
+mgb_integrated_annual_landuse,MGB,Contractors / permittees,Integrated Annual Report / land-use footprint,180,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,mining/FOLU context
+emb_ghg_inventory_output,DERIVED,PoC orchestration layer,EMB synthetic inventory output,85,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,executive/IPPU dashboard
+mgb_energy_emissions_proxy,DERIVED,PoC orchestration layer,MGB mining fuel-emissions proxy,720,2021-2025 where applicable,Philippines / region / facility,SYNTHETIC DEMO DATA,mining emissions explorer

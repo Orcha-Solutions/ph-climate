@@ -1,0 +1,9 @@
+dataset_id,title,domain,records,spatial_granularity,temporal_granularity,authoritative_owner_candidate,poc_status,file
+ref_regions,Ref Regions,Reference,17,Region,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,ref_regions.csv
+ghg_inventory_region_sector,Ghg Inventory Region Sector,Mitigation,612,Region,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,ghg_inventory_region_sector.csv
+climate_risk_region,Climate Risk Region,Adaptation/Risk,102,Region,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,climate_risk_region.csv
+climate_finance_ccet,Climate Finance Ccet,Finance,680,Region,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,climate_finance_ccet.csv
+ndc_pams,Ndc Pams,Mitigation,15,National/Action,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,ndc_pams.csv
+adaptation_projects,Adaptation Projects,Adaptation/Risk,60,Region,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,adaptation_projects.csv
+ecosystem_indicators,Ecosystem Indicators,Environment/CIS,17,Region,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,ecosystem_indicators.csv
+climate_stations,Climate Stations,Environment/CIS,40,Point,Annual / latest,DENR/CCC/sector agency depending on dataset,Synthetic demo data - NOT OFFICIAL,climate_stations.csv

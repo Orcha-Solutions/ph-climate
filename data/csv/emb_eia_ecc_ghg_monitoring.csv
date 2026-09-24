@@ -1,0 +1,121 @@
+record_id,year,region_code,region_name,project,sector,ecc_reference,estimated_annual_tco2e,ghg_mitigation_commitment,cmr_status,source_office,data_status
+EIA-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 01,mining,ECC-SYN-2022-0001,59777.7,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-002,2022,CAR,Cordillera Administrative Region,Synthetic ECC Project 02,cement,ECC-SYN-2022-0002,39801.3,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-003,2022,R02,Cagayan Valley,Synthetic ECC Project 03,manufacturing,ECC-SYN-2022-0003,64831.2,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-004,2022,R04A,CALABARZON,Synthetic ECC Project 04,wastewater,ECC-SYN-2022-0004,70190,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-005,2022,R05,Bicol Region,Synthetic ECC Project 05,power,ECC-SYN-2022-0005,73642.8,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-006,2022,R07,Central Visayas,Synthetic ECC Project 06,mining,ECC-SYN-2022-0006,30509,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-007,2022,R09,Zamboanga Peninsula,Synthetic ECC Project 07,cement,ECC-SYN-2022-0007,538.2,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-008,2022,R11,Davao Region,Synthetic ECC Project 08,manufacturing,ECC-SYN-2022-0008,83035.9,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-009,2022,R13,Caraga,Synthetic ECC Project 09,wastewater,ECC-SYN-2022-0009,102074.2,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-010,2022,NCR,National Capital Region,Synthetic ECC Project 10,power,ECC-SYN-2022-0010,49025,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-011,2022,R01,Ilocos Region,Synthetic ECC Project 11,mining,ECC-SYN-2022-0011,92339.8,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-012,2022,R03,Central Luzon,Synthetic ECC Project 12,cement,ECC-SYN-2022-0012,53498.8,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-013,2022,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 13,manufacturing,ECC-SYN-2022-0013,93390.3,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-014,2022,R06,Western Visayas,Synthetic ECC Project 14,wastewater,ECC-SYN-2022-0014,113806.1,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-015,2022,R08,Eastern Visayas,Synthetic ECC Project 15,power,ECC-SYN-2022-0015,44813,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-016,2022,R10,Northern Mindanao,Synthetic ECC Project 16,mining,ECC-SYN-2022-0016,35988.8,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-017,2022,R12,SOCCSKSARGEN,Synthetic ECC Project 17,cement,ECC-SYN-2022-0017,60680.5,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 18,manufacturing,ECC-SYN-2022-0018,4527.3,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-019,2022,CAR,Cordillera Administrative Region,Synthetic ECC Project 19,wastewater,ECC-SYN-2022-0019,98150.1,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-020,2022,R02,Cagayan Valley,Synthetic ECC Project 20,power,ECC-SYN-2022-0020,34042,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-021,2022,R04A,CALABARZON,Synthetic ECC Project 21,mining,ECC-SYN-2022-0021,42644.9,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-022,2022,R05,Bicol Region,Synthetic ECC Project 22,cement,ECC-SYN-2022-0022,24435.7,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-023,2022,R07,Central Visayas,Synthetic ECC Project 23,manufacturing,ECC-SYN-2022-0023,43974.5,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-024,2022,R09,Zamboanga Peninsula,Synthetic ECC Project 24,wastewater,ECC-SYN-2022-0024,29911.2,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-025,2022,R11,Davao Region,Synthetic ECC Project 25,power,ECC-SYN-2022-0025,8556.4,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-026,2022,R13,Caraga,Synthetic ECC Project 26,mining,ECC-SYN-2022-0026,67624,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-027,2022,NCR,National Capital Region,Synthetic ECC Project 27,cement,ECC-SYN-2022-0027,75922.8,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-028,2022,R01,Ilocos Region,Synthetic ECC Project 28,manufacturing,ECC-SYN-2022-0028,51670.7,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-029,2022,R03,Central Luzon,Synthetic ECC Project 29,wastewater,ECC-SYN-2022-0029,3125.5,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2022-030,2022,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 30,power,ECC-SYN-2022-0030,55660.8,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-001,2023,NCR,National Capital Region,Synthetic ECC Project 01,mining,ECC-SYN-2023-0001,51036.4,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-002,2023,R01,Ilocos Region,Synthetic ECC Project 02,cement,ECC-SYN-2023-0002,107499.1,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-003,2023,R03,Central Luzon,Synthetic ECC Project 03,manufacturing,ECC-SYN-2023-0003,97327.6,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-004,2023,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 04,wastewater,ECC-SYN-2023-0004,20715.8,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-005,2023,R06,Western Visayas,Synthetic ECC Project 05,power,ECC-SYN-2023-0005,64655.8,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-006,2023,R08,Eastern Visayas,Synthetic ECC Project 06,mining,ECC-SYN-2023-0006,11495.5,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-007,2023,R10,Northern Mindanao,Synthetic ECC Project 07,cement,ECC-SYN-2023-0007,5745.2,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-008,2023,R12,SOCCSKSARGEN,Synthetic ECC Project 08,manufacturing,ECC-SYN-2023-0008,117839,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-009,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 09,wastewater,ECC-SYN-2023-0009,47993,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-010,2023,CAR,Cordillera Administrative Region,Synthetic ECC Project 10,power,ECC-SYN-2023-0010,70827.7,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-011,2023,R02,Cagayan Valley,Synthetic ECC Project 11,mining,ECC-SYN-2023-0011,80041.8,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-012,2023,R04A,CALABARZON,Synthetic ECC Project 12,cement,ECC-SYN-2023-0012,52202.9,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-013,2023,R05,Bicol Region,Synthetic ECC Project 13,manufacturing,ECC-SYN-2023-0013,28479.3,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-014,2023,R07,Central Visayas,Synthetic ECC Project 14,wastewater,ECC-SYN-2023-0014,111109.8,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-015,2023,R09,Zamboanga Peninsula,Synthetic ECC Project 15,power,ECC-SYN-2023-0015,108890.8,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-016,2023,R11,Davao Region,Synthetic ECC Project 16,mining,ECC-SYN-2023-0016,95030.1,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-017,2023,R13,Caraga,Synthetic ECC Project 17,cement,ECC-SYN-2023-0017,73943.7,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-018,2023,NCR,National Capital Region,Synthetic ECC Project 18,manufacturing,ECC-SYN-2023-0018,101952.8,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-019,2023,R01,Ilocos Region,Synthetic ECC Project 19,wastewater,ECC-SYN-2023-0019,32153.3,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-020,2023,R03,Central Luzon,Synthetic ECC Project 20,power,ECC-SYN-2023-0020,101875,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-021,2023,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 21,mining,ECC-SYN-2023-0021,99997.2,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-022,2023,R06,Western Visayas,Synthetic ECC Project 22,cement,ECC-SYN-2023-0022,97005.6,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-023,2023,R08,Eastern Visayas,Synthetic ECC Project 23,manufacturing,ECC-SYN-2023-0023,93418.1,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-024,2023,R10,Northern Mindanao,Synthetic ECC Project 24,wastewater,ECC-SYN-2023-0024,23293.5,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-025,2023,R12,SOCCSKSARGEN,Synthetic ECC Project 25,power,ECC-SYN-2023-0025,71789.3,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-026,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 26,mining,ECC-SYN-2023-0026,108075.1,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-027,2023,CAR,Cordillera Administrative Region,Synthetic ECC Project 27,cement,ECC-SYN-2023-0027,58889.6,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-028,2023,R02,Cagayan Valley,Synthetic ECC Project 28,manufacturing,ECC-SYN-2023-0028,68674.8,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-029,2023,R04A,CALABARZON,Synthetic ECC Project 29,wastewater,ECC-SYN-2023-0029,58371.6,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2023-030,2023,R05,Bicol Region,Synthetic ECC Project 30,power,ECC-SYN-2023-0030,45319.5,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-001,2024,CAR,Cordillera Administrative Region,Synthetic ECC Project 01,mining,ECC-SYN-2024-0001,86530,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-002,2024,R02,Cagayan Valley,Synthetic ECC Project 02,cement,ECC-SYN-2024-0002,85237.5,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-003,2024,R04A,CALABARZON,Synthetic ECC Project 03,manufacturing,ECC-SYN-2024-0003,102530.8,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-004,2024,R05,Bicol Region,Synthetic ECC Project 04,wastewater,ECC-SYN-2024-0004,38526,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-005,2024,R07,Central Visayas,Synthetic ECC Project 05,power,ECC-SYN-2024-0005,31125.6,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-006,2024,R09,Zamboanga Peninsula,Synthetic ECC Project 06,mining,ECC-SYN-2024-0006,90890.9,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-007,2024,R11,Davao Region,Synthetic ECC Project 07,cement,ECC-SYN-2024-0007,19015.9,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-008,2024,R13,Caraga,Synthetic ECC Project 08,manufacturing,ECC-SYN-2024-0008,98695.4,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-009,2024,NCR,National Capital Region,Synthetic ECC Project 09,wastewater,ECC-SYN-2024-0009,77548.1,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-010,2024,R01,Ilocos Region,Synthetic ECC Project 10,power,ECC-SYN-2024-0010,31332.1,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-011,2024,R03,Central Luzon,Synthetic ECC Project 11,mining,ECC-SYN-2024-0011,55344,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-012,2024,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 12,cement,ECC-SYN-2024-0012,52005.5,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-013,2024,R06,Western Visayas,Synthetic ECC Project 13,manufacturing,ECC-SYN-2024-0013,104182.6,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-014,2024,R08,Eastern Visayas,Synthetic ECC Project 14,wastewater,ECC-SYN-2024-0014,96562.6,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-015,2024,R10,Northern Mindanao,Synthetic ECC Project 15,power,ECC-SYN-2024-0015,12870.4,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-016,2024,R12,SOCCSKSARGEN,Synthetic ECC Project 16,mining,ECC-SYN-2024-0016,84622.1,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-017,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 17,cement,ECC-SYN-2024-0017,103203.3,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-018,2024,CAR,Cordillera Administrative Region,Synthetic ECC Project 18,manufacturing,ECC-SYN-2024-0018,13359.3,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-019,2024,R02,Cagayan Valley,Synthetic ECC Project 19,wastewater,ECC-SYN-2024-0019,3600.9,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-020,2024,R04A,CALABARZON,Synthetic ECC Project 20,power,ECC-SYN-2024-0020,110447.4,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-021,2024,R05,Bicol Region,Synthetic ECC Project 21,mining,ECC-SYN-2024-0021,33869.1,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-022,2024,R07,Central Visayas,Synthetic ECC Project 22,cement,ECC-SYN-2024-0022,90504.6,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-023,2024,R09,Zamboanga Peninsula,Synthetic ECC Project 23,manufacturing,ECC-SYN-2024-0023,20754.2,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-024,2024,R11,Davao Region,Synthetic ECC Project 24,wastewater,ECC-SYN-2024-0024,6450.3,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-025,2024,R13,Caraga,Synthetic ECC Project 25,power,ECC-SYN-2024-0025,11599.4,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-026,2024,NCR,National Capital Region,Synthetic ECC Project 26,mining,ECC-SYN-2024-0026,89886.4,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-027,2024,R01,Ilocos Region,Synthetic ECC Project 27,cement,ECC-SYN-2024-0027,21364,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-028,2024,R03,Central Luzon,Synthetic ECC Project 28,manufacturing,ECC-SYN-2024-0028,37340.1,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-029,2024,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 29,wastewater,ECC-SYN-2024-0029,32391.4,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2024-030,2024,R06,Western Visayas,Synthetic ECC Project 30,power,ECC-SYN-2024-0030,34242.7,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-001,2025,R01,Ilocos Region,Synthetic ECC Project 01,mining,ECC-SYN-2025-0001,76423.8,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-002,2025,R03,Central Luzon,Synthetic ECC Project 02,cement,ECC-SYN-2025-0002,4772,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-003,2025,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 03,manufacturing,ECC-SYN-2025-0003,70541.1,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-004,2025,R06,Western Visayas,Synthetic ECC Project 04,wastewater,ECC-SYN-2025-0004,5181.8,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-005,2025,R08,Eastern Visayas,Synthetic ECC Project 05,power,ECC-SYN-2025-0005,108058.1,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-006,2025,R10,Northern Mindanao,Synthetic ECC Project 06,mining,ECC-SYN-2025-0006,65355.3,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-007,2025,R12,SOCCSKSARGEN,Synthetic ECC Project 07,cement,ECC-SYN-2025-0007,81042.4,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-008,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 08,manufacturing,ECC-SYN-2025-0008,93720.9,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-009,2025,CAR,Cordillera Administrative Region,Synthetic ECC Project 09,wastewater,ECC-SYN-2025-0009,37263.2,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-010,2025,R02,Cagayan Valley,Synthetic ECC Project 10,power,ECC-SYN-2025-0010,100290.4,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-011,2025,R04A,CALABARZON,Synthetic ECC Project 11,mining,ECC-SYN-2025-0011,20153.8,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-012,2025,R05,Bicol Region,Synthetic ECC Project 12,cement,ECC-SYN-2025-0012,103849.4,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-013,2025,R07,Central Visayas,Synthetic ECC Project 13,manufacturing,ECC-SYN-2025-0013,76528.7,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-014,2025,R09,Zamboanga Peninsula,Synthetic ECC Project 14,wastewater,ECC-SYN-2025-0014,53940.6,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-015,2025,R11,Davao Region,Synthetic ECC Project 15,power,ECC-SYN-2025-0015,20533.7,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-016,2025,R13,Caraga,Synthetic ECC Project 16,mining,ECC-SYN-2025-0016,57263.3,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-017,2025,NCR,National Capital Region,Synthetic ECC Project 17,cement,ECC-SYN-2025-0017,37278.8,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-018,2025,R01,Ilocos Region,Synthetic ECC Project 18,manufacturing,ECC-SYN-2025-0018,37070.2,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-019,2025,R03,Central Luzon,Synthetic ECC Project 19,wastewater,ECC-SYN-2025-0019,78221.4,fuel switch,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-020,2025,MIMAROPA,MIMAROPA Region,Synthetic ECC Project 20,power,ECC-SYN-2025-0020,63194.7,refrigerant management,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-021,2025,R06,Western Visayas,Synthetic ECC Project 21,mining,ECC-SYN-2025-0021,52433.4,energy efficiency,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-022,2025,R08,Eastern Visayas,Synthetic ECC Project 22,cement,ECC-SYN-2025-0022,60125,methane capture,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-023,2025,R10,Northern Mindanao,Synthetic ECC Project 23,manufacturing,ECC-SYN-2025-0023,78408.9,fuel switch,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-024,2025,R12,SOCCSKSARGEN,Synthetic ECC Project 24,wastewater,ECC-SYN-2025-0024,40776.2,refrigerant management,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-025,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic ECC Project 25,power,ECC-SYN-2025-0025,15653,energy efficiency,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-026,2025,CAR,Cordillera Administrative Region,Synthetic ECC Project 26,mining,ECC-SYN-2025-0026,53477.9,methane capture,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-027,2025,R02,Cagayan Valley,Synthetic ECC Project 27,cement,ECC-SYN-2025-0027,116345.7,fuel switch,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-028,2025,R04A,CALABARZON,Synthetic ECC Project 28,manufacturing,ECC-SYN-2025-0028,39109.5,refrigerant management,compliant,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-029,2025,R05,Bicol Region,Synthetic ECC Project 29,wastewater,ECC-SYN-2025-0029,117819.6,energy efficiency,compliant with observations,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
+EIA-2025-030,2025,R07,Central Visayas,Synthetic ECC Project 30,power,ECC-SYN-2025-0030,46339.2,methane capture,for validation,DENR-EMB EIA / Regional Office,SYNTHETIC_DEMO
