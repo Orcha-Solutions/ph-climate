@@ -1,0 +1,7 @@
+PH Climate Data Portal PoC - Synthetic Data Workbook,
+Purpose,Developer seed data for a 3-day proof-of-concept portal deployment
+DATA WARNING,ALL OBSERVATIONS ARE SYNTHETIC / DEMONSTRATION ONLY. Do not represent as official DENR/CCC/PAGASA/PSA data.
+Geography,Philippine regions; approximate centroids; region codes for PoC joining.
+Domains,GHG mitigation; climate risk; CCET-like finance; NDC actions; adaptation projects; ecosystems; climate stations.
+As-of,2026-09-20
+Package version,v1.0

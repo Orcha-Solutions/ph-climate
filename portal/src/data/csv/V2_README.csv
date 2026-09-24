@@ -1,0 +1,6 @@
+item,detail
+Version,v2.0 — EMB + MGB source-data expansion
+Purpose,Developer-ready synthetic source/activity data plus derived outputs for the Philippine Climate Data Portal PoC.
+Warning,ALL added EMB/MGB records are synthetic demonstration data; none are official DENR/EMB/MGB/CCC/UNDP statistics.
+Traceability,"Keep source/activity tables separate from derived inventory outputs. Dashboard values must expose source dataset, record count, method, QA/QC status and data status."
+Production migration,Replace synthetic tables one-for-one with agency-curated feeds while preserving contracts and provenance.

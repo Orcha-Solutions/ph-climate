@@ -1,0 +1,171 @@
+record_id,year,region_code,region_name,facility,fuel_or_source,activity_value,activity_unit,co2_t,ch4_t,n2o_t,source_office,data_status
+AQ-2021-001,2021,R13,Caraga,Synthetic Permitted Source 01,diesel,26207.5,demo activity unit,58559.5,17.325,20.15,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-002,2021,CAR,Cordillera Administrative Region,Synthetic Permitted Source 02,fuel oil,25608.7,demo activity unit,16625.3,10.719,11.288,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-003,2021,R03,Central Luzon,Synthetic Permitted Source 03,LPG,8164.1,demo activity unit,10678.2,14.084,2.364,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-004,2021,R05,Bicol Region,Synthetic Permitted Source 04,coal,24722.9,demo activity unit,6657.3,1.138,3.534,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-005,2021,R08,Eastern Visayas,Synthetic Permitted Source 05,biomass,18012.9,demo activity unit,43402.9,45.283,39.182,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-006,2021,R11,Davao Region,Synthetic Permitted Source 06,diesel,48428.4,demo activity unit,51428.5,24.878,35.551,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-007,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 07,fuel oil,22547.2,demo activity unit,52442.7,63.092,47.386,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-008,2021,R01,Ilocos Region,Synthetic Permitted Source 08,LPG,9594.5,demo activity unit,3328.6,4.623,0.706,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-009,2021,R04A,CALABARZON,Synthetic Permitted Source 09,coal,4418.4,demo activity unit,3684.7,0.633,2.987,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-010,2021,R06,Western Visayas,Synthetic Permitted Source 10,biomass,3418,demo activity unit,9421.6,9.816,5.909,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-011,2021,R09,Zamboanga Peninsula,Synthetic Permitted Source 11,diesel,48169.2,demo activity unit,98061.3,191.125,85.004,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-012,2021,R12,SOCCSKSARGEN,Synthetic Permitted Source 12,fuel oil,48305.5,demo activity unit,22901,32.424,12.151,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-013,2021,NCR,National Capital Region,Synthetic Permitted Source 13,LPG,7327.8,demo activity unit,18656.5,29.041,17.961,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-014,2021,R02,Cagayan Valley,Synthetic Permitted Source 14,coal,47811.4,demo activity unit,6583.3,11.565,4.893,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-015,2021,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 15,biomass,15373.1,demo activity unit,22392.8,38.121,11.72,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-016,2021,R07,Central Visayas,Synthetic Permitted Source 16,diesel,48627.6,demo activity unit,99190.8,73.292,20.87,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-017,2021,R10,Northern Mindanao,Synthetic Permitted Source 17,fuel oil,19327.7,demo activity unit,2092.7,1.624,0.57,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-018,2021,R13,Caraga,Synthetic Permitted Source 18,LPG,34893.7,demo activity unit,69621.1,96.132,15.449,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-019,2021,CAR,Cordillera Administrative Region,Synthetic Permitted Source 19,coal,16255.1,demo activity unit,17289.1,18.802,8.771,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-020,2021,R03,Central Luzon,Synthetic Permitted Source 20,biomass,47586.8,demo activity unit,79185.5,24.444,27.329,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-021,2021,R05,Bicol Region,Synthetic Permitted Source 21,diesel,37541.5,demo activity unit,53879.7,85.78,16.761,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-022,2021,R08,Eastern Visayas,Synthetic Permitted Source 22,fuel oil,39349.4,demo activity unit,17783.1,3.556,11.847,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-023,2021,R11,Davao Region,Synthetic Permitted Source 23,LPG,12195.3,demo activity unit,32182.3,58.917,19.194,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-024,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 24,coal,24462.9,demo activity unit,19387.4,2.359,16.964,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-025,2021,R01,Ilocos Region,Synthetic Permitted Source 25,biomass,20632.5,demo activity unit,5131,5.184,3.491,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-026,2021,R04A,CALABARZON,Synthetic Permitted Source 26,diesel,19414.8,demo activity unit,2663.2,0.742,2.597,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-027,2021,R06,Western Visayas,Synthetic Permitted Source 27,fuel oil,19687.2,demo activity unit,38697,18.479,5.491,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-028,2021,R09,Zamboanga Peninsula,Synthetic Permitted Source 28,LPG,33584.7,demo activity unit,77687.1,57.383,76.663,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-029,2021,R12,SOCCSKSARGEN,Synthetic Permitted Source 29,coal,42311.7,demo activity unit,86027,121.677,55.362,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-030,2021,NCR,National Capital Region,Synthetic Permitted Source 30,biomass,26603.1,demo activity unit,60839,36.861,48.1,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-031,2021,R02,Cagayan Valley,Synthetic Permitted Source 31,diesel,40351.3,demo activity unit,8637,17.131,1.444,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-032,2021,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 32,fuel oil,45496.5,demo activity unit,120583.5,140.104,59.361,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-033,2021,R07,Central Visayas,Synthetic Permitted Source 33,LPG,49065.6,demo activity unit,125159.2,37.416,63.83,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2021-034,2021,R10,Northern Mindanao,Synthetic Permitted Source 34,coal,14475.2,demo activity unit,25916.4,9.76,20.646,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 01,diesel,21911.6,demo activity unit,7966.4,12.014,7.082,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-002,2022,R01,Ilocos Region,Synthetic Permitted Source 02,fuel oil,44017.5,demo activity unit,46936.1,65.657,20.471,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-003,2022,R04A,CALABARZON,Synthetic Permitted Source 03,LPG,15472.2,demo activity unit,34468.1,7.197,22.264,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-004,2022,R06,Western Visayas,Synthetic Permitted Source 04,coal,8298.4,demo activity unit,7241.2,12.081,3.429,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-005,2022,R09,Zamboanga Peninsula,Synthetic Permitted Source 05,biomass,700,demo activity unit,907.9,0.3,0.269,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-006,2022,R12,SOCCSKSARGEN,Synthetic Permitted Source 06,diesel,38675,demo activity unit,22492.2,33.929,18.558,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-007,2022,NCR,National Capital Region,Synthetic Permitted Source 07,fuel oil,11859.8,demo activity unit,2929.9,3.477,1.968,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-008,2022,R02,Cagayan Valley,Synthetic Permitted Source 08,LPG,3393.4,demo activity unit,1156.4,1.077,0.955,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-009,2022,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 09,coal,34855.4,demo activity unit,90107.7,73.046,73.094,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-010,2022,R07,Central Visayas,Synthetic Permitted Source 10,biomass,3731.3,demo activity unit,364.2,0.53,0.264,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-011,2022,R10,Northern Mindanao,Synthetic Permitted Source 11,diesel,7262.4,demo activity unit,1551.7,2.974,1.49,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-012,2022,R13,Caraga,Synthetic Permitted Source 12,fuel oil,945.4,demo activity unit,1030.5,0.339,0.081,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-013,2022,CAR,Cordillera Administrative Region,Synthetic Permitted Source 13,LPG,19062.4,demo activity unit,39399.7,30.129,18.254,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-014,2022,R03,Central Luzon,Synthetic Permitted Source 14,coal,12606.2,demo activity unit,9466.9,4.644,8.975,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-015,2022,R05,Bicol Region,Synthetic Permitted Source 15,biomass,6781.9,demo activity unit,18920.7,2.353,6.094,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-016,2022,R08,Eastern Visayas,Synthetic Permitted Source 16,diesel,29374.1,demo activity unit,20539.1,39.169,7.768,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-017,2022,R11,Davao Region,Synthetic Permitted Source 17,fuel oil,23553.6,demo activity unit,5603.2,9.855,1.01,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 18,LPG,6637.4,demo activity unit,1327.3,2.443,0.363,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-019,2022,R01,Ilocos Region,Synthetic Permitted Source 19,coal,34159.2,demo activity unit,7915.2,7.13,5.978,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-020,2022,R04A,CALABARZON,Synthetic Permitted Source 20,biomass,41184.9,demo activity unit,112379.7,109.417,35.346,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-021,2022,R06,Western Visayas,Synthetic Permitted Source 21,diesel,41993.8,demo activity unit,110967.4,172.23,26.25,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-022,2022,R09,Zamboanga Peninsula,Synthetic Permitted Source 22,fuel oil,21626.2,demo activity unit,47070.3,55.491,32.341,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-023,2022,R12,SOCCSKSARGEN,Synthetic Permitted Source 23,LPG,2032.6,demo activity unit,2978.6,5.366,0.982,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-024,2022,NCR,National Capital Region,Synthetic Permitted Source 24,coal,37953.2,demo activity unit,76757.4,15.377,43.897,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-025,2022,R02,Cagayan Valley,Synthetic Permitted Source 25,biomass,1741.4,demo activity unit,357.4,0.37,0.115,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-026,2022,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 26,diesel,21858.4,demo activity unit,46273.7,67.814,21.74,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-027,2022,R07,Central Visayas,Synthetic Permitted Source 27,fuel oil,44780.6,demo activity unit,86514.7,56.562,51.172,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-028,2022,R10,Northern Mindanao,Synthetic Permitted Source 28,LPG,45422.2,demo activity unit,83511.7,151.031,12.892,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-029,2022,R13,Caraga,Synthetic Permitted Source 29,coal,44656.1,demo activity unit,9898.8,7.223,1.308,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-030,2022,CAR,Cordillera Administrative Region,Synthetic Permitted Source 30,biomass,4088.9,demo activity unit,4582.4,1.717,2.656,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-031,2022,R03,Central Luzon,Synthetic Permitted Source 31,diesel,2759,demo activity unit,3490.6,6.218,1.139,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-032,2022,R05,Bicol Region,Synthetic Permitted Source 32,fuel oil,46487.6,demo activity unit,22233.3,40.737,3.944,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-033,2022,R08,Eastern Visayas,Synthetic Permitted Source 33,LPG,35305.7,demo activity unit,56331.1,62.725,47.656,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2022-034,2022,R11,Davao Region,Synthetic Permitted Source 34,coal,35211.8,demo activity unit,79535.9,54.256,39.4,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-001,2023,NCR,National Capital Region,Synthetic Permitted Source 01,diesel,30069.5,demo activity unit,25702.5,15.11,14.015,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-002,2023,R02,Cagayan Valley,Synthetic Permitted Source 02,fuel oil,4655,demo activity unit,329.5,0.348,0.052,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-003,2023,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 03,LPG,17463.8,demo activity unit,24709.6,9.568,6.109,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-004,2023,R07,Central Visayas,Synthetic Permitted Source 04,coal,4537,demo activity unit,2103,1.712,1.415,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-005,2023,R10,Northern Mindanao,Synthetic Permitted Source 05,biomass,25169,demo activity unit,49866.5,82.141,14.258,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-006,2023,R13,Caraga,Synthetic Permitted Source 06,diesel,15971.5,demo activity unit,19997.3,20.671,11.362,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-007,2023,CAR,Cordillera Administrative Region,Synthetic Permitted Source 07,fuel oil,48872.1,demo activity unit,32636.4,35,20.256,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-008,2023,R03,Central Luzon,Synthetic Permitted Source 08,LPG,4162.5,demo activity unit,11101.6,8.688,1.229,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-009,2023,R05,Bicol Region,Synthetic Permitted Source 09,coal,47121.9,demo activity unit,8413.5,12.667,0.652,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-010,2023,R08,Eastern Visayas,Synthetic Permitted Source 10,biomass,44860.2,demo activity unit,25823.1,44.626,18.459,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-011,2023,R11,Davao Region,Synthetic Permitted Source 11,diesel,49682.5,demo activity unit,29974.3,49.335,22.337,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-012,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 12,fuel oil,22263.5,demo activity unit,39028.6,14.551,3.427,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-013,2023,R01,Ilocos Region,Synthetic Permitted Source 13,LPG,47037.8,demo activity unit,118175.9,229.172,64.173,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-014,2023,R04A,CALABARZON,Synthetic Permitted Source 14,coal,13636.7,demo activity unit,30434.6,9.338,12.693,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-015,2023,R06,Western Visayas,Synthetic Permitted Source 15,biomass,17952.4,demo activity unit,21135.5,29.667,8.603,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-016,2023,R09,Zamboanga Peninsula,Synthetic Permitted Source 16,diesel,956,demo activity unit,2217.1,3.82,2.136,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-017,2023,R12,SOCCSKSARGEN,Synthetic Permitted Source 17,fuel oil,18107.3,demo activity unit,40091,54.602,28.545,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-018,2023,NCR,National Capital Region,Synthetic Permitted Source 18,LPG,5018.2,demo activity unit,6944.6,12.995,2.554,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-019,2023,R02,Cagayan Valley,Synthetic Permitted Source 19,coal,33000.6,demo activity unit,61913.1,53.423,49.437,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-020,2023,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 20,biomass,7904,demo activity unit,5827.7,7.447,1.235,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-021,2023,R07,Central Visayas,Synthetic Permitted Source 21,diesel,31935,demo activity unit,31712.5,38.693,9.38,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-022,2023,R10,Northern Mindanao,Synthetic Permitted Source 22,fuel oil,22721.3,demo activity unit,60568.5,45.799,43.492,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-023,2023,R13,Caraga,Synthetic Permitted Source 23,LPG,24994.2,demo activity unit,62380.8,113.206,13.268,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-024,2023,CAR,Cordillera Administrative Region,Synthetic Permitted Source 24,coal,35387.2,demo activity unit,21222.9,4.038,2.766,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-025,2023,R03,Central Luzon,Synthetic Permitted Source 25,biomass,4342.8,demo activity unit,1005.2,0.169,0.857,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-026,2023,R05,Bicol Region,Synthetic Permitted Source 26,diesel,49927.9,demo activity unit,66856.7,122.413,5.093,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-027,2023,R08,Eastern Visayas,Synthetic Permitted Source 27,fuel oil,23048.5,demo activity unit,20619.3,20.617,8.902,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-028,2023,R11,Davao Region,Synthetic Permitted Source 28,LPG,27395.8,demo activity unit,20489.3,4.527,6.388,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-029,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 29,coal,24719.8,demo activity unit,46973.8,51.069,34.381,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-030,2023,R01,Ilocos Region,Synthetic Permitted Source 30,biomass,15328.2,demo activity unit,4106.4,0.662,1.741,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-031,2023,R04A,CALABARZON,Synthetic Permitted Source 31,diesel,6240.7,demo activity unit,12087.3,8.014,9.714,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-032,2023,R06,Western Visayas,Synthetic Permitted Source 32,fuel oil,43242.2,demo activity unit,66269.3,48.763,8.274,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-033,2023,R09,Zamboanga Peninsula,Synthetic Permitted Source 33,LPG,14789.3,demo activity unit,11873.8,22.236,5.22,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2023-034,2023,R12,SOCCSKSARGEN,Synthetic Permitted Source 34,coal,44330.2,demo activity unit,51066.5,63.226,50.93,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-001,2024,CAR,Cordillera Administrative Region,Synthetic Permitted Source 01,diesel,28604.2,demo activity unit,73889.8,21.375,51.09,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-002,2024,R03,Central Luzon,Synthetic Permitted Source 02,fuel oil,9558.1,demo activity unit,4811.9,2.912,0.81,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-003,2024,R05,Bicol Region,Synthetic Permitted Source 03,LPG,29319.7,demo activity unit,35419.8,9.862,35.16,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-004,2024,R08,Eastern Visayas,Synthetic Permitted Source 04,coal,24863,demo activity unit,33042.9,11.519,14.56,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-005,2024,R11,Davao Region,Synthetic Permitted Source 05,biomass,8172.9,demo activity unit,13556.7,16.098,2.365,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-006,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 06,diesel,13075.2,demo activity unit,26163.1,25.757,9.157,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-007,2024,R01,Ilocos Region,Synthetic Permitted Source 07,fuel oil,17724.8,demo activity unit,25007.1,8.245,18.74,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-008,2024,R04A,CALABARZON,Synthetic Permitted Source 08,LPG,33479.7,demo activity unit,44804.5,87.644,22.932,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-009,2024,R06,Western Visayas,Synthetic Permitted Source 09,coal,20815,demo activity unit,34179.7,55.705,19.269,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-010,2024,R09,Zamboanga Peninsula,Synthetic Permitted Source 10,biomass,37079.8,demo activity unit,59404.4,106.177,28.815,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-011,2024,R12,SOCCSKSARGEN,Synthetic Permitted Source 11,diesel,46335.7,demo activity unit,70279.1,116.26,50.004,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-012,2024,NCR,National Capital Region,Synthetic Permitted Source 12,fuel oil,17977.5,demo activity unit,10156.3,17.639,2.85,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-013,2024,R02,Cagayan Valley,Synthetic Permitted Source 13,LPG,2947.6,demo activity unit,2853.4,4.995,1.041,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-014,2024,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 14,coal,25186,demo activity unit,68821.8,107.92,5.308,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-015,2024,R07,Central Visayas,Synthetic Permitted Source 15,biomass,7768.7,demo activity unit,13895.2,4.532,3.629,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-016,2024,R10,Northern Mindanao,Synthetic Permitted Source 16,diesel,34980,demo activity unit,4890.3,2.003,3.815,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-017,2024,R13,Caraga,Synthetic Permitted Source 17,fuel oil,35373.8,demo activity unit,84058.5,24.09,22.554,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-018,2024,CAR,Cordillera Administrative Region,Synthetic Permitted Source 18,LPG,18752.3,demo activity unit,5232.2,6.995,4.925,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-019,2024,R03,Central Luzon,Synthetic Permitted Source 19,coal,19594.8,demo activity unit,13971.9,27.753,5.231,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-020,2024,R05,Bicol Region,Synthetic Permitted Source 20,biomass,15972,demo activity unit,33829.3,52.285,12.091,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-021,2024,R08,Eastern Visayas,Synthetic Permitted Source 21,diesel,17423.1,demo activity unit,4227.7,2.498,2.797,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-022,2024,R11,Davao Region,Synthetic Permitted Source 22,fuel oil,42335.8,demo activity unit,9663.8,5.197,7.314,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-023,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 23,LPG,31081,demo activity unit,44244.4,54.752,19.992,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-024,2024,R01,Ilocos Region,Synthetic Permitted Source 24,coal,8914.3,demo activity unit,16753.7,4.189,15.005,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-025,2024,R04A,CALABARZON,Synthetic Permitted Source 25,biomass,27296.2,demo activity unit,37267.2,29.272,12.603,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-026,2024,R06,Western Visayas,Synthetic Permitted Source 26,diesel,34623.1,demo activity unit,9671.2,1.743,3.529,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-027,2024,R09,Zamboanga Peninsula,Synthetic Permitted Source 27,fuel oil,14675.8,demo activity unit,10974.9,20.207,8.365,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-028,2024,R12,SOCCSKSARGEN,Synthetic Permitted Source 28,LPG,12066.1,demo activity unit,29851.9,21.989,4.533,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-029,2024,NCR,National Capital Region,Synthetic Permitted Source 29,coal,13626.5,demo activity unit,34846.7,64.027,29.796,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-030,2024,R02,Cagayan Valley,Synthetic Permitted Source 30,biomass,25576.7,demo activity unit,12090.9,9.345,3.94,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-031,2024,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 31,diesel,39969.7,demo activity unit,84925.7,105.433,63.482,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-032,2024,R07,Central Visayas,Synthetic Permitted Source 32,fuel oil,49692.3,demo activity unit,33910.3,14.193,19.066,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-033,2024,R10,Northern Mindanao,Synthetic Permitted Source 33,LPG,18366.8,demo activity unit,3901.5,1.249,2.119,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2024-034,2024,R13,Caraga,Synthetic Permitted Source 34,coal,47152.7,demo activity unit,97174.8,130.927,41.309,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-001,2025,R01,Ilocos Region,Synthetic Permitted Source 01,diesel,14154.8,demo activity unit,6857.5,1.053,5.993,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-002,2025,R04A,CALABARZON,Synthetic Permitted Source 02,fuel oil,16945.5,demo activity unit,16157.2,12.821,8.391,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-003,2025,R06,Western Visayas,Synthetic Permitted Source 03,LPG,43909,demo activity unit,82284,8.583,47.257,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-004,2025,R09,Zamboanga Peninsula,Synthetic Permitted Source 04,coal,29325.6,demo activity unit,10543.3,20.298,10.321,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-005,2025,R12,SOCCSKSARGEN,Synthetic Permitted Source 05,biomass,31084,demo activity unit,27804.3,5.022,15.6,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-006,2025,NCR,National Capital Region,Synthetic Permitted Source 06,diesel,18500,demo activity unit,28390.6,33.401,7.869,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-007,2025,R02,Cagayan Valley,Synthetic Permitted Source 07,fuel oil,11617.2,demo activity unit,13778.1,18.135,13.754,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-008,2025,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 08,LPG,16167,demo activity unit,7790.7,12.934,2.349,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-009,2025,R07,Central Visayas,Synthetic Permitted Source 09,coal,493.3,demo activity unit,1143.4,0.403,0.73,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-010,2025,R10,Northern Mindanao,Synthetic Permitted Source 10,biomass,3404.6,demo activity unit,1082.3,0.311,0.972,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-011,2025,R13,Caraga,Synthetic Permitted Source 11,diesel,25578.5,demo activity unit,17195.8,20.613,8.145,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-012,2025,CAR,Cordillera Administrative Region,Synthetic Permitted Source 12,fuel oil,39618.6,demo activity unit,104790,158.599,46.496,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-013,2025,R03,Central Luzon,Synthetic Permitted Source 13,LPG,44898.6,demo activity unit,97873.8,172.315,15.993,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-014,2025,R05,Bicol Region,Synthetic Permitted Source 14,coal,2251.5,demo activity unit,1984.2,2.099,0.132,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-015,2025,R08,Eastern Visayas,Synthetic Permitted Source 15,biomass,38680.1,demo activity unit,21536.5,37.577,8.154,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-016,2025,R11,Davao Region,Synthetic Permitted Source 16,diesel,36044.9,demo activity unit,79957.3,151.136,78.905,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-017,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 17,fuel oil,966.6,demo activity unit,792.9,0.872,0.401,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-018,2025,R01,Ilocos Region,Synthetic Permitted Source 18,LPG,18828.4,demo activity unit,34208.5,38.997,19.666,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-019,2025,R04A,CALABARZON,Synthetic Permitted Source 19,coal,43485.4,demo activity unit,108717.7,120.95,10.386,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-020,2025,R06,Western Visayas,Synthetic Permitted Source 20,biomass,35609.1,demo activity unit,78744.1,22.584,48.714,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-021,2025,R09,Zamboanga Peninsula,Synthetic Permitted Source 21,diesel,15166.3,demo activity unit,15182.6,22.52,14.58,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-022,2025,R12,SOCCSKSARGEN,Synthetic Permitted Source 22,fuel oil,11790.3,demo activity unit,26312.7,50.173,4.999,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-023,2025,NCR,National Capital Region,Synthetic Permitted Source 23,LPG,27943.5,demo activity unit,39547.7,36.748,25.553,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-024,2025,R02,Cagayan Valley,Synthetic Permitted Source 24,coal,28799.4,demo activity unit,49092.9,88.949,18.222,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-025,2025,MIMAROPA,MIMAROPA Region,Synthetic Permitted Source 25,biomass,38254.6,demo activity unit,74132.2,88.257,61.195,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-026,2025,R07,Central Visayas,Synthetic Permitted Source 26,diesel,31470.2,demo activity unit,6177.6,3.169,1.823,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-027,2025,R10,Northern Mindanao,Synthetic Permitted Source 27,fuel oil,18753.1,demo activity unit,49327.2,21.07,45.776,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-028,2025,R13,Caraga,Synthetic Permitted Source 28,LPG,32792.5,demo activity unit,63969.4,21.179,60.26,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-029,2025,CAR,Cordillera Administrative Region,Synthetic Permitted Source 29,coal,5029.9,demo activity unit,12223.3,24.413,4.773,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-030,2025,R03,Central Luzon,Synthetic Permitted Source 30,biomass,15731.4,demo activity unit,2128.3,3.913,1.587,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-031,2025,R05,Bicol Region,Synthetic Permitted Source 31,diesel,32872.7,demo activity unit,42832,82.289,9.074,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-032,2025,R08,Eastern Visayas,Synthetic Permitted Source 32,fuel oil,16665.7,demo activity unit,5798.3,6.987,2.284,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-033,2025,R11,Davao Region,Synthetic Permitted Source 33,LPG,46626.3,demo activity unit,17693.7,11.013,2.883,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO
+AQ-2025-034,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Permitted Source 34,coal,274.2,demo activity unit,32.9,0.022,0.019,DENR-EMB AQMS / Regional Office,SYNTHETIC_DEMO

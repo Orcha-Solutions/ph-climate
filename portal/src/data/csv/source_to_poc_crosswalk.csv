@@ -1,0 +1,16 @@
+agency,source_unit,source_dataset,synthetic_table,record_count,key_fields,transformation,dashboard_use
+EMB,Philippine Ozone Desk,HFC / controlled-substance activity,emb_pod_hfc_activity,120,year; region; substance; quantity; GWP,IPCC 2.F synthetic CO2e proxy,IPPU F-gases + provenance
+EMB,EQMD / industry reporting,"PFC, SF6, NF3 activity",emb_eqmd_fgas_activity,100,gas; application; kg; GWP,IPCC 2.E/2.G synthetic CO2e proxy,IPPU electronics/electrical
+EMB,IPPU inventory team,Industrial process activity,emb_industrial_process_activity,140,facility; process; activity; EF,illustrative activity × EF,IPPU process emissions
+EMB,Industry/SCMAR-type reporting,Cement/clinker/SCM activity,emb_cement_scm_activity,80,cement; clinker ratio; SCM,feeds mineral-products activity,cement decarbonization
+EMB,POD / CHWMS,"ODS/HFC recovery, storage, reclamation, destruction",emb_ods_recovery_destruction,90,substance; action; kg,management activity,refrigerant management
+EMB,AQMS / Regional Offices,Facility stationary-source activity/emissions,emb_aqms_facility_emissions,170,fuel/source; activity; CO2/CH4/N2O,facility source record,facility emissions explorer
+EMB,Regional Offices,Facility GHG reporting/verification,emb_regional_facility_verification,210,baseline; reduction; net; status,verification layer,QA/QC + drill-down
+EMB,EIA / Regional Offices,ECC/CMR GHG-relevant monitoring,emb_eia_ecc_ghg_monitoring,120,project; ECC; emissions; mitigation; CMR,commitment-to-monitoring link,EIA/ECC traceability
+MGB,Mineral Economics / Regional Offices,Mineral production and inventory,mgb_mineral_production,180,operator; commodity; production,mineral-industry activity,mining activity explorer
+MGB,Contractors / MPP holders,Quarterly Energy Consumption Report (29-18),mgb_energy_consumption_29_18,720,diesel; gasoline; coal; electricity,fuel activity → PoC proxy,mining energy/GHG
+MGB,Contractors / permittees,Annual Resource/Reserve Inventory (29-19),mgb_resource_reserve_29_19,180,commodity; quantity; class,context / denominator,resource context
+MGB,Central/Regional Offices,Directory of Operating Mines and Quarries,mgb_operating_mines_quarries,36,operator; commodity; permit; status,facility master join,map + registry
+MGB,Contractors / permittees,Integrated Annual Report / land-use footprint,mgb_integrated_annual_landuse,180,raw material; disturbed/rehab ha,production-land footprint link,mining/FOLU context
+DERIVED,PoC orchestration layer,EMB synthetic inventory output,emb_ghg_inventory_output,85,region; year; IPPU tCO2e,sum selected EMB streams,executive/IPPU dashboard
+DERIVED,PoC orchestration layer,MGB mining fuel-emissions proxy,mgb_energy_emissions_proxy,720,facility; quarter; tCO2e,fuel activity × illustrative EF,mining emissions explorer

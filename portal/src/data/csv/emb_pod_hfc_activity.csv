@@ -1,0 +1,121 @@
+record_id,year,region_code,region_name,substance,activity_type,quantity,unit,gwp_ar4,tco2e_proxy,source_office,reporting_entity,data_status,ipcc_category
+POD-2021-001,2021,R13,Caraga,HFC-134a,Import/placing on market,15.14,metric tonne,1430,21650.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2021-002,2021,CAR,Cordillera Administrative Region,HFC-32,Import/placing on market,61.09,metric tonne,675,41235.75,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2021-003,2021,R03,Central Luzon,HFC-125,Import/placing on market,58.15,metric tonne,3500,203525,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2021-004,2021,R05,Bicol Region,HFC-143a,Import/placing on market,12.2,metric tonne,4470,54534,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2021-005,2021,R08,Eastern Visayas,HFC-152a,Import/placing on market,60.49,metric tonne,124,7500.76,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2021-006,2021,R11,Davao Region,HFC-134a,Import/placing on market,37.85,metric tonne,1430,54125.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2021-007,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-32,Import/placing on market,41.4,metric tonne,675,27945,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2021-008,2021,R01,Ilocos Region,HFC-125,Import/placing on market,94.02,metric tonne,3500,329070,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2021-009,2021,R04A,CALABARZON,HFC-143a,Import/placing on market,1.64,metric tonne,4470,7330.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2021-010,2021,R06,Western Visayas,HFC-152a,Import/placing on market,73.16,metric tonne,124,9071.84,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2021-011,2021,R09,Zamboanga Peninsula,HFC-134a,Import/placing on market,56.6,metric tonne,1430,80938,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2021-012,2021,R12,SOCCSKSARGEN,HFC-32,Import/placing on market,50.04,metric tonne,675,33777,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2021-013,2021,NCR,National Capital Region,HFC-125,Import/placing on market,63.31,metric tonne,3500,221585,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2021-014,2021,R02,Cagayan Valley,HFC-143a,Import/placing on market,24.85,metric tonne,4470,111079.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2021-015,2021,MIMAROPA,MIMAROPA Region,HFC-152a,Import/placing on market,69.3,metric tonne,124,8593.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2021-016,2021,R07,Central Visayas,HFC-134a,Import/placing on market,7.05,metric tonne,1430,10081.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2021-017,2021,R10,Northern Mindanao,HFC-32,Import/placing on market,40.31,metric tonne,675,27209.25,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2021-018,2021,R13,Caraga,HFC-125,Import/placing on market,86.32,metric tonne,3500,302120,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2021-019,2021,CAR,Cordillera Administrative Region,HFC-143a,Import/placing on market,5.3,metric tonne,4470,23691,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2021-020,2021,R03,Central Luzon,HFC-152a,Import/placing on market,62.94,metric tonne,124,7804.56,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2021-021,2021,R05,Bicol Region,HFC-134a,Import/placing on market,83.93,metric tonne,1430,120019.9,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2021-022,2021,R08,Eastern Visayas,HFC-32,Import/placing on market,40.66,metric tonne,675,27445.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2021-023,2021,R11,Davao Region,HFC-125,Import/placing on market,55.95,metric tonne,3500,195825,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2021-024,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-143a,Import/placing on market,10.28,metric tonne,4470,45951.6,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-134a,Import/placing on market,23.75,metric tonne,1430,33962.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2022-002,2022,R01,Ilocos Region,HFC-32,Import/placing on market,45.77,metric tonne,675,30894.75,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2022-003,2022,R04A,CALABARZON,HFC-125,Import/placing on market,7.85,metric tonne,3500,27475,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2022-004,2022,R06,Western Visayas,HFC-143a,Import/placing on market,36.56,metric tonne,4470,163423.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2022-005,2022,R09,Zamboanga Peninsula,HFC-152a,Import/placing on market,36.13,metric tonne,124,4480.12,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2022-006,2022,R12,SOCCSKSARGEN,HFC-134a,Import/placing on market,54.98,metric tonne,1430,78621.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2022-007,2022,NCR,National Capital Region,HFC-32,Import/placing on market,39.03,metric tonne,675,26345.25,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2022-008,2022,R02,Cagayan Valley,HFC-125,Import/placing on market,75.1,metric tonne,3500,262850,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2022-009,2022,MIMAROPA,MIMAROPA Region,HFC-143a,Import/placing on market,73.25,metric tonne,4470,327427.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2022-010,2022,R07,Central Visayas,HFC-152a,Import/placing on market,57.34,metric tonne,124,7110.16,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2022-011,2022,R10,Northern Mindanao,HFC-134a,Import/placing on market,59.83,metric tonne,1430,85556.9,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2022-012,2022,R13,Caraga,HFC-32,Import/placing on market,79.27,metric tonne,675,53507.25,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2022-013,2022,CAR,Cordillera Administrative Region,HFC-125,Import/placing on market,35.23,metric tonne,3500,123305,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2022-014,2022,R03,Central Luzon,HFC-143a,Import/placing on market,82.09,metric tonne,4470,366942.3,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2022-015,2022,R05,Bicol Region,HFC-152a,Import/placing on market,90.58,metric tonne,124,11231.92,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2022-016,2022,R08,Eastern Visayas,HFC-134a,Import/placing on market,14.66,metric tonne,1430,20963.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2022-017,2022,R11,Davao Region,HFC-32,Import/placing on market,85.22,metric tonne,675,57523.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-125,Import/placing on market,29.53,metric tonne,3500,103355,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2022-019,2022,R01,Ilocos Region,HFC-143a,Import/placing on market,21.98,metric tonne,4470,98250.6,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2022-020,2022,R04A,CALABARZON,HFC-152a,Import/placing on market,55.16,metric tonne,124,6839.84,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2022-021,2022,R06,Western Visayas,HFC-134a,Import/placing on market,41.85,metric tonne,1430,59845.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2022-022,2022,R09,Zamboanga Peninsula,HFC-32,Import/placing on market,36.02,metric tonne,675,24313.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2022-023,2022,R12,SOCCSKSARGEN,HFC-125,Import/placing on market,23.54,metric tonne,3500,82390,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2022-024,2022,NCR,National Capital Region,HFC-143a,Import/placing on market,24.82,metric tonne,4470,110945.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2023-001,2023,NCR,National Capital Region,HFC-134a,Import/placing on market,45.18,metric tonne,1430,64607.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2023-002,2023,R02,Cagayan Valley,HFC-32,Import/placing on market,91.73,metric tonne,675,61917.75,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2023-003,2023,MIMAROPA,MIMAROPA Region,HFC-125,Import/placing on market,32.14,metric tonne,3500,112490,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2023-004,2023,R07,Central Visayas,HFC-143a,Import/placing on market,66.82,metric tonne,4470,298685.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2023-005,2023,R10,Northern Mindanao,HFC-152a,Import/placing on market,16.67,metric tonne,124,2067.08,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2023-006,2023,R13,Caraga,HFC-134a,Import/placing on market,41.87,metric tonne,1430,59874.1,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2023-007,2023,CAR,Cordillera Administrative Region,HFC-32,Import/placing on market,89.7,metric tonne,675,60547.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2023-008,2023,R03,Central Luzon,HFC-125,Import/placing on market,35.18,metric tonne,3500,123130,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2023-009,2023,R05,Bicol Region,HFC-143a,Import/placing on market,15.56,metric tonne,4470,69553.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2023-010,2023,R08,Eastern Visayas,HFC-152a,Import/placing on market,77.25,metric tonne,124,9579,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2023-011,2023,R11,Davao Region,HFC-134a,Import/placing on market,31.86,metric tonne,1430,45559.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2023-012,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-32,Import/placing on market,86.86,metric tonne,675,58630.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2023-013,2023,R01,Ilocos Region,HFC-125,Import/placing on market,14.88,metric tonne,3500,52080,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2023-014,2023,R04A,CALABARZON,HFC-143a,Import/placing on market,6.87,metric tonne,4470,30708.9,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2023-015,2023,R06,Western Visayas,HFC-152a,Import/placing on market,68.43,metric tonne,124,8485.32,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2023-016,2023,R09,Zamboanga Peninsula,HFC-134a,Import/placing on market,10.72,metric tonne,1430,15329.6,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2023-017,2023,R12,SOCCSKSARGEN,HFC-32,Import/placing on market,24.99,metric tonne,675,16868.25,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2023-018,2023,NCR,National Capital Region,HFC-125,Import/placing on market,61.71,metric tonne,3500,215985,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2023-019,2023,R02,Cagayan Valley,HFC-143a,Import/placing on market,63.52,metric tonne,4470,283934.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2023-020,2023,MIMAROPA,MIMAROPA Region,HFC-152a,Import/placing on market,60.48,metric tonne,124,7499.52,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2023-021,2023,R07,Central Visayas,HFC-134a,Import/placing on market,45.27,metric tonne,1430,64736.1,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2023-022,2023,R10,Northern Mindanao,HFC-32,Import/placing on market,3.9,metric tonne,675,2632.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2023-023,2023,R13,Caraga,HFC-125,Import/placing on market,44.94,metric tonne,3500,157290,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2023-024,2023,CAR,Cordillera Administrative Region,HFC-143a,Import/placing on market,26.79,metric tonne,4470,119751.3,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2024-001,2024,CAR,Cordillera Administrative Region,HFC-134a,Import/placing on market,1.76,metric tonne,1430,2516.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2024-002,2024,R03,Central Luzon,HFC-32,Import/placing on market,75.92,metric tonne,675,51246,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2024-003,2024,R05,Bicol Region,HFC-125,Import/placing on market,60.96,metric tonne,3500,213360,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2024-004,2024,R08,Eastern Visayas,HFC-143a,Import/placing on market,24.97,metric tonne,4470,111615.9,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2024-005,2024,R11,Davao Region,HFC-152a,Import/placing on market,15.95,metric tonne,124,1977.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2024-006,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-134a,Import/placing on market,8,metric tonne,1430,11440,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2024-007,2024,R01,Ilocos Region,HFC-32,Import/placing on market,13.76,metric tonne,675,9288,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2024-008,2024,R04A,CALABARZON,HFC-125,Import/placing on market,49.21,metric tonne,3500,172235,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2024-009,2024,R06,Western Visayas,HFC-143a,Import/placing on market,90.31,metric tonne,4470,403685.7,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2024-010,2024,R09,Zamboanga Peninsula,HFC-152a,Import/placing on market,41.83,metric tonne,124,5186.92,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2024-011,2024,R12,SOCCSKSARGEN,HFC-134a,Import/placing on market,19.78,metric tonne,1430,28285.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2024-012,2024,NCR,National Capital Region,HFC-32,Import/placing on market,29.35,metric tonne,675,19811.25,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2024-013,2024,R02,Cagayan Valley,HFC-125,Import/placing on market,41.37,metric tonne,3500,144795,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2024-014,2024,MIMAROPA,MIMAROPA Region,HFC-143a,Import/placing on market,23.03,metric tonne,4470,102944.1,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2024-015,2024,R07,Central Visayas,HFC-152a,Import/placing on market,6.22,metric tonne,124,771.28,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2024-016,2024,R10,Northern Mindanao,HFC-134a,Import/placing on market,59.86,metric tonne,1430,85599.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2024-017,2024,R13,Caraga,HFC-32,Import/placing on market,94.04,metric tonne,675,63477,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2024-018,2024,CAR,Cordillera Administrative Region,HFC-125,Import/placing on market,55.35,metric tonne,3500,193725,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2024-019,2024,R03,Central Luzon,HFC-143a,Import/placing on market,85.96,metric tonne,4470,384241.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2024-020,2024,R05,Bicol Region,HFC-152a,Import/placing on market,40.14,metric tonne,124,4977.36,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2024-021,2024,R08,Eastern Visayas,HFC-134a,Import/placing on market,33.42,metric tonne,1430,47790.6,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2024-022,2024,R11,Davao Region,HFC-32,Import/placing on market,58.5,metric tonne,675,39487.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2024-023,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-125,Import/placing on market,22.65,metric tonne,3500,79275,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2024-024,2024,R01,Ilocos Region,HFC-143a,Import/placing on market,25.38,metric tonne,4470,113448.6,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2025-001,2025,R01,Ilocos Region,HFC-134a,Import/placing on market,35.93,metric tonne,1430,51379.9,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2025-002,2025,R04A,CALABARZON,HFC-32,Import/placing on market,88.52,metric tonne,675,59751,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2025-003,2025,R06,Western Visayas,HFC-125,Import/placing on market,66.3,metric tonne,3500,232050,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2025-004,2025,R09,Zamboanga Peninsula,HFC-143a,Import/placing on market,61.01,metric tonne,4470,272714.7,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2025-005,2025,R12,SOCCSKSARGEN,HFC-152a,Import/placing on market,28.31,metric tonne,124,3510.44,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2025-006,2025,NCR,National Capital Region,HFC-134a,Import/placing on market,43.29,metric tonne,1430,61904.7,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2025-007,2025,R02,Cagayan Valley,HFC-32,Import/placing on market,46.1,metric tonne,675,31117.5,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2025-008,2025,MIMAROPA,MIMAROPA Region,HFC-125,Import/placing on market,53.33,metric tonne,3500,186655,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2025-009,2025,R07,Central Visayas,HFC-143a,Import/placing on market,54.12,metric tonne,4470,241916.4,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2025-010,2025,R10,Northern Mindanao,HFC-152a,Import/placing on market,5.8,metric tonne,124,719.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2025-011,2025,R13,Caraga,HFC-134a,Import/placing on market,53.26,metric tonne,1430,76161.8,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2025-012,2025,CAR,Cordillera Administrative Region,HFC-32,Import/placing on market,32.84,metric tonne,675,22167,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2025-013,2025,R03,Central Luzon,HFC-125,Import/placing on market,82.19,metric tonne,3500,287665,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2025-014,2025,R05,Bicol Region,HFC-143a,Import/placing on market,78.27,metric tonne,4470,349866.9,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2025-015,2025,R08,Eastern Visayas,HFC-152a,Import/placing on market,63.73,metric tonne,124,7902.52,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F
+POD-2025-016,2025,R11,Davao Region,HFC-134a,Import/placing on market,55.41,metric tonne,1430,79236.3,DENR-EMB Philippine Ozone Desk,Synthetic importer 7,SYNTHETIC_DEMO,2.F
+POD-2025-017,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HFC-32,Import/placing on market,9.88,metric tonne,675,6669,DENR-EMB Philippine Ozone Desk,Synthetic importer 8,SYNTHETIC_DEMO,2.F
+POD-2025-018,2025,R01,Ilocos Region,HFC-125,Import/placing on market,24.88,metric tonne,3500,87080,DENR-EMB Philippine Ozone Desk,Synthetic importer 9,SYNTHETIC_DEMO,2.F
+POD-2025-019,2025,R04A,CALABARZON,HFC-143a,Import/placing on market,76.99,metric tonne,4470,344145.3,DENR-EMB Philippine Ozone Desk,Synthetic importer 1,SYNTHETIC_DEMO,2.F
+POD-2025-020,2025,R06,Western Visayas,HFC-152a,Import/placing on market,65.3,metric tonne,124,8097.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 2,SYNTHETIC_DEMO,2.F
+POD-2025-021,2025,R09,Zamboanga Peninsula,HFC-134a,Import/placing on market,93.84,metric tonne,1430,134191.2,DENR-EMB Philippine Ozone Desk,Synthetic importer 3,SYNTHETIC_DEMO,2.F
+POD-2025-022,2025,R12,SOCCSKSARGEN,HFC-32,Import/placing on market,80.89,metric tonne,675,54600.75,DENR-EMB Philippine Ozone Desk,Synthetic importer 4,SYNTHETIC_DEMO,2.F
+POD-2025-023,2025,NCR,National Capital Region,HFC-125,Import/placing on market,71.12,metric tonne,3500,248920,DENR-EMB Philippine Ozone Desk,Synthetic importer 5,SYNTHETIC_DEMO,2.F
+POD-2025-024,2025,R02,Cagayan Valley,HFC-143a,Import/placing on market,86.13,metric tonne,4470,385001.1,DENR-EMB Philippine Ozone Desk,Synthetic importer 6,SYNTHETIC_DEMO,2.F

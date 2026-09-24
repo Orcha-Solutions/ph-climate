@@ -1,0 +1,141 @@
+record_id,year,region_code,region_name,facility,process,ipcc_category,activity_value,activity_unit,demo_emission_factor,estimated_emissions,emission_unit,source_office,data_status
+IP-2021-001,2021,R13,Caraga,Synthetic Industrial Facility 01,Cement clinker production,2.A.1,10682.1,tonne clinker,0.52,5554.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-002,2021,NCR,National Capital Region,Synthetic Industrial Facility 02,Lime production,2.A.2,120546.5,tonne lime,0.75,90409.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-003,2021,R01,Ilocos Region,Synthetic Industrial Facility 03,Glass production,2.A.3,146457.2,tonne glass,0.2,29291.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-004,2021,R03,Central Luzon,Synthetic Industrial Facility 04,Iron and steel,2.C.1,92720.5,tonne product,0.35,32452.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-005,2021,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 05,Cement clinker production,2.A.1,167355.3,tonne clinker,0.52,87024.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-006,2021,R06,Western Visayas,Synthetic Industrial Facility 06,Lime production,2.A.2,174398.9,tonne lime,0.75,130799.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-007,2021,R08,Eastern Visayas,Synthetic Industrial Facility 07,Glass production,2.A.3,116994.2,tonne glass,0.2,23398.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-008,2021,R10,Northern Mindanao,Synthetic Industrial Facility 08,Iron and steel,2.C.1,57707.1,tonne product,0.35,20197.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-009,2021,R12,SOCCSKSARGEN,Synthetic Industrial Facility 09,Cement clinker production,2.A.1,17857.9,tonne clinker,0.52,9286.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-010,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 10,Lime production,2.A.2,60555.5,tonne lime,0.75,45416.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-011,2021,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 11,Glass production,2.A.3,124641.4,tonne glass,0.2,24928.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-012,2021,R02,Cagayan Valley,Synthetic Industrial Facility 12,Iron and steel,2.C.1,147289.6,tonne product,0.35,51551.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-013,2021,R04A,CALABARZON,Synthetic Industrial Facility 13,Cement clinker production,2.A.1,176797.3,tonne clinker,0.52,91934.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-014,2021,R05,Bicol Region,Synthetic Industrial Facility 14,Lime production,2.A.2,18939.6,tonne lime,0.75,14204.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-015,2021,R07,Central Visayas,Synthetic Industrial Facility 15,Glass production,2.A.3,2705.8,tonne glass,0.2,541.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-016,2021,R09,Zamboanga Peninsula,Synthetic Industrial Facility 16,Iron and steel,2.C.1,100358.1,tonne product,0.35,35125.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-017,2021,R11,Davao Region,Synthetic Industrial Facility 17,Cement clinker production,2.A.1,169893.1,tonne clinker,0.52,88344.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-018,2021,R13,Caraga,Synthetic Industrial Facility 18,Lime production,2.A.2,86606.1,tonne lime,0.75,64954.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-019,2021,NCR,National Capital Region,Synthetic Industrial Facility 19,Glass production,2.A.3,20473.1,tonne glass,0.2,4094.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-020,2021,R01,Ilocos Region,Synthetic Industrial Facility 20,Iron and steel,2.C.1,2535.6,tonne product,0.35,887.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-021,2021,R03,Central Luzon,Synthetic Industrial Facility 21,Cement clinker production,2.A.1,82325.3,tonne clinker,0.52,42809.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-022,2021,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 22,Lime production,2.A.2,84073.4,tonne lime,0.75,63055,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-023,2021,R06,Western Visayas,Synthetic Industrial Facility 23,Glass production,2.A.3,48463.5,tonne glass,0.2,9692.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-024,2021,R08,Eastern Visayas,Synthetic Industrial Facility 24,Iron and steel,2.C.1,109749.9,tonne product,0.35,38412.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-025,2021,R10,Northern Mindanao,Synthetic Industrial Facility 25,Cement clinker production,2.A.1,164065.1,tonne clinker,0.52,85313.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-026,2021,R12,SOCCSKSARGEN,Synthetic Industrial Facility 26,Lime production,2.A.2,106972.2,tonne lime,0.75,80229.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-027,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 27,Glass production,2.A.3,38704.3,tonne glass,0.2,7740.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2021-028,2021,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 28,Iron and steel,2.C.1,113859.6,tonne product,0.35,39850.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 01,Cement clinker production,2.A.1,108674.7,tonne clinker,0.52,56510.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-002,2022,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 02,Lime production,2.A.2,101334.7,tonne lime,0.75,76001,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-003,2022,R02,Cagayan Valley,Synthetic Industrial Facility 03,Glass production,2.A.3,50756.6,tonne glass,0.2,10151.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-004,2022,R04A,CALABARZON,Synthetic Industrial Facility 04,Iron and steel,2.C.1,120875,tonne product,0.35,42306.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-005,2022,R05,Bicol Region,Synthetic Industrial Facility 05,Cement clinker production,2.A.1,68559.1,tonne clinker,0.52,35650.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-006,2022,R07,Central Visayas,Synthetic Industrial Facility 06,Lime production,2.A.2,12436.2,tonne lime,0.75,9327.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-007,2022,R09,Zamboanga Peninsula,Synthetic Industrial Facility 07,Glass production,2.A.3,163268.4,tonne glass,0.2,32653.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-008,2022,R11,Davao Region,Synthetic Industrial Facility 08,Iron and steel,2.C.1,124171.5,tonne product,0.35,43460,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-009,2022,R13,Caraga,Synthetic Industrial Facility 09,Cement clinker production,2.A.1,112058.1,tonne clinker,0.52,58270.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-010,2022,NCR,National Capital Region,Synthetic Industrial Facility 10,Lime production,2.A.2,50919.4,tonne lime,0.75,38189.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-011,2022,R01,Ilocos Region,Synthetic Industrial Facility 11,Glass production,2.A.3,145671.8,tonne glass,0.2,29134.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-012,2022,R03,Central Luzon,Synthetic Industrial Facility 12,Iron and steel,2.C.1,117443.1,tonne product,0.35,41105.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-013,2022,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 13,Cement clinker production,2.A.1,57710.9,tonne clinker,0.52,30009.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-014,2022,R06,Western Visayas,Synthetic Industrial Facility 14,Lime production,2.A.2,65183.7,tonne lime,0.75,48887.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-015,2022,R08,Eastern Visayas,Synthetic Industrial Facility 15,Glass production,2.A.3,71796,tonne glass,0.2,14359.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-016,2022,R10,Northern Mindanao,Synthetic Industrial Facility 16,Iron and steel,2.C.1,151028.2,tonne product,0.35,52859.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-017,2022,R12,SOCCSKSARGEN,Synthetic Industrial Facility 17,Cement clinker production,2.A.1,26301.4,tonne clinker,0.52,13676.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 18,Lime production,2.A.2,75405.5,tonne lime,0.75,56554.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-019,2022,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 19,Glass production,2.A.3,58266.3,tonne glass,0.2,11653.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-020,2022,R02,Cagayan Valley,Synthetic Industrial Facility 20,Iron and steel,2.C.1,95889.6,tonne product,0.35,33561.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-021,2022,R04A,CALABARZON,Synthetic Industrial Facility 21,Cement clinker production,2.A.1,168623,tonne clinker,0.52,87684,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-022,2022,R05,Bicol Region,Synthetic Industrial Facility 22,Lime production,2.A.2,109133.1,tonne lime,0.75,81849.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-023,2022,R07,Central Visayas,Synthetic Industrial Facility 23,Glass production,2.A.3,149636.2,tonne glass,0.2,29927.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-024,2022,R09,Zamboanga Peninsula,Synthetic Industrial Facility 24,Iron and steel,2.C.1,50500.4,tonne product,0.35,17675.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-025,2022,R11,Davao Region,Synthetic Industrial Facility 25,Cement clinker production,2.A.1,144716.8,tonne clinker,0.52,75252.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-026,2022,R13,Caraga,Synthetic Industrial Facility 26,Lime production,2.A.2,4021.2,tonne lime,0.75,3015.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-027,2022,NCR,National Capital Region,Synthetic Industrial Facility 27,Glass production,2.A.3,76078.9,tonne glass,0.2,15215.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2022-028,2022,R01,Ilocos Region,Synthetic Industrial Facility 28,Iron and steel,2.C.1,74503.3,tonne product,0.35,26076.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-001,2023,NCR,National Capital Region,Synthetic Industrial Facility 01,Cement clinker production,2.A.1,138969.9,tonne clinker,0.52,72264.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-002,2023,R01,Ilocos Region,Synthetic Industrial Facility 02,Lime production,2.A.2,105105.6,tonne lime,0.75,78829.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-003,2023,R03,Central Luzon,Synthetic Industrial Facility 03,Glass production,2.A.3,91536.9,tonne glass,0.2,18307.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-004,2023,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 04,Iron and steel,2.C.1,35735,tonne product,0.35,12507.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-005,2023,R06,Western Visayas,Synthetic Industrial Facility 05,Cement clinker production,2.A.1,162860.6,tonne clinker,0.52,84687.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-006,2023,R08,Eastern Visayas,Synthetic Industrial Facility 06,Lime production,2.A.2,175024,tonne lime,0.75,131268,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-007,2023,R10,Northern Mindanao,Synthetic Industrial Facility 07,Glass production,2.A.3,62125.3,tonne glass,0.2,12425.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-008,2023,R12,SOCCSKSARGEN,Synthetic Industrial Facility 08,Iron and steel,2.C.1,106718.3,tonne product,0.35,37351.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-009,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 09,Cement clinker production,2.A.1,14962.2,tonne clinker,0.52,7780.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-010,2023,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 10,Lime production,2.A.2,49425.2,tonne lime,0.75,37068.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-011,2023,R02,Cagayan Valley,Synthetic Industrial Facility 11,Glass production,2.A.3,16327.6,tonne glass,0.2,3265.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-012,2023,R04A,CALABARZON,Synthetic Industrial Facility 12,Iron and steel,2.C.1,84880.2,tonne product,0.35,29708.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-013,2023,R05,Bicol Region,Synthetic Industrial Facility 13,Cement clinker production,2.A.1,41498.5,tonne clinker,0.52,21579.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-014,2023,R07,Central Visayas,Synthetic Industrial Facility 14,Lime production,2.A.2,63095.3,tonne lime,0.75,47321.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-015,2023,R09,Zamboanga Peninsula,Synthetic Industrial Facility 15,Glass production,2.A.3,166475.5,tonne glass,0.2,33295.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-016,2023,R11,Davao Region,Synthetic Industrial Facility 16,Iron and steel,2.C.1,163417.5,tonne product,0.35,57196.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-017,2023,R13,Caraga,Synthetic Industrial Facility 17,Cement clinker production,2.A.1,12840.7,tonne clinker,0.52,6677.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-018,2023,NCR,National Capital Region,Synthetic Industrial Facility 18,Lime production,2.A.2,105706.8,tonne lime,0.75,79280.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-019,2023,R01,Ilocos Region,Synthetic Industrial Facility 19,Glass production,2.A.3,92830.6,tonne glass,0.2,18566.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-020,2023,R03,Central Luzon,Synthetic Industrial Facility 20,Iron and steel,2.C.1,161254.9,tonne product,0.35,56439.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-021,2023,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 21,Cement clinker production,2.A.1,139259.1,tonne clinker,0.52,72414.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-022,2023,R06,Western Visayas,Synthetic Industrial Facility 22,Lime production,2.A.2,32521,tonne lime,0.75,24390.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-023,2023,R08,Eastern Visayas,Synthetic Industrial Facility 23,Glass production,2.A.3,19989.5,tonne glass,0.2,3997.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-024,2023,R10,Northern Mindanao,Synthetic Industrial Facility 24,Iron and steel,2.C.1,138224.7,tonne product,0.35,48378.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-025,2023,R12,SOCCSKSARGEN,Synthetic Industrial Facility 25,Cement clinker production,2.A.1,104568.9,tonne clinker,0.52,54375.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-026,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 26,Lime production,2.A.2,35717,tonne lime,0.75,26787.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-027,2023,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 27,Glass production,2.A.3,69434.9,tonne glass,0.2,13887,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2023-028,2023,R02,Cagayan Valley,Synthetic Industrial Facility 28,Iron and steel,2.C.1,14845.2,tonne product,0.35,5195.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-001,2024,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 01,Cement clinker production,2.A.1,40002.3,tonne clinker,0.52,20801.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-002,2024,R02,Cagayan Valley,Synthetic Industrial Facility 02,Lime production,2.A.2,5626.1,tonne lime,0.75,4219.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-003,2024,R04A,CALABARZON,Synthetic Industrial Facility 03,Glass production,2.A.3,94873.4,tonne glass,0.2,18974.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-004,2024,R05,Bicol Region,Synthetic Industrial Facility 04,Iron and steel,2.C.1,40039.1,tonne product,0.35,14013.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-005,2024,R07,Central Visayas,Synthetic Industrial Facility 05,Cement clinker production,2.A.1,31356.9,tonne clinker,0.52,16305.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-006,2024,R09,Zamboanga Peninsula,Synthetic Industrial Facility 06,Lime production,2.A.2,41274.6,tonne lime,0.75,30955.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-007,2024,R11,Davao Region,Synthetic Industrial Facility 07,Glass production,2.A.3,129979,tonne glass,0.2,25995.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-008,2024,R13,Caraga,Synthetic Industrial Facility 08,Iron and steel,2.C.1,67618.2,tonne product,0.35,23666.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-009,2024,NCR,National Capital Region,Synthetic Industrial Facility 09,Cement clinker production,2.A.1,175127.1,tonne clinker,0.52,91066.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-010,2024,R01,Ilocos Region,Synthetic Industrial Facility 10,Lime production,2.A.2,43630.1,tonne lime,0.75,32722.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-011,2024,R03,Central Luzon,Synthetic Industrial Facility 11,Glass production,2.A.3,50783.5,tonne glass,0.2,10156.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-012,2024,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 12,Iron and steel,2.C.1,109919.6,tonne product,0.35,38471.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-013,2024,R06,Western Visayas,Synthetic Industrial Facility 13,Cement clinker production,2.A.1,32705.4,tonne clinker,0.52,17006.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-014,2024,R08,Eastern Visayas,Synthetic Industrial Facility 14,Lime production,2.A.2,9645.8,tonne lime,0.75,7234.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-015,2024,R10,Northern Mindanao,Synthetic Industrial Facility 15,Glass production,2.A.3,98953.1,tonne glass,0.2,19790.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-016,2024,R12,SOCCSKSARGEN,Synthetic Industrial Facility 16,Iron and steel,2.C.1,70931.3,tonne product,0.35,24826,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-017,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 17,Cement clinker production,2.A.1,26598.1,tonne clinker,0.52,13831,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-018,2024,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 18,Lime production,2.A.2,14859.3,tonne lime,0.75,11144.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-019,2024,R02,Cagayan Valley,Synthetic Industrial Facility 19,Glass production,2.A.3,78815.7,tonne glass,0.2,15763.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-020,2024,R04A,CALABARZON,Synthetic Industrial Facility 20,Iron and steel,2.C.1,170825.6,tonne product,0.35,59789,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-021,2024,R05,Bicol Region,Synthetic Industrial Facility 21,Cement clinker production,2.A.1,112420.8,tonne clinker,0.52,58458.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-022,2024,R07,Central Visayas,Synthetic Industrial Facility 22,Lime production,2.A.2,153867.8,tonne lime,0.75,115400.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-023,2024,R09,Zamboanga Peninsula,Synthetic Industrial Facility 23,Glass production,2.A.3,66549.5,tonne glass,0.2,13309.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-024,2024,R11,Davao Region,Synthetic Industrial Facility 24,Iron and steel,2.C.1,152536.9,tonne product,0.35,53387.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-025,2024,R13,Caraga,Synthetic Industrial Facility 25,Cement clinker production,2.A.1,69479.7,tonne clinker,0.52,36129.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-026,2024,NCR,National Capital Region,Synthetic Industrial Facility 26,Lime production,2.A.2,116705.4,tonne lime,0.75,87529,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-027,2024,R01,Ilocos Region,Synthetic Industrial Facility 27,Glass production,2.A.3,36321.7,tonne glass,0.2,7264.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2024-028,2024,R03,Central Luzon,Synthetic Industrial Facility 28,Iron and steel,2.C.1,22457.4,tonne product,0.35,7860.1,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-001,2025,R01,Ilocos Region,Synthetic Industrial Facility 01,Cement clinker production,2.A.1,104951.6,tonne clinker,0.52,54574.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-002,2025,R03,Central Luzon,Synthetic Industrial Facility 02,Lime production,2.A.2,8120,tonne lime,0.75,6090,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-003,2025,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 03,Glass production,2.A.3,115121.5,tonne glass,0.2,23024.3,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-004,2025,R06,Western Visayas,Synthetic Industrial Facility 04,Iron and steel,2.C.1,46453,tonne product,0.35,16258.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-005,2025,R08,Eastern Visayas,Synthetic Industrial Facility 05,Cement clinker production,2.A.1,120182.2,tonne clinker,0.52,62494.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-006,2025,R10,Northern Mindanao,Synthetic Industrial Facility 06,Lime production,2.A.2,59205.6,tonne lime,0.75,44404.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-007,2025,R12,SOCCSKSARGEN,Synthetic Industrial Facility 07,Glass production,2.A.3,113738.3,tonne glass,0.2,22747.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-008,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 08,Iron and steel,2.C.1,177069.6,tonne product,0.35,61974.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-009,2025,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 09,Cement clinker production,2.A.1,146498.4,tonne clinker,0.52,76179.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-010,2025,R02,Cagayan Valley,Synthetic Industrial Facility 10,Lime production,2.A.2,81239.5,tonne lime,0.75,60929.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-011,2025,R04A,CALABARZON,Synthetic Industrial Facility 11,Glass production,2.A.3,16852.7,tonne glass,0.2,3370.5,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-012,2025,R05,Bicol Region,Synthetic Industrial Facility 12,Iron and steel,2.C.1,156540.5,tonne product,0.35,54789.2,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-013,2025,R07,Central Visayas,Synthetic Industrial Facility 13,Cement clinker production,2.A.1,29023.8,tonne clinker,0.52,15092.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-014,2025,R09,Zamboanga Peninsula,Synthetic Industrial Facility 14,Lime production,2.A.2,37362.6,tonne lime,0.75,28021.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-015,2025,R11,Davao Region,Synthetic Industrial Facility 15,Glass production,2.A.3,125782.2,tonne glass,0.2,25156.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-016,2025,R13,Caraga,Synthetic Industrial Facility 16,Iron and steel,2.C.1,87694,tonne product,0.35,30692.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-017,2025,NCR,National Capital Region,Synthetic Industrial Facility 17,Cement clinker production,2.A.1,57420.7,tonne clinker,0.52,29858.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-018,2025,R01,Ilocos Region,Synthetic Industrial Facility 18,Lime production,2.A.2,125150.6,tonne lime,0.75,93863,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-019,2025,R03,Central Luzon,Synthetic Industrial Facility 19,Glass production,2.A.3,45897,tonne glass,0.2,9179.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-020,2025,MIMAROPA,MIMAROPA Region,Synthetic Industrial Facility 20,Iron and steel,2.C.1,108230.9,tonne product,0.35,37880.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-021,2025,R06,Western Visayas,Synthetic Industrial Facility 21,Cement clinker production,2.A.1,21175.7,tonne clinker,0.52,11011.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-022,2025,R08,Eastern Visayas,Synthetic Industrial Facility 22,Lime production,2.A.2,116717.9,tonne lime,0.75,87538.4,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-023,2025,R10,Northern Mindanao,Synthetic Industrial Facility 23,Glass production,2.A.3,121759,tonne glass,0.2,24351.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-024,2025,R12,SOCCSKSARGEN,Synthetic Industrial Facility 24,Iron and steel,2.C.1,70133.5,tonne product,0.35,24546.7,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-025,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Industrial Facility 25,Cement clinker production,2.A.1,8280.6,tonne clinker,0.52,4305.9,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-026,2025,CAR,Cordillera Administrative Region,Synthetic Industrial Facility 26,Lime production,2.A.2,31764,tonne lime,0.75,23823,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-027,2025,R02,Cagayan Valley,Synthetic Industrial Facility 27,Glass production,2.A.3,112293.9,tonne glass,0.2,22458.8,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO
+IP-2025-028,2025,R04A,CALABARZON,Synthetic Industrial Facility 28,Iron and steel,2.C.1,39307.4,tonne product,0.35,13757.6,tCO2e proxy,DENR-EMB,SYNTHETIC_DEMO

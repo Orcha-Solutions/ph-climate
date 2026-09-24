@@ -1,0 +1,86 @@
+record_id,year,region_code,region_name,sector,estimated_tco2e,unit,derived_from,method_note,source_office,data_status
+EMBOUT-2021-NCR,2021,NCR,National Capital Region,IPPU,321181.29,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-CAR,2021,CAR,Cordillera Administrative Region,IPPU,133150.38,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R01,2021,R01,Ilocos Region,IPPU,377251.95,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R02,2021,R02,Cagayan Valley,IPPU,164304.42,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R03,2021,R03,Central Luzon,IPPU,294329.05,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R04A,2021,R04A,CALABARZON,IPPU,116357.88,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-MIMAROPA,2021,MIMAROPA,MIMAROPA Region,IPPU,173863.09,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R05,2021,R05,Bicol Region,IPPU,202767.83,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R06,2021,R06,Western Visayas,IPPU,159537.5,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R07,2021,R07,Central Visayas,IPPU,18637.38,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R08,2021,R08,Eastern Visayas,IPPU,111463.39,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R09,2021,R09,Zamboanga Peninsula,IPPU,120189.14,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R10,2021,R10,Northern Mindanao,IPPU,134667.32,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R11,2021,R11,Davao Region,IPPU,338941.97,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R12,2021,R12,SOCCSKSARGEN,IPPU,123361.81,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-R13,2021,R13,Caraga,IPPU,404642.89,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2021-BARMM,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,IPPU,135546.89,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-NCR,2022,NCR,National Capital Region,IPPU,196746.03,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-CAR,2022,CAR,Cordillera Administrative Region,IPPU,213944.4,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R01,2022,R01,Ilocos Region,IPPU,185340.25,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R02,2022,R02,Cagayan Valley,IPPU,323248.82,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R03,2022,R03,Central Luzon,IPPU,426273.04,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R04A,2022,R04A,CALABARZON,IPPU,168006.62,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-MIMAROPA,2022,MIMAROPA,MIMAROPA Region,IPPU,370544.69,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R05,2022,R05,Bicol Region,IPPU,146536.09,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R06,2022,R06,Western Visayas,IPPU,279606.51,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R07,2022,R07,Central Visayas,IPPU,50916.88,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R08,2022,R08,Eastern Visayas,IPPU,45133.88,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R09,2022,R09,Zamboanga Peninsula,IPPU,80587.86,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R10,2022,R10,Northern Mindanao,IPPU,141415.81,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R11,2022,R11,Davao Region,IPPU,178907.32,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R12,2022,R12,SOCCSKSARGEN,IPPU,175623.08,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-R13,2022,R13,Caraga,IPPU,120439.68,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2022-BARMM,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,IPPU,260969.12,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-NCR,2023,NCR,National Capital Region,IPPU,437186.5,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-CAR,2023,CAR,Cordillera Administrative Region,IPPU,239581.93,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R01,2023,R01,Ilocos Region,IPPU,157500.22,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R02,2023,R02,Cagayan Valley,IPPU,355222.47,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R03,2023,R03,Central Luzon,IPPU,219717.34,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R04A,2023,R04A,CALABARZON,IPPU,66811.26,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-MIMAROPA,2023,MIMAROPA,MIMAROPA Region,IPPU,207188.23,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R05,2023,R05,Bicol Region,IPPU,94981.5,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R06,2023,R06,Western Visayas,IPPU,144742.29,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R07,2023,R07,Central Visayas,IPPU,422226.58,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R08,2023,R08,Eastern Visayas,IPPU,147965.15,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R09,2023,R09,Zamboanga Peninsula,IPPU,53064.54,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R10,2023,R10,Northern Mindanao,IPPU,71330.81,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R11,2023,R11,Davao Region,IPPU,108628.59,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R12,2023,R12,SOCCSKSARGEN,IPPU,110001.25,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-R13,2023,R13,Caraga,IPPU,224629.22,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2023-BARMM,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,IPPU,97152.18,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-NCR,2024,NCR,National Capital Region,IPPU,198604.85,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-CAR,2024,CAR,Cordillera Administrative Region,IPPU,239170.92,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R01,2024,R01,Ilocos Region,IPPU,172026.37,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R02,2024,R02,Cagayan Valley,IPPU,172059.64,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R03,2024,R03,Central Luzon,IPPU,462079.01,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R04A,2024,R04A,CALABARZON,IPPU,270268.56,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-MIMAROPA,2024,MIMAROPA,MIMAROPA Region,IPPU,154373.24,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R05,2024,R05,Bicol Region,IPPU,295845.92,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R06,2024,R06,Western Visayas,IPPU,435255.54,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R07,2024,R07,Central Visayas,IPPU,154551.12,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R08,2024,R08,Eastern Visayas,IPPU,173542.82,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R09,2024,R09,Zamboanga Peninsula,IPPU,65425.33,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R10,2024,R10,Northern Mindanao,IPPU,110172.86,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R11,2024,R11,Davao Region,IPPU,123273.68,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R12,2024,R12,SOCCSKSARGEN,IPPU,59254.19,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-R13,2024,R13,Caraga,IPPU,125808.38,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2024-BARMM,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,IPPU,108829.84,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-NCR,2025,NCR,National Capital Region,IPPU,346328.79,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-CAR,2025,CAR,Cordillera Administrative Region,IPPU,125177.15,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R01,2025,R01,Ilocos Region,IPPU,301026.72,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R02,2025,R02,Cagayan Valley,IPPU,507967.09,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R03,2025,R03,Central Luzon,IPPU,312184.68,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R04A,2025,R04A,CALABARZON,IPPU,421543.51,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-MIMAROPA,2025,MIMAROPA,MIMAROPA Region,IPPU,257197.51,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R05,2025,R05,Bicol Region,IPPU,417931.86,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R06,2025,R06,Western Visayas,IPPU,279430.88,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R07,2025,R07,Central Visayas,IPPU,263995.63,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R08,2025,R08,Eastern Visayas,IPPU,178970.65,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R09,2025,R09,Zamboanga Peninsula,IPPU,435363.3,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R10,2025,R10,Northern Mindanao,IPPU,77114.24,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R11,2025,R11,Davao Region,IPPU,108982,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R12,2025,R12,SOCCSKSARGEN,IPPU,115957.96,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-R13,2025,R13,Caraga,IPPU,108638.94,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED
+EMBOUT-2025-BARMM,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,IPPU,75280.33,tCO2e proxy,POD HFC + F-gas + industrial-process synthetic streams,PoC derivation only; not official GHGI,DENR-EMB,SYNTHETIC_DERIVED

@@ -1,0 +1,101 @@
+record_id,year,region_code,region_name,gas,gas_family,quantity,unit,gwp_ar4,tco2e_proxy,application,source_office,data_status,ipcc_category
+FG-2021-001,2021,R13,Caraga,CF4,PFC,884.01,kg,7390,6532.83,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-002,2021,R01,Ilocos Region,C2F6,PFC,315.85,kg,12200,3853.37,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-003,2021,MIMAROPA,MIMAROPA Region,SF6,SF6,459.07,kg,22800,10466.8,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-004,2021,R08,Eastern Visayas,NF3,NF3,854.99,kg,17200,14705.83,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-005,2021,R12,SOCCSKSARGEN,CF4,PFC,9.42,kg,7390,69.61,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-006,2021,CAR,Cordillera Administrative Region,C2F6,PFC,282.33,kg,12200,3444.43,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-007,2021,R04A,CALABARZON,SF6,SF6,749.67,kg,22800,17092.48,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-008,2021,R07,Central Visayas,NF3,NF3,465.97,kg,17200,8014.68,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-009,2021,R11,Davao Region,CF4,PFC,87.56,kg,7390,647.07,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-010,2021,NCR,National Capital Region,C2F6,PFC,417.36,kg,12200,5091.79,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-011,2021,R03,Central Luzon,SF6,SF6,339.39,kg,22800,7738.09,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-012,2021,R06,Western Visayas,NF3,NF3,579.87,kg,17200,9973.76,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-013,2021,R10,Northern Mindanao,CF4,PFC,263.42,kg,7390,1946.67,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-014,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,C2F6,PFC,696.13,kg,12200,8492.79,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-015,2021,R02,Cagayan Valley,SF6,SF6,73.4,kg,22800,1673.52,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-016,2021,R05,Bicol Region,NF3,NF3,814.49,kg,17200,14009.23,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-017,2021,R09,Zamboanga Peninsula,CF4,PFC,558.3,kg,7390,4125.84,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-018,2021,R13,Caraga,C2F6,PFC,313.98,kg,12200,3830.56,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-019,2021,R01,Ilocos Region,SF6,SF6,620.6,kg,22800,14149.68,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2021-020,2021,MIMAROPA,MIMAROPA Region,NF3,NF3,274.61,kg,17200,4723.29,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CF4,PFC,122.27,kg,7390,903.58,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-002,2022,R02,Cagayan Valley,C2F6,PFC,265.54,kg,12200,3239.59,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-003,2022,R05,Bicol Region,SF6,SF6,239.01,kg,22800,5449.43,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-004,2022,R09,Zamboanga Peninsula,NF3,NF3,85.2,kg,17200,1465.44,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-005,2022,R13,Caraga,CF4,PFC,764.05,kg,7390,5646.33,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-006,2022,R01,Ilocos Region,C2F6,PFC,80.68,kg,12200,984.3,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-007,2022,MIMAROPA,MIMAROPA Region,SF6,SF6,574.89,kg,22800,13107.49,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-008,2022,R08,Eastern Visayas,NF3,NF3,570.4,kg,17200,9810.88,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-009,2022,R12,SOCCSKSARGEN,CF4,PFC,126.52,kg,7390,934.98,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-010,2022,CAR,Cordillera Administrative Region,C2F6,PFC,244.68,kg,12200,2985.1,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-011,2022,R04A,CALABARZON,SF6,SF6,162.35,kg,22800,3701.58,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-012,2022,R07,Central Visayas,NF3,NF3,264.67,kg,17200,4552.32,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-013,2022,R11,Davao Region,CF4,PFC,361.45,kg,7390,2671.12,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-014,2022,NCR,National Capital Region,C2F6,PFC,495.9,kg,12200,6049.98,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-015,2022,R03,Central Luzon,SF6,SF6,799.37,kg,22800,18225.64,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-016,2022,R06,Western Visayas,NF3,NF3,433.14,kg,17200,7450.01,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-017,2022,R10,Northern Mindanao,CF4,PFC,405.82,kg,7390,2999.01,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,C2F6,PFC,793.7,kg,12200,9683.14,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-019,2022,R02,Cagayan Valley,SF6,SF6,589.76,kg,22800,13446.53,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2022-020,2022,R05,Bicol Region,NF3,NF3,718.27,kg,17200,12354.24,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-001,2023,NCR,National Capital Region,CF4,PFC,556,kg,7390,4108.84,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-002,2023,R03,Central Luzon,C2F6,PFC,876.15,kg,12200,10689.03,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-003,2023,R06,Western Visayas,SF6,SF6,706.26,kg,22800,16102.73,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-004,2023,R10,Northern Mindanao,NF3,NF3,338.81,kg,17200,5827.53,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-005,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CF4,PFC,534.99,kg,7390,3953.58,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-006,2023,R02,Cagayan Valley,C2F6,PFC,74.51,kg,12200,909.02,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-007,2023,R05,Bicol Region,SF6,SF6,168.82,kg,22800,3849.1,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-008,2023,R09,Zamboanga Peninsula,NF3,NF3,258.13,kg,17200,4439.84,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-009,2023,R13,Caraga,CF4,PFC,106.62,kg,7390,787.92,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-010,2023,R01,Ilocos Region,C2F6,PFC,657.78,kg,12200,8024.92,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-011,2023,MIMAROPA,MIMAROPA Region,SF6,SF6,99.86,kg,22800,2276.81,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-012,2023,R08,Eastern Visayas,NF3,NF3,181.41,kg,17200,3120.25,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-013,2023,R12,SOCCSKSARGEN,CF4,PFC,190.23,kg,7390,1405.8,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-014,2023,CAR,Cordillera Administrative Region,C2F6,PFC,682.56,kg,12200,8327.23,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-015,2023,R04A,CALABARZON,SF6,SF6,280.45,kg,22800,6394.26,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-016,2023,R07,Central Visayas,NF3,NF3,667.65,kg,17200,11483.58,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-017,2023,R11,Davao Region,CF4,PFC,794.68,kg,7390,5872.69,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-018,2023,NCR,National Capital Region,C2F6,PFC,77.12,kg,12200,940.86,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-019,2023,R03,Central Luzon,SF6,SF6,489.11,kg,22800,11151.71,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2023-020,2023,R06,Western Visayas,NF3,NF3,643.95,kg,17200,11075.94,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-001,2024,CAR,Cordillera Administrative Region,CF4,PFC,792.01,kg,7390,5852.95,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-002,2024,R04A,CALABARZON,C2F6,PFC,246.22,kg,12200,3003.88,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-003,2024,R07,Central Visayas,SF6,SF6,831.65,kg,22800,18961.62,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-004,2024,R11,Davao Region,NF3,NF3,140.97,kg,17200,2424.68,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-005,2024,NCR,National Capital Region,CF4,PFC,26.86,kg,7390,198.5,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-006,2024,R03,Central Luzon,C2F6,PFC,702.87,kg,12200,8575.01,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-007,2024,R06,Western Visayas,SF6,SF6,638.73,kg,22800,14563.04,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-008,2024,R10,Northern Mindanao,NF3,NF3,278.05,kg,17200,4782.46,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-009,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CF4,PFC,579.68,kg,7390,4283.84,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-010,2024,R02,Cagayan Valley,C2F6,PFC,596.88,kg,12200,7281.94,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-011,2024,R05,Bicol Region,SF6,SF6,220.88,kg,22800,5036.06,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-012,2024,R09,Zamboanga Peninsula,NF3,NF3,928.64,kg,17200,15972.61,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-013,2024,R13,Caraga,CF4,PFC,343.11,kg,7390,2535.58,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-014,2024,R01,Ilocos Region,C2F6,PFC,762.53,kg,12200,9302.87,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-015,2024,MIMAROPA,MIMAROPA Region,SF6,SF6,568.3,kg,22800,12957.24,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-016,2024,R08,Eastern Visayas,NF3,NF3,401.28,kg,17200,6902.02,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-017,2024,R12,SOCCSKSARGEN,CF4,PFC,831.23,kg,7390,6142.79,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-018,2024,CAR,Cordillera Administrative Region,C2F6,PFC,420.53,kg,12200,5130.47,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-019,2024,R04A,CALABARZON,SF6,SF6,713.42,kg,22800,16265.98,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2024-020,2024,R07,Central Visayas,NF3,NF3,180.92,kg,17200,3111.82,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-001,2025,R01,Ilocos Region,CF4,PFC,634.18,kg,7390,4686.59,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-002,2025,MIMAROPA,MIMAROPA Region,C2F6,PFC,598.32,kg,12200,7299.5,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-003,2025,R08,Eastern Visayas,SF6,SF6,697.45,kg,22800,15901.86,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-004,2025,R12,SOCCSKSARGEN,NF3,NF3,613.51,kg,17200,10552.37,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-005,2025,CAR,Cordillera Administrative Region,CF4,PFC,407.03,kg,7390,3007.95,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-006,2025,R04A,CALABARZON,C2F6,PFC,42.55,kg,12200,519.11,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-007,2025,R07,Central Visayas,SF6,SF6,306.44,kg,22800,6986.83,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-008,2025,R11,Davao Region,NF3,NF3,266.82,kg,17200,4589.3,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-009,2025,NCR,National Capital Region,CF4,PFC,763.91,kg,7390,5645.29,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-010,2025,R03,Central Luzon,C2F6,PFC,758.22,kg,12200,9250.28,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-011,2025,R06,Western Visayas,SF6,SF6,526.92,kg,22800,12013.78,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-012,2025,R10,Northern Mindanao,NF3,NF3,444.13,kg,17200,7639.04,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-013,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CF4,PFC,315.43,kg,7390,2331.03,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-014,2025,R02,Cagayan Valley,C2F6,PFC,693.45,kg,12200,8460.09,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-015,2025,R05,Bicol Region,SF6,SF6,582.27,kg,22800,13275.76,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-016,2025,R09,Zamboanga Peninsula,NF3,NF3,25.32,kg,17200,435.5,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-017,2025,R13,Caraga,CF4,PFC,241.44,kg,7390,1784.24,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-018,2025,R01,Ilocos Region,C2F6,PFC,773.97,kg,12200,9442.43,metal processing,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-019,2025,MIMAROPA,MIMAROPA Region,SF6,SF6,102.54,kg,22800,2337.91,semiconductor manufacture,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G
+FG-2025-020,2025,R08,Eastern Visayas,NF3,NF3,298.44,kg,17200,5133.17,electrical equipment,DENR-EMB EQMD / industry reporting,SYNTHETIC_DEMO,2.E/2.G

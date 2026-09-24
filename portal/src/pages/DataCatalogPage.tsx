@@ -56,6 +56,10 @@ export const DataCatalogPage: React.FC<DataCatalogPageProps> = ({
             <Database className="w-5 h-5 text-cyan-400" />
             PoC Data Catalog &amp; Institutional Registry
           </h1>
+          <div className="mt-2 inline-flex items-center gap-2 px-2.5 py-1 rounded-lg bg-emerald-500/10 border border-emerald-500/20 text-emerald-300 text-xs font-mono">
+            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+            <span>CSV Mock Engine Active · Directly parsing 29 raw CSV streams without database dependency</span>
+          </div>
         </div>
 
         {/* View Switcher */}
@@ -167,16 +171,28 @@ export const DataCatalogPage: React.FC<DataCatalogPageProps> = ({
                     {item.status}
                   </span>
 
-                  <button
-                    onClick={() => {
-                      if (isEmb) onNavigateTab('emb');
-                      else if (isMgb) onNavigateTab('mgb');
-                      else onNavigateTab('overview');
-                    }}
-                    className="text-xs font-mono text-cyan-400 hover:text-cyan-300 flex items-center gap-1"
-                  >
-                    Open View <ArrowRight className="w-3.5 h-3.5" />
-                  </button>
+                  <div className="flex items-center gap-2">
+                    <a
+                      href={`/data/csv/${item.dataset_id}.csv`}
+                      download={`${item.dataset_id}.csv`}
+                      className="px-2 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700 text-xs font-mono flex items-center gap-1 transition-colors"
+                      title="Download raw source CSV"
+                    >
+                      <Download className="w-3 h-3 text-cyan-400" />
+                      CSV
+                    </a>
+
+                    <button
+                      onClick={() => {
+                        if (isEmb) onNavigateTab('emb');
+                        else if (isMgb) onNavigateTab('mgb');
+                        else onNavigateTab('overview');
+                      }}
+                      className="text-xs font-mono text-cyan-400 hover:text-cyan-300 flex items-center gap-1"
+                    >
+                      Open View <ArrowRight className="w-3.5 h-3.5" />
+                    </button>
+                  </div>
                 </div>
               </div>
             );

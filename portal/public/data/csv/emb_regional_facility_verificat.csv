@@ -1,0 +1,211 @@
+record_id,year,region_code,region_name,facility,baseline_tco2e,reported_reduction_tco2e,net_tco2e,verification_status,source_office,data_status
+VER-2021-001,2021,R13,Caraga,Synthetic Facility 01,67459.9,1214.9,66245.1,submitted,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2021-002,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 02,87534.6,10962.9,76571.7,desk-checked,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2021-003,2021,NCR,National Capital Region,Synthetic Facility 03,44576.4,7105.1,37471.3,validated,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2021-004,2021,CAR,Cordillera Administrative Region,Synthetic Facility 04,88231.4,2492.3,85739.1,for clarification,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2021-005,2021,R01,Ilocos Region,Synthetic Facility 05,82804.2,7732.8,75071.4,submitted,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2021-006,2021,R02,Cagayan Valley,Synthetic Facility 06,25803.7,1840.2,23963.5,desk-checked,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2021-007,2021,R03,Central Luzon,Synthetic Facility 07,36804.6,615.9,36188.7,validated,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2021-008,2021,R04A,CALABARZON,Synthetic Facility 08,30931.8,5387.9,25543.9,for clarification,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2021-009,2021,MIMAROPA,MIMAROPA Region,Synthetic Facility 09,34511.7,4595,29916.7,submitted,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2021-010,2021,R05,Bicol Region,Synthetic Facility 10,1703.1,264,1439.1,desk-checked,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2021-011,2021,R06,Western Visayas,Synthetic Facility 11,73004.7,6389.6,66615,validated,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2021-012,2021,R07,Central Visayas,Synthetic Facility 12,9976,1242.1,8733.9,for clarification,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2021-013,2021,R08,Eastern Visayas,Synthetic Facility 13,35459.8,3739.2,31720.5,submitted,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2021-014,2021,R09,Zamboanga Peninsula,Synthetic Facility 14,68310.5,2110.2,66200.3,desk-checked,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2021-015,2021,R10,Northern Mindanao,Synthetic Facility 15,73623.5,2869.7,70753.8,validated,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2021-016,2021,R11,Davao Region,Synthetic Facility 16,66983.1,5679.2,61303.9,for clarification,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2021-017,2021,R12,SOCCSKSARGEN,Synthetic Facility 17,78303.2,4961.3,73341.9,submitted,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2021-018,2021,R13,Caraga,Synthetic Facility 18,38913.4,6807.8,32105.6,desk-checked,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2021-019,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 19,49684.8,8615.2,41069.6,validated,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2021-020,2021,NCR,National Capital Region,Synthetic Facility 20,43347.7,2228.9,41118.8,for clarification,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2021-021,2021,CAR,Cordillera Administrative Region,Synthetic Facility 21,85640.2,8002.3,77637.9,submitted,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2021-022,2021,R01,Ilocos Region,Synthetic Facility 22,34527,1636.2,32890.8,desk-checked,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2021-023,2021,R02,Cagayan Valley,Synthetic Facility 23,1920.3,29.6,1890.7,validated,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2021-024,2021,R03,Central Luzon,Synthetic Facility 24,74457.2,9311.5,65145.8,for clarification,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2021-025,2021,R04A,CALABARZON,Synthetic Facility 25,69338.9,4898.1,64440.8,submitted,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2021-026,2021,MIMAROPA,MIMAROPA Region,Synthetic Facility 26,7891.3,79.9,7811.4,desk-checked,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2021-027,2021,R05,Bicol Region,Synthetic Facility 27,24555.2,3413.5,21141.7,validated,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2021-028,2021,R06,Western Visayas,Synthetic Facility 28,18657.7,2213.8,16443.9,for clarification,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2021-029,2021,R07,Central Visayas,Synthetic Facility 29,66638.7,7835.8,58802.9,submitted,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2021-030,2021,R08,Eastern Visayas,Synthetic Facility 30,79510.2,1009.6,78500.6,desk-checked,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2021-031,2021,R09,Zamboanga Peninsula,Synthetic Facility 31,32713.2,5655.5,27057.8,validated,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2021-032,2021,R10,Northern Mindanao,Synthetic Facility 32,83844.2,1530.4,82313.8,for clarification,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2021-033,2021,R11,Davao Region,Synthetic Facility 33,65728.9,4585.8,61143,submitted,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2021-034,2021,R12,SOCCSKSARGEN,Synthetic Facility 34,47304.3,2460.8,44843.5,desk-checked,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2021-035,2021,R13,Caraga,Synthetic Facility 35,35805.9,3881.4,31924.5,validated,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2021-036,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 36,24094.5,1776.2,22318.3,for clarification,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2021-037,2021,NCR,National Capital Region,Synthetic Facility 37,56139.8,6218.3,49921.5,submitted,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2021-038,2021,CAR,Cordillera Administrative Region,Synthetic Facility 38,53417,3284.4,50132.6,desk-checked,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2021-039,2021,R01,Ilocos Region,Synthetic Facility 39,81037.4,6246.9,74790.5,validated,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2021-040,2021,R02,Cagayan Valley,Synthetic Facility 40,51950.9,1636.5,50314.5,for clarification,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2021-041,2021,R03,Central Luzon,Synthetic Facility 41,85529.1,3479.6,82049.5,submitted,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2021-042,2021,R04A,CALABARZON,Synthetic Facility 42,19224.6,1192,18032.6,desk-checked,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 01,20755.9,2119.6,18636.4,submitted,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2022-002,2022,NCR,National Capital Region,Synthetic Facility 02,14967.2,1994.2,12973.1,desk-checked,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2022-003,2022,CAR,Cordillera Administrative Region,Synthetic Facility 03,4062.1,606.3,3455.8,validated,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2022-004,2022,R01,Ilocos Region,Synthetic Facility 04,59712.7,10109.1,49603.6,for clarification,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2022-005,2022,R02,Cagayan Valley,Synthetic Facility 05,1496.3,27.6,1468.7,submitted,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2022-006,2022,R03,Central Luzon,Synthetic Facility 06,20247.7,1288.4,18959.3,desk-checked,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2022-007,2022,R04A,CALABARZON,Synthetic Facility 07,60491.4,1774.5,58716.8,validated,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2022-008,2022,MIMAROPA,MIMAROPA Region,Synthetic Facility 08,22593.7,3918.9,18674.8,for clarification,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2022-009,2022,R05,Bicol Region,Synthetic Facility 09,9105.5,1071.7,8033.8,submitted,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2022-010,2022,R06,Western Visayas,Synthetic Facility 10,32106.4,2235.2,29871.2,desk-checked,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2022-011,2022,R07,Central Visayas,Synthetic Facility 11,71404,7655.4,63748.5,validated,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2022-012,2022,R08,Eastern Visayas,Synthetic Facility 12,60101.9,10109.5,49992.4,for clarification,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2022-013,2022,R09,Zamboanga Peninsula,Synthetic Facility 13,31605,5029.7,26575.3,submitted,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2022-014,2022,R10,Northern Mindanao,Synthetic Facility 14,3167.3,333.7,2833.6,desk-checked,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2022-015,2022,R11,Davao Region,Synthetic Facility 15,39175.9,1467.1,37708.8,validated,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2022-016,2022,R12,SOCCSKSARGEN,Synthetic Facility 16,19040,1161.9,17878.1,for clarification,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2022-017,2022,R13,Caraga,Synthetic Facility 17,52003.4,8634,43369.5,submitted,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 18,35245.6,3529.3,31716.3,desk-checked,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2022-019,2022,NCR,National Capital Region,Synthetic Facility 19,28581.3,5032.2,23549.1,validated,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2022-020,2022,CAR,Cordillera Administrative Region,Synthetic Facility 20,35460.7,5184.8,30275.9,for clarification,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2022-021,2022,R01,Ilocos Region,Synthetic Facility 21,89988.9,9536.6,80452.3,submitted,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2022-022,2022,R02,Cagayan Valley,Synthetic Facility 22,22700.7,1288.7,21412,desk-checked,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2022-023,2022,R03,Central Luzon,Synthetic Facility 23,9308.2,1031.2,8277,validated,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2022-024,2022,R04A,CALABARZON,Synthetic Facility 24,61949.7,5966.8,55983,for clarification,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2022-025,2022,MIMAROPA,MIMAROPA Region,Synthetic Facility 25,67420.6,6125.6,61295,submitted,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2022-026,2022,R05,Bicol Region,Synthetic Facility 26,40121,4736.2,35384.8,desk-checked,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2022-027,2022,R06,Western Visayas,Synthetic Facility 27,79696.7,7812,71884.7,validated,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2022-028,2022,R07,Central Visayas,Synthetic Facility 28,7672.5,646.7,7025.7,for clarification,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2022-029,2022,R08,Eastern Visayas,Synthetic Facility 29,36644,870.5,35773.5,submitted,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2022-030,2022,R09,Zamboanga Peninsula,Synthetic Facility 30,16472.2,2933.3,13538.9,desk-checked,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2022-031,2022,R10,Northern Mindanao,Synthetic Facility 31,75141.9,8618.2,66523.7,validated,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2022-032,2022,R11,Davao Region,Synthetic Facility 32,37322.3,1158.2,36164.1,for clarification,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2022-033,2022,R12,SOCCSKSARGEN,Synthetic Facility 33,26644.6,2272.3,24372.3,submitted,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2022-034,2022,R13,Caraga,Synthetic Facility 34,35126.9,4817.8,30309,desk-checked,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2022-035,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 35,22552,4057.2,18494.8,validated,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2022-036,2022,NCR,National Capital Region,Synthetic Facility 36,83331.3,8136.9,75194.4,for clarification,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2022-037,2022,CAR,Cordillera Administrative Region,Synthetic Facility 37,80307.8,5570.7,74737.1,submitted,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2022-038,2022,R01,Ilocos Region,Synthetic Facility 38,47729.7,7894.7,39835,desk-checked,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2022-039,2022,R02,Cagayan Valley,Synthetic Facility 39,29192.8,5162.2,24030.6,validated,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2022-040,2022,R03,Central Luzon,Synthetic Facility 40,23863.8,3691.7,20172.1,for clarification,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2022-041,2022,R04A,CALABARZON,Synthetic Facility 41,2527.5,332.6,2194.9,submitted,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2022-042,2022,MIMAROPA,MIMAROPA Region,Synthetic Facility 42,88274.3,6200.8,82073.5,desk-checked,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2023-001,2023,NCR,National Capital Region,Synthetic Facility 01,59386.2,8513.5,50872.7,submitted,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2023-002,2023,CAR,Cordillera Administrative Region,Synthetic Facility 02,31018.7,2757.9,28260.7,desk-checked,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2023-003,2023,R01,Ilocos Region,Synthetic Facility 03,86364.9,6129.4,80235.5,validated,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2023-004,2023,R02,Cagayan Valley,Synthetic Facility 04,39705.7,6795.9,32909.8,for clarification,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2023-005,2023,R03,Central Luzon,Synthetic Facility 05,28239.4,4736.1,23503.3,submitted,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2023-006,2023,R04A,CALABARZON,Synthetic Facility 06,78732,1600.3,77131.7,desk-checked,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2023-007,2023,MIMAROPA,MIMAROPA Region,Synthetic Facility 07,16574.7,2127.7,14447,validated,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2023-008,2023,R05,Bicol Region,Synthetic Facility 08,69351.8,2513.2,66838.6,for clarification,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2023-009,2023,R06,Western Visayas,Synthetic Facility 09,89279.2,8043.3,81235.8,submitted,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2023-010,2023,R07,Central Visayas,Synthetic Facility 10,81778.4,4889.3,76889.1,desk-checked,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2023-011,2023,R08,Eastern Visayas,Synthetic Facility 11,72061.1,10862.5,61198.6,validated,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2023-012,2023,R09,Zamboanga Peninsula,Synthetic Facility 12,32845.2,2994.9,29850.3,for clarification,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2023-013,2023,R10,Northern Mindanao,Synthetic Facility 13,46175.1,6839.4,39335.8,submitted,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2023-014,2023,R11,Davao Region,Synthetic Facility 14,27157,1489,25668,desk-checked,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2023-015,2023,R12,SOCCSKSARGEN,Synthetic Facility 15,78671.3,6353.6,72317.7,validated,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2023-016,2023,R13,Caraga,Synthetic Facility 16,2563.8,422.5,2141.3,for clarification,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2023-017,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 17,80319.1,6388.5,73930.6,submitted,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2023-018,2023,NCR,National Capital Region,Synthetic Facility 18,27441,2296.7,25144.4,desk-checked,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2023-019,2023,CAR,Cordillera Administrative Region,Synthetic Facility 19,41617.1,6379.3,35237.8,validated,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2023-020,2023,R01,Ilocos Region,Synthetic Facility 20,20106.1,3321.9,16784.1,for clarification,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2023-021,2023,R02,Cagayan Valley,Synthetic Facility 21,67591.9,1375.9,66216,submitted,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2023-022,2023,R03,Central Luzon,Synthetic Facility 22,21495.9,550.6,20945.2,desk-checked,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2023-023,2023,R04A,CALABARZON,Synthetic Facility 23,70151.1,7793.5,62357.6,validated,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2023-024,2023,MIMAROPA,MIMAROPA Region,Synthetic Facility 24,73809.6,9996.6,63813,for clarification,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2023-025,2023,R05,Bicol Region,Synthetic Facility 25,54442,8211,46231,submitted,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2023-026,2023,R06,Western Visayas,Synthetic Facility 26,74918.8,3931.5,70987.4,desk-checked,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2023-027,2023,R07,Central Visayas,Synthetic Facility 27,34579.4,2446.1,32133.3,validated,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2023-028,2023,R08,Eastern Visayas,Synthetic Facility 28,85445.3,3671.5,81773.8,for clarification,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2023-029,2023,R09,Zamboanga Peninsula,Synthetic Facility 29,57202.8,4955.9,52246.9,submitted,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2023-030,2023,R10,Northern Mindanao,Synthetic Facility 30,8695.4,668.4,8027,desk-checked,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2023-031,2023,R11,Davao Region,Synthetic Facility 31,27358.1,2225.1,25132.9,validated,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2023-032,2023,R12,SOCCSKSARGEN,Synthetic Facility 32,4853.4,697,4156.3,for clarification,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2023-033,2023,R13,Caraga,Synthetic Facility 33,69167.3,3377.3,65790,submitted,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2023-034,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 34,5484.9,695,4789.9,desk-checked,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2023-035,2023,NCR,National Capital Region,Synthetic Facility 35,39855.7,4257.3,35598.4,validated,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2023-036,2023,CAR,Cordillera Administrative Region,Synthetic Facility 36,58718.2,2602.4,56115.8,for clarification,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2023-037,2023,R01,Ilocos Region,Synthetic Facility 37,14154.9,1653.1,12501.8,submitted,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2023-038,2023,R02,Cagayan Valley,Synthetic Facility 38,65266.9,2279.1,62987.8,desk-checked,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2023-039,2023,R03,Central Luzon,Synthetic Facility 39,16849.1,2644.3,14204.9,validated,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2023-040,2023,R04A,CALABARZON,Synthetic Facility 40,24811.2,1491.9,23319.3,for clarification,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2023-041,2023,MIMAROPA,MIMAROPA Region,Synthetic Facility 41,48055.1,7932.7,40122.4,submitted,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2023-042,2023,R05,Bicol Region,Synthetic Facility 42,75981.9,11671.1,64310.9,desk-checked,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2024-001,2024,CAR,Cordillera Administrative Region,Synthetic Facility 01,12323.7,1796.2,10527.5,submitted,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2024-002,2024,R01,Ilocos Region,Synthetic Facility 02,22309.7,230.1,22079.6,desk-checked,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2024-003,2024,R02,Cagayan Valley,Synthetic Facility 03,41108.8,4616,36492.8,validated,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2024-004,2024,R03,Central Luzon,Synthetic Facility 04,82390.6,7496.5,74894.1,for clarification,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2024-005,2024,R04A,CALABARZON,Synthetic Facility 05,20402.8,3531,16871.8,submitted,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2024-006,2024,MIMAROPA,MIMAROPA Region,Synthetic Facility 06,41884.2,928.1,40956.1,desk-checked,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2024-007,2024,R05,Bicol Region,Synthetic Facility 07,78848.3,2356.4,76491.8,validated,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2024-008,2024,R06,Western Visayas,Synthetic Facility 08,84081.2,4287.2,79794,for clarification,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2024-009,2024,R07,Central Visayas,Synthetic Facility 09,10566.3,1306.4,9259.9,submitted,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2024-010,2024,R08,Eastern Visayas,Synthetic Facility 10,24852,3116.1,21735.9,desk-checked,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2024-011,2024,R09,Zamboanga Peninsula,Synthetic Facility 11,66386.2,6213.3,60172.8,validated,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2024-012,2024,R10,Northern Mindanao,Synthetic Facility 12,11369.3,114.1,11255.2,for clarification,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2024-013,2024,R11,Davao Region,Synthetic Facility 13,24031.7,3453.2,20578.4,submitted,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2024-014,2024,R12,SOCCSKSARGEN,Synthetic Facility 14,70441.9,1698.6,68743.3,desk-checked,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2024-015,2024,R13,Caraga,Synthetic Facility 15,45261.9,1094.7,44167.2,validated,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2024-016,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 16,52986.1,3021.6,49964.5,for clarification,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2024-017,2024,NCR,National Capital Region,Synthetic Facility 17,40642.8,582.6,40060.2,submitted,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2024-018,2024,CAR,Cordillera Administrative Region,Synthetic Facility 18,22007.2,3427.4,18579.7,desk-checked,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2024-019,2024,R01,Ilocos Region,Synthetic Facility 19,14087,1568.6,12518.4,validated,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2024-020,2024,R02,Cagayan Valley,Synthetic Facility 20,15767.2,1892.5,13874.7,for clarification,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2024-021,2024,R03,Central Luzon,Synthetic Facility 21,15566.5,392.3,15174.1,submitted,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2024-022,2024,R04A,CALABARZON,Synthetic Facility 22,5257.7,656.5,4601.2,desk-checked,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2024-023,2024,MIMAROPA,MIMAROPA Region,Synthetic Facility 23,9360.2,1484.4,7875.7,validated,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2024-024,2024,R05,Bicol Region,Synthetic Facility 24,20808.3,546.1,20262.2,for clarification,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2024-025,2024,R06,Western Visayas,Synthetic Facility 25,79253.2,14141.4,65111.8,submitted,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2024-026,2024,R07,Central Visayas,Synthetic Facility 26,47791.9,1581,46210.9,desk-checked,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2024-027,2024,R08,Eastern Visayas,Synthetic Facility 27,8995.5,975.5,8020.1,validated,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2024-028,2024,R09,Zamboanga Peninsula,Synthetic Facility 28,40729.1,2472.7,38256.3,for clarification,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2024-029,2024,R10,Northern Mindanao,Synthetic Facility 29,67026,11128.4,55897.7,submitted,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2024-030,2024,R11,Davao Region,Synthetic Facility 30,51656.2,8563.5,43092.7,desk-checked,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2024-031,2024,R12,SOCCSKSARGEN,Synthetic Facility 31,86303.6,5092.7,81211,validated,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2024-032,2024,R13,Caraga,Synthetic Facility 32,79735.3,8940.9,70794.5,for clarification,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2024-033,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 33,62965.9,5836.8,57129.2,submitted,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2024-034,2024,NCR,National Capital Region,Synthetic Facility 34,4264.7,584.2,3680.5,desk-checked,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2024-035,2024,CAR,Cordillera Administrative Region,Synthetic Facility 35,42693,2957.3,39735.7,validated,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2024-036,2024,R01,Ilocos Region,Synthetic Facility 36,21613.8,3556.2,18057.6,for clarification,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2024-037,2024,R02,Cagayan Valley,Synthetic Facility 37,64211.6,4071.8,60139.8,submitted,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2024-038,2024,R03,Central Luzon,Synthetic Facility 38,86902.2,5269.3,81632.9,desk-checked,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2024-039,2024,R04A,CALABARZON,Synthetic Facility 39,13469.1,987,12482.2,validated,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2024-040,2024,MIMAROPA,MIMAROPA Region,Synthetic Facility 40,18428.9,2909.1,15519.9,for clarification,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2024-041,2024,R05,Bicol Region,Synthetic Facility 41,14015.9,1141.5,12874.4,submitted,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2024-042,2024,R06,Western Visayas,Synthetic Facility 42,64507.4,4282.4,60225,desk-checked,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-001,2025,R01,Ilocos Region,Synthetic Facility 01,45195.3,3513.3,41682,submitted,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2025-002,2025,R02,Cagayan Valley,Synthetic Facility 02,38817.8,6638.3,32179.5,desk-checked,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2025-003,2025,R03,Central Luzon,Synthetic Facility 03,31946.8,1225.9,30720.9,validated,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2025-004,2025,R04A,CALABARZON,Synthetic Facility 04,1777.5,63.9,1713.6,for clarification,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2025-005,2025,MIMAROPA,MIMAROPA Region,Synthetic Facility 05,40585.1,2325.6,38259.6,submitted,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2025-006,2025,R05,Bicol Region,Synthetic Facility 06,51993.9,989.4,51004.5,desk-checked,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2025-007,2025,R06,Western Visayas,Synthetic Facility 07,85219.1,11386.2,73832.9,validated,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-008,2025,R07,Central Visayas,Synthetic Facility 08,20398.8,769.5,19629.4,for clarification,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-009,2025,R08,Eastern Visayas,Synthetic Facility 09,63767.7,9549.8,54218,submitted,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-010,2025,R09,Zamboanga Peninsula,Synthetic Facility 10,28052.7,1650.4,26402.2,desk-checked,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2025-011,2025,R10,Northern Mindanao,Synthetic Facility 11,9686.6,776.6,8910,validated,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2025-012,2025,R11,Davao Region,Synthetic Facility 12,43171.5,3001.5,40170,for clarification,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2025-013,2025,R12,SOCCSKSARGEN,Synthetic Facility 13,34774.2,2632.9,32141.3,submitted,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2025-014,2025,R13,Caraga,Synthetic Facility 14,20419.8,3293.8,17126,desk-checked,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2025-015,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 15,70877.2,5853.1,65024,validated,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2025-016,2025,NCR,National Capital Region,Synthetic Facility 16,75761.4,7840.5,67920.9,for clarification,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2025-017,2025,CAR,Cordillera Administrative Region,Synthetic Facility 17,9170.7,1579.9,7590.8,submitted,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2025-018,2025,R01,Ilocos Region,Synthetic Facility 18,33459.9,3494.8,29965.1,desk-checked,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2025-019,2025,R02,Cagayan Valley,Synthetic Facility 19,14688,513.3,14174.8,validated,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2025-020,2025,R03,Central Luzon,Synthetic Facility 20,46199.2,6348.6,39850.6,for clarification,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2025-021,2025,R04A,CALABARZON,Synthetic Facility 21,38124.5,5701.4,32423.1,submitted,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2025-022,2025,MIMAROPA,MIMAROPA Region,Synthetic Facility 22,38669.9,2740.9,35928.9,desk-checked,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2025-023,2025,R05,Bicol Region,Synthetic Facility 23,71178.9,2877.4,68301.5,validated,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2025-024,2025,R06,Western Visayas,Synthetic Facility 24,28830.5,1886,26944.5,for clarification,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-025,2025,R07,Central Visayas,Synthetic Facility 25,18582.3,1537.2,17045.1,submitted,EMB Central Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-026,2025,R08,Eastern Visayas,Synthetic Facility 26,36054.8,1950.9,34103.9,desk-checked,EMB Eastern Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-027,2025,R09,Zamboanga Peninsula,Synthetic Facility 27,57721.7,9366.4,48355.2,validated,EMB Zamboanga Peninsula Regional Office,SYNTHETIC_DEMO
+VER-2025-028,2025,R10,Northern Mindanao,Synthetic Facility 28,76755.8,11025.7,65730.1,for clarification,EMB Northern Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2025-029,2025,R11,Davao Region,Synthetic Facility 29,85403.2,9439,75964.2,submitted,EMB Davao Region Regional Office,SYNTHETIC_DEMO
+VER-2025-030,2025,R12,SOCCSKSARGEN,Synthetic Facility 30,43565.5,3184.2,40381.3,desk-checked,EMB SOCCSKSARGEN Regional Office,SYNTHETIC_DEMO
+VER-2025-031,2025,R13,Caraga,Synthetic Facility 31,30080.6,3484.1,26596.5,validated,EMB Caraga Regional Office,SYNTHETIC_DEMO
+VER-2025-032,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Synthetic Facility 32,64913.9,11351.4,53562.5,for clarification,EMB Bangsamoro Autonomous Region in Muslim Mindanao Regional Office,SYNTHETIC_DEMO
+VER-2025-033,2025,NCR,National Capital Region,Synthetic Facility 33,72368.1,6680.1,65688.1,submitted,EMB National Capital Region Regional Office,SYNTHETIC_DEMO
+VER-2025-034,2025,CAR,Cordillera Administrative Region,Synthetic Facility 34,88989.5,4361.3,84628.2,desk-checked,EMB Cordillera Administrative Region Regional Office,SYNTHETIC_DEMO
+VER-2025-035,2025,R01,Ilocos Region,Synthetic Facility 35,36231.9,4054,32177.9,validated,EMB Ilocos Region Regional Office,SYNTHETIC_DEMO
+VER-2025-036,2025,R02,Cagayan Valley,Synthetic Facility 36,52966.6,8775.1,44191.5,for clarification,EMB Cagayan Valley Regional Office,SYNTHETIC_DEMO
+VER-2025-037,2025,R03,Central Luzon,Synthetic Facility 37,71542.4,6768.1,64774.3,submitted,EMB Central Luzon Regional Office,SYNTHETIC_DEMO
+VER-2025-038,2025,R04A,CALABARZON,Synthetic Facility 38,51486.7,5721.5,45765.2,desk-checked,EMB CALABARZON Regional Office,SYNTHETIC_DEMO
+VER-2025-039,2025,MIMAROPA,MIMAROPA Region,Synthetic Facility 39,41423.1,5046.3,36376.8,validated,EMB MIMAROPA Region Regional Office,SYNTHETIC_DEMO
+VER-2025-040,2025,R05,Bicol Region,Synthetic Facility 40,73623.5,11507.3,62116.2,for clarification,EMB Bicol Region Regional Office,SYNTHETIC_DEMO
+VER-2025-041,2025,R06,Western Visayas,Synthetic Facility 41,88576.7,2831.4,85745.3,submitted,EMB Western Visayas Regional Office,SYNTHETIC_DEMO
+VER-2025-042,2025,R07,Central Visayas,Synthetic Facility 42,37814.3,5584.2,32230.1,desk-checked,EMB Central Visayas Regional Office,SYNTHETIC_DEMO

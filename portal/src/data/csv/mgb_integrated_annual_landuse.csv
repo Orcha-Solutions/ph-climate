@@ -1,0 +1,181 @@
+record_id,year,facility_id,operator,region_code,region_name,commodity,raw_material_moved_t,disturbed_area_ha,rehabilitated_area_ha,report_basis,source_office,data_status
+IAR-2021-001,2021,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,977878.2,1135.75,169.56,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-002,2021,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,1554892.9,1042.23,123.06,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-003,2021,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,115384,1042.93,120.37,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-004,2021,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,688218.9,536.55,172.48,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-005,2021,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,80046.9,717.56,294.39,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-006,2021,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,2399790.5,853.15,190.81,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-007,2021,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,999420.3,177.51,33.4,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-008,2021,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,913563.7,727.15,189.24,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-009,2021,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,1122406.4,533.47,134.75,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-010,2021,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,1225677.9,1070.66,256.82,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-011,2021,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,41895,1124.61,284.54,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-012,2021,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,2344439.2,549.55,246.21,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-013,2021,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,1223907.4,750.98,233.72,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-014,2021,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,1949316.9,613.86,271.98,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-015,2021,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,710107.7,181.27,68.47,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-016,2021,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,1274213.3,845.79,75.85,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-017,2021,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,2314480.2,33.43,13.39,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-018,2021,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,103747.4,649.35,141.4,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-019,2021,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,1259941.7,196.2,20.96,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-020,2021,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,700091.1,1162.31,233,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-021,2021,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,288653.5,1073.28,423.53,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-022,2021,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,1911094.9,415.52,147.84,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-023,2021,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,2670840.7,657.74,110.88,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-024,2021,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,1702980.1,1131.01,305.71,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-025,2021,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,1841002,901.73,330.73,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-026,2021,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,288266.3,1008.4,340.9,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-027,2021,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,610215.7,245.21,19.96,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-028,2021,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,561198.6,909.58,87.8,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-029,2021,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,1734318.9,1053,207.34,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-030,2021,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,1172925.4,518.83,31.49,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-031,2021,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,2528552.4,976.91,370.35,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-032,2021,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,1557048.5,428.41,24.45,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-033,2021,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,91841.4,215.38,12.9,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-034,2021,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,1866880.7,807.26,51.07,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-035,2021,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,1841998.6,1086.68,127.23,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2021-036,2021,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,1630803.1,1062.97,91.62,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-001,2022,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,608184.4,629.4,190.12,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-002,2022,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,2699110.3,132.17,18.52,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-003,2022,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,2607368.8,110.23,6.5,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-004,2022,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,737751.8,106.79,23.07,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-005,2022,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,1907387,462.69,75.08,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-006,2022,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,132713.4,1112.7,315.12,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-007,2022,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,878531.9,1107.91,461.34,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-008,2022,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,1114113.1,1040.21,389.32,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-009,2022,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,961850.7,310.97,77.52,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-010,2022,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,1881659.8,844.86,353.72,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-011,2022,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,142768.5,1119.7,231.68,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-012,2022,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,393939.1,747.69,45.34,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-013,2022,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,90159,596.73,186.74,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-014,2022,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,665060.6,107.78,42.07,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-015,2022,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,1870812.2,106.45,41.11,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-016,2022,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,2077441.6,516.7,57.95,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-017,2022,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,2672172,269.97,45.55,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-018,2022,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,80820.8,726.58,64.68,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-019,2022,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,1414220,18.63,7.27,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-020,2022,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,2514215.6,679.53,132.35,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-021,2022,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,1459627.6,1013.36,319.32,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-022,2022,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,478834.2,779.11,332.76,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-023,2022,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,743422.2,1117.47,163.91,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-024,2022,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,2601226.3,679.64,231.31,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-025,2022,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,2159719.6,606.69,139.46,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-026,2022,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,2364315.3,1128.9,73.21,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-027,2022,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,2104328.8,295.49,127.48,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-028,2022,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,1506112.5,568.42,73.26,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-029,2022,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,988964.5,301.2,68.7,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-030,2022,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,1159710.7,144.61,32.12,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-031,2022,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,1187612.9,339.55,149.08,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-032,2022,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,1283336.1,610.23,62.5,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-033,2022,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,1363613.5,98.91,41.84,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-034,2022,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,1237825.3,749.51,89.22,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-035,2022,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,1594150.8,92.94,27.55,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2022-036,2022,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,919386.3,238.62,15.27,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-001,2023,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,2290717.9,580.18,43.99,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-002,2023,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,1146629.8,83.07,30.12,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-003,2023,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,2890188.3,206.82,45.06,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-004,2023,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,1813916.6,136.17,52.85,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-005,2023,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,157105.9,504.34,167.96,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-006,2023,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,1038496.7,522.88,178.32,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-007,2023,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,639025.3,601.75,255.57,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-008,2023,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,2042036,1064.45,336.9,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-009,2023,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,1645626.4,930.86,391.57,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-010,2023,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,14419.6,986.08,71.45,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-011,2023,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,2249850.7,1152.44,116.25,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-012,2023,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,1989035.4,72.17,7.43,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-013,2023,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,1705508.8,593.18,112.92,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-014,2023,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,939544.2,452.91,176.45,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-015,2023,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,2341822.3,894.09,75.31,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-016,2023,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,2890143,1119.12,79.46,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-017,2023,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,1069555.6,1120.11,445.45,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-018,2023,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,1883331.1,460.5,141.94,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-019,2023,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,2579725.6,935.02,326.6,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-020,2023,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,411058,693.32,39.48,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-021,2023,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,1082161.6,267.21,95.51,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-022,2023,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,1343042.1,116.26,30.58,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-023,2023,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,705723.6,535.06,178.73,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-024,2023,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,1113933.3,945.08,209.11,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-025,2023,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,2573682.9,35.16,11.66,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-026,2023,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,2588020.6,425.13,183.87,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-027,2023,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,1449440.8,1134.01,230.52,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-028,2023,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,894644.7,421.69,76.77,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-029,2023,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,1671636.4,317.74,123.27,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-030,2023,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,2399886.6,1005.54,386.57,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-031,2023,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,645813.6,629.57,126.65,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-032,2023,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,1152733.1,1146.87,467.47,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-033,2023,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,547296.8,230.81,12.59,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-034,2023,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,2497584.9,392.69,114.57,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-035,2023,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,371476.9,313.09,43.42,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2023-036,2023,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,2268827.4,321.06,93.89,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-001,2024,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,1743896,569.23,81.48,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-002,2024,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,337580.9,310.99,95.46,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-003,2024,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,286500.3,769.42,240.4,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-004,2024,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,1361727.1,348.73,96.57,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-005,2024,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,1750950.3,952.11,153.7,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-006,2024,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,2710445.2,536.99,80.19,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-007,2024,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,1452616.9,848.16,162.42,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-008,2024,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,853340,69.89,6.64,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-009,2024,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,2064175.4,1111.8,74.33,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-010,2024,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,2560808.5,180.53,79.17,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-011,2024,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,842513.8,840.91,289.09,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-012,2024,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,582910.4,407.97,31.44,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-013,2024,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,2224172.8,242.26,61.13,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-014,2024,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,2976331.7,805.41,275.36,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-015,2024,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,2035744.2,595.52,115.77,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-016,2024,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,2095733,182.59,75.2,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-017,2024,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,622303.2,411.44,58,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-018,2024,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,1324482.1,629.58,126.93,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-019,2024,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,750215,313.81,17.34,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-020,2024,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,1050275.8,303.85,112.57,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-021,2024,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,1244001,747.82,90.85,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-022,2024,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,814430,561.89,94.7,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-023,2024,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,1414388.5,709.47,178.16,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-024,2024,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,984989.1,1073.39,239.35,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-025,2024,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,850037.1,901.22,221.44,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-026,2024,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,2208439.7,955.33,420.15,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-027,2024,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,2615532.6,369.2,159.24,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-028,2024,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,752421.9,339.29,26.95,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-029,2024,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,1966636.3,850.14,275.97,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-030,2024,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,590826.4,82.76,6.64,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-031,2024,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,1658278.6,575.87,201.75,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-032,2024,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,2661569,689.55,218.53,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-033,2024,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,2079318.7,283.38,42.52,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-034,2024,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,2777504.9,818.73,267.03,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-035,2024,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,897515,557.22,143.38,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2024-036,2024,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,579846.6,527.93,195.18,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-001,2025,MGB-FAC-001,Synthetic Mineral Operation 01,R04A,CALABARZON,Gold ore,2697908.8,1178.49,323.1,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-002,2025,MGB-FAC-002,Synthetic Mineral Operation 02,R08,Eastern Visayas,Copper concentrate,2647565,898.41,179.9,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-003,2025,MGB-FAC-003,Synthetic Mineral Operation 03,R13,Caraga,Limestone,2739284.6,1061.39,358.98,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-004,2025,MGB-FAC-004,Synthetic Mineral Operation 04,R02,Cagayan Valley,Silica,2783034.8,785.03,127.82,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-005,2025,MGB-FAC-005,Synthetic Mineral Operation 05,R06,Western Visayas,Chromite,2147629,871.76,321.07,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-006,2025,MGB-FAC-006,Synthetic Mineral Operation 06,R11,Davao Region,Aggregates,433478.4,1067.18,255.6,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-007,2025,MGB-FAC-007,Synthetic Mineral Operation 07,CAR,Cordillera Administrative Region,Nickel ore,914122.1,66.3,24.09,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-008,2025,MGB-FAC-008,Synthetic Mineral Operation 08,MIMAROPA,MIMAROPA Region,Gold ore,799595.1,1069.79,434,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-009,2025,MGB-FAC-009,Synthetic Mineral Operation 09,R09,Zamboanga Peninsula,Copper concentrate,1787244.5,429.62,44.42,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-010,2025,MGB-FAC-010,Synthetic Mineral Operation 10,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Limestone,2733178.7,372.27,67.19,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-011,2025,MGB-FAC-011,Synthetic Mineral Operation 11,R03,Central Luzon,Silica,143645.7,926.21,325.82,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-012,2025,MGB-FAC-012,Synthetic Mineral Operation 12,R07,Central Visayas,Chromite,1697994.8,652.03,252.68,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-013,2025,MGB-FAC-013,Synthetic Mineral Operation 13,R12,SOCCSKSARGEN,Aggregates,1464833.1,811.84,235.2,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-014,2025,MGB-FAC-014,Synthetic Mineral Operation 14,R01,Ilocos Region,Nickel ore,2870775.3,692.73,168.84,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-015,2025,MGB-FAC-015,Synthetic Mineral Operation 15,R05,Bicol Region,Gold ore,2889739,107.7,41.17,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-016,2025,MGB-FAC-016,Synthetic Mineral Operation 16,R10,Northern Mindanao,Copper concentrate,770292.9,905.78,362.18,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-017,2025,MGB-FAC-017,Synthetic Mineral Operation 17,NCR,National Capital Region,Limestone,2536934.1,680.28,258.99,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-018,2025,MGB-FAC-018,Synthetic Mineral Operation 18,R04A,CALABARZON,Silica,1063884.7,684.28,205.91,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-019,2025,MGB-FAC-019,Synthetic Mineral Operation 19,R08,Eastern Visayas,Chromite,1200066.1,379.68,81.11,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-020,2025,MGB-FAC-020,Synthetic Mineral Operation 20,R13,Caraga,Aggregates,1367619.4,172.01,74.76,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-021,2025,MGB-FAC-021,Synthetic Mineral Operation 21,R02,Cagayan Valley,Nickel ore,727847.6,963.3,109.3,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-022,2025,MGB-FAC-022,Synthetic Mineral Operation 22,R06,Western Visayas,Gold ore,1609055.3,18.41,6.2,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-023,2025,MGB-FAC-023,Synthetic Mineral Operation 23,R11,Davao Region,Copper concentrate,1874472.6,625.78,259.35,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-024,2025,MGB-FAC-024,Synthetic Mineral Operation 24,CAR,Cordillera Administrative Region,Limestone,2018830.5,403.31,151.39,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-025,2025,MGB-FAC-025,Synthetic Mineral Operation 25,MIMAROPA,MIMAROPA Region,Silica,2231035.5,904.48,200.69,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-026,2025,MGB-FAC-026,Synthetic Mineral Operation 26,R09,Zamboanga Peninsula,Chromite,1032220.4,943.24,214.18,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-027,2025,MGB-FAC-027,Synthetic Mineral Operation 27,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,Aggregates,233831.3,958.18,164.91,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-028,2025,MGB-FAC-028,Synthetic Mineral Operation 28,R03,Central Luzon,Nickel ore,85338,181.98,24.38,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-029,2025,MGB-FAC-029,Synthetic Mineral Operation 29,R07,Central Visayas,Gold ore,1665941.2,703.15,72.84,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-030,2025,MGB-FAC-030,Synthetic Mineral Operation 30,R12,SOCCSKSARGEN,Copper concentrate,680530,603.18,201.85,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-031,2025,MGB-FAC-031,Synthetic Mineral Operation 31,R01,Ilocos Region,Limestone,1937843.3,602.35,199.6,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-032,2025,MGB-FAC-032,Synthetic Mineral Operation 32,R05,Bicol Region,Silica,616991.2,784.49,351.49,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-033,2025,MGB-FAC-033,Synthetic Mineral Operation 33,R10,Northern Mindanao,Chromite,191586.9,98.95,37.3,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-034,2025,MGB-FAC-034,Synthetic Mineral Operation 34,NCR,National Capital Region,Aggregates,2741264.1,1025.94,156.29,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-035,2025,MGB-FAC-035,Synthetic Mineral Operation 35,R04A,CALABARZON,Nickel ore,2371623.2,60.1,11.84,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO
+IAR-2025-036,2025,MGB-FAC-036,Synthetic Mineral Operation 36,R08,Eastern Visayas,Gold ore,2368601.6,90.13,36.58,MGB Form 29-16 / Annual Land Use Format,DENR-MGB,SYNTHETIC_DEMO

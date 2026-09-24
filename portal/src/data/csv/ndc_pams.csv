@@ -1,0 +1,16 @@
+pam_id,sector,policy_action,action_type,lead_agency,period,target_value,target_unit,latest_progress,progress_pct,status,data_status
+EN-01,Energy,Renewable energy capacity expansion,Mitigation,DOE,2024-2030,81.1,PoC normalized index / sector metric,53.7,66.2,On track,SYNTHETIC
+EN-02,Energy,Energy efficiency in public and commercial buildings,Mitigation,DOE,2024-2030,8.5,PoC normalized index / sector metric,5.8,68.2,Data update due,SYNTHETIC
+EN-03,Energy,Grid modernization and storage readiness,Mitigation,DOE,2024-2030,72.8,PoC normalized index / sector metric,44.6,61.3,Needs acceleration,SYNTHETIC
+TR-01,Transport,Public utility vehicle modernization / low-emission fleet,Mitigation,DOTr,2024-2030,24.0,PoC normalized index / sector metric,6.7,27.9,Data update due,SYNTHETIC
+TR-02,Transport,Rail and mass transit expansion,Mitigation,DOTr,2024-2030,34.4,PoC normalized index / sector metric,21.0,61.0,Needs acceleration,SYNTHETIC
+TR-03,Transport,Active mobility and mode shift,Mitigation,DOTr,2024-2030,16.4,PoC normalized index / sector metric,13.0,79.3,On track,SYNTHETIC
+AG-01,Agriculture,Alternate wetting and drying in irrigated rice,Mitigation/Adaptation,DA,2024-2030,94.0,PoC normalized index / sector metric,71.4,76.0,Needs acceleration,SYNTHETIC
+AG-02,Agriculture,Climate-resilient crop and livestock systems,Adaptation,DA,2024-2030,89.4,PoC normalized index / sector metric,55.3,61.9,On track,SYNTHETIC
+AG-03,Agriculture,Livestock manure biodigesters,Mitigation,DA,2024-2030,68.7,PoC normalized index / sector metric,44.2,64.3,Data update due,SYNTHETIC
+WA-01,Waste,Materials recovery and organics diversion,Mitigation,DENR/EMB,2024-2030,20.1,PoC normalized index / sector metric,13.0,64.7,Data update due,SYNTHETIC
+WA-02,Waste,Wastewater treatment expansion,Mitigation,DENR/EMB,2024-2030,6.3,PoC normalized index / sector metric,1.8,28.6,Data update due,SYNTHETIC
+IP-01,IPPU,Low-GWP refrigerant transition,Mitigation,DENR/EMB,2024-2030,47.3,PoC normalized index / sector metric,16.3,34.5,Needs acceleration,SYNTHETIC
+IP-02,IPPU,Cement clinker substitution,Mitigation,DENR/EMB,2024-2030,75.9,PoC normalized index / sector metric,32.4,42.7,On track,SYNTHETIC
+FO-01,Forestry,Forest landscape restoration and protection,Mitigation/Adaptation,DENR/FMB,2024-2030,17.3,PoC normalized index / sector metric,9.6,55.5,Needs acceleration,SYNTHETIC
+CO-01,Coastal,Mangrove rehabilitation and blue-carbon readiness,Adaptation/Mitigation,DENR/BMB,2024-2030,70.8,PoC normalized index / sector metric,44.8,63.3,Data update due,SYNTHETIC

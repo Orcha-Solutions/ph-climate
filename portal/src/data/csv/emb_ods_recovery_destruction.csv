@@ -1,0 +1,91 @@
+record_id,year,region_code,region_name,substance,management_action,quantity_kg,unit,facility,source_office,data_status
+ODS-2021-001,2021,R13,Caraga,HCFC-22,recovered,2375.9,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-002,2021,R04A,CALABARZON,CFC-11,stored,635.5,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-003,2021,R10,Northern Mindanao,CFC-12,reclaimed,2820.1,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-004,2021,R01,Ilocos Region,Halon-1301,destroyed,4055.7,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-005,2021,R07,Central Visayas,HFC-134a,recovered,2300.1,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-006,2021,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HCFC-22,stored,1637.4,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-007,2021,MIMAROPA,MIMAROPA Region,CFC-11,reclaimed,1528.2,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-008,2021,R11,Davao Region,CFC-12,destroyed,1208.3,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-009,2021,R02,Cagayan Valley,Halon-1301,recovered,1256,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-010,2021,R08,Eastern Visayas,HFC-134a,stored,1913,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-011,2021,NCR,National Capital Region,HCFC-22,reclaimed,2336.9,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-012,2021,R05,Bicol Region,CFC-11,destroyed,3645.9,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-013,2021,R12,SOCCSKSARGEN,CFC-12,recovered,2730,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-014,2021,R03,Central Luzon,Halon-1301,stored,3543.1,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-015,2021,R09,Zamboanga Peninsula,HFC-134a,reclaimed,4187.4,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-016,2021,CAR,Cordillera Administrative Region,HCFC-22,destroyed,408.2,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-017,2021,R06,Western Visayas,CFC-11,recovered,58.8,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2021-018,2021,R13,Caraga,CFC-12,stored,1938.6,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-001,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,HCFC-22,recovered,656.5,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-002,2022,MIMAROPA,MIMAROPA Region,CFC-11,stored,1397.7,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-003,2022,R11,Davao Region,CFC-12,reclaimed,1732.2,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-004,2022,R02,Cagayan Valley,Halon-1301,destroyed,3998.3,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-005,2022,R08,Eastern Visayas,HFC-134a,recovered,1023.6,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-006,2022,NCR,National Capital Region,HCFC-22,stored,1898.6,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-007,2022,R05,Bicol Region,CFC-11,reclaimed,530.8,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-008,2022,R12,SOCCSKSARGEN,CFC-12,destroyed,4199.8,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-009,2022,R03,Central Luzon,Halon-1301,recovered,1623,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-010,2022,R09,Zamboanga Peninsula,HFC-134a,stored,2498.7,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-011,2022,CAR,Cordillera Administrative Region,HCFC-22,reclaimed,1921.1,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-012,2022,R06,Western Visayas,CFC-11,destroyed,2630.2,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-013,2022,R13,Caraga,CFC-12,recovered,1015.6,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-014,2022,R04A,CALABARZON,Halon-1301,stored,3484.5,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-015,2022,R10,Northern Mindanao,HFC-134a,reclaimed,3993.2,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-016,2022,R01,Ilocos Region,HCFC-22,destroyed,303.2,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-017,2022,R07,Central Visayas,CFC-11,recovered,1436.2,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2022-018,2022,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CFC-12,stored,386.1,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-001,2023,NCR,National Capital Region,HCFC-22,recovered,2572.8,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-002,2023,R05,Bicol Region,CFC-11,stored,2718.4,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-003,2023,R12,SOCCSKSARGEN,CFC-12,reclaimed,184.6,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-004,2023,R03,Central Luzon,Halon-1301,destroyed,2162.8,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-005,2023,R09,Zamboanga Peninsula,HFC-134a,recovered,3833.8,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-006,2023,CAR,Cordillera Administrative Region,HCFC-22,stored,4184.8,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-007,2023,R06,Western Visayas,CFC-11,reclaimed,2954.3,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-008,2023,R13,Caraga,CFC-12,destroyed,2479.8,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-009,2023,R04A,CALABARZON,Halon-1301,recovered,233.9,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-010,2023,R10,Northern Mindanao,HFC-134a,stored,2502.6,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-011,2023,R01,Ilocos Region,HCFC-22,reclaimed,487.9,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-012,2023,R07,Central Visayas,CFC-11,destroyed,3903.3,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-013,2023,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CFC-12,recovered,1713.5,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-014,2023,MIMAROPA,MIMAROPA Region,Halon-1301,stored,1837.8,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-015,2023,R11,Davao Region,HFC-134a,reclaimed,118.2,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-016,2023,R02,Cagayan Valley,HCFC-22,destroyed,589.1,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-017,2023,R08,Eastern Visayas,CFC-11,recovered,2942.9,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2023-018,2023,NCR,National Capital Region,CFC-12,stored,2577.1,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-001,2024,CAR,Cordillera Administrative Region,HCFC-22,recovered,2606.8,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-002,2024,R06,Western Visayas,CFC-11,stored,751.1,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-003,2024,R13,Caraga,CFC-12,reclaimed,915.1,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-004,2024,R04A,CALABARZON,Halon-1301,destroyed,76,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-005,2024,R10,Northern Mindanao,HFC-134a,recovered,3549.7,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-006,2024,R01,Ilocos Region,HCFC-22,stored,1985.5,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-007,2024,R07,Central Visayas,CFC-11,reclaimed,472.7,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-008,2024,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CFC-12,destroyed,2577.2,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-009,2024,MIMAROPA,MIMAROPA Region,Halon-1301,recovered,3782.7,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-010,2024,R11,Davao Region,HFC-134a,stored,1350.8,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-011,2024,R02,Cagayan Valley,HCFC-22,reclaimed,1135.7,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-012,2024,R08,Eastern Visayas,CFC-11,destroyed,76.7,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-013,2024,NCR,National Capital Region,CFC-12,recovered,3594.6,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-014,2024,R05,Bicol Region,Halon-1301,stored,3643.3,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-015,2024,R12,SOCCSKSARGEN,HFC-134a,reclaimed,3704,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-016,2024,R03,Central Luzon,HCFC-22,destroyed,112,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-017,2024,R09,Zamboanga Peninsula,CFC-11,recovered,1310.8,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2024-018,2024,CAR,Cordillera Administrative Region,CFC-12,stored,2879.3,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-001,2025,R01,Ilocos Region,HCFC-22,recovered,2598.4,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-002,2025,R07,Central Visayas,CFC-11,stored,3184.7,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-003,2025,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,CFC-12,reclaimed,2947.4,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-004,2025,MIMAROPA,MIMAROPA Region,Halon-1301,destroyed,1989.1,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-005,2025,R11,Davao Region,HFC-134a,recovered,4008.8,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-006,2025,R02,Cagayan Valley,HCFC-22,stored,3358,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-007,2025,R08,Eastern Visayas,CFC-11,reclaimed,3380.3,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-008,2025,NCR,National Capital Region,CFC-12,destroyed,1128.7,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-009,2025,R05,Bicol Region,Halon-1301,recovered,2480.6,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-010,2025,R12,SOCCSKSARGEN,HFC-134a,stored,205.9,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-011,2025,R03,Central Luzon,HCFC-22,reclaimed,3365.4,kg,Synthetic service/recovery center 3,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-012,2025,R09,Zamboanga Peninsula,CFC-11,destroyed,2502.8,kg,Synthetic service/recovery center 4,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-013,2025,CAR,Cordillera Administrative Region,CFC-12,recovered,2389,kg,Synthetic service/recovery center 5,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-014,2025,R06,Western Visayas,Halon-1301,stored,714.8,kg,Synthetic service/recovery center 6,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-015,2025,R13,Caraga,HFC-134a,reclaimed,1124.4,kg,Synthetic service/recovery center 7,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-016,2025,R04A,CALABARZON,HCFC-22,destroyed,966.6,kg,Synthetic service/recovery center 8,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-017,2025,R10,Northern Mindanao,CFC-11,recovered,2699,kg,Synthetic service/recovery center 1,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO
+ODS-2025-018,2025,R01,Ilocos Region,CFC-12,stored,1052.2,kg,Synthetic service/recovery center 2,DENR-EMB POD / CHWMS,SYNTHETIC_DEMO

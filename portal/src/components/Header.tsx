@@ -97,7 +97,11 @@ export const Header: React.FC<HeaderProps> = ({
               <span className="text-lg font-bold tracking-tight text-white group-hover:text-emerald-400 transition-colors">
                 ClimatePortal<span className="text-emerald-400">.ph</span>
               </span>
-              <span className="text-xs text-slate-400 font-mono hidden sm:inline">
+              <span className="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-[10px] font-mono ml-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+                CSV Mock Engine
+              </span>
+              <span className="text-xs text-slate-400 font-mono hidden md:inline ml-1">
                 by DENR-EMB &amp; MGB
               </span>
             </button>

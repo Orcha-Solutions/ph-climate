@@ -1,0 +1,681 @@
+fiscal_year,region_psgc,region_code,nccap_theme,tagged_budget_php_m,adaptation_share_pct,source_system,data_status
+2022,PH130000000,NCR,Water Sufficiency,697.87,84.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Food Security,680.9,62.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Ecosystem & Environmental Stability,549.33,77.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Human Security,442.88,63.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Sustainable Energy,502.01,33.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Climate-Smart Industries and Services,279.97,70.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Knowledge & Capacity Development,110.46,85.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH130000000,NCR,Cross-Cutting,94.95,56.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Water Sufficiency,161.22,71.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Food Security,136.9,89.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Ecosystem & Environmental Stability,84.16,83.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Human Security,83.15,82.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Sustainable Energy,78.76,38.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Climate-Smart Industries and Services,58.26,80.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Knowledge & Capacity Development,30.34,65.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH140000000,CAR,Cross-Cutting,16.23,68.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Water Sufficiency,303.36,72.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Food Security,339.91,77.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Ecosystem & Environmental Stability,274.36,84.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Human Security,132.63,85.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Sustainable Energy,192.88,23.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Climate-Smart Industries and Services,91.78,80.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Knowledge & Capacity Development,66.32,59.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH010000000,I,Cross-Cutting,35.46,86.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Water Sufficiency,340.24,83.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Food Security,241.15,67.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Ecosystem & Environmental Stability,149.71,79.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Human Security,146.3,78.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Sustainable Energy,161.93,22.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Climate-Smart Industries and Services,81.42,82.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Knowledge & Capacity Development,41.91,69.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH020000000,II,Cross-Cutting,37.37,70.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Water Sufficiency,828.44,70.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Food Security,659.48,72.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Ecosystem & Environmental Stability,457.63,65.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Human Security,441.2,75.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Sustainable Energy,449.68,44.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Climate-Smart Industries and Services,218.73,66.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Knowledge & Capacity Development,111.5,80.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH030000000,III,Cross-Cutting,86.52,75.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Water Sufficiency,1069.27,67.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Food Security,722.58,63.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Ecosystem & Environmental Stability,523.52,76.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Human Security,483.96,55.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Sustainable Energy,509.49,46.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Climate-Smart Industries and Services,278.61,82.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Knowledge & Capacity Development,133.58,78.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH040000000,IV-A,Cross-Cutting,134.04,75.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Water Sufficiency,298.59,83.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Food Security,224.93,89.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Ecosystem & Environmental Stability,122.93,55.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Human Security,91.73,81.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Sustainable Energy,161.74,35.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Climate-Smart Industries and Services,62.92,81.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Knowledge & Capacity Development,53.79,81.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH170000000,MIMAROPA,Cross-Cutting,25.93,60.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Water Sufficiency,385.94,57.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Food Security,371.13,80.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Ecosystem & Environmental Stability,305.71,66.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Human Security,202.23,88.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Sustainable Energy,235.01,49.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Climate-Smart Industries and Services,141.79,83.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Knowledge & Capacity Development,58.87,74.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH050000000,V,Cross-Cutting,36.57,80.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Water Sufficiency,526.75,75.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Food Security,402.68,85.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Ecosystem & Environmental Stability,321.25,81.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Human Security,282.26,78.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Sustainable Energy,269.71,36.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Climate-Smart Industries and Services,137.98,70.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Knowledge & Capacity Development,108.6,80.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH060000000,VI,Cross-Cutting,47.37,57.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Water Sufficiency,580.49,62.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Food Security,383.38,68.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Ecosystem & Environmental Stability,279.63,73.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Human Security,286.1,73.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Sustainable Energy,225.04,38.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Climate-Smart Industries and Services,146.19,82.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Knowledge & Capacity Development,81.29,80.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH070000000,VII,Cross-Cutting,69.61,86.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Water Sufficiency,329.26,56.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Food Security,214.52,73.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Ecosystem & Environmental Stability,158.22,78.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Human Security,176.32,56.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Sustainable Energy,158.27,24.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Climate-Smart Industries and Services,114.6,56.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Knowledge & Capacity Development,59.51,78.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH080000000,VIII,Cross-Cutting,28.2,63.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Water Sufficiency,280.19,58.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Food Security,247.01,84.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Ecosystem & Environmental Stability,148.4,85.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Human Security,125.78,60.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Sustainable Energy,183.87,47.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Climate-Smart Industries and Services,101.51,64.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Knowledge & Capacity Development,44.84,77.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH090000000,IX,Cross-Cutting,26.16,82.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Water Sufficiency,331.31,68.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Food Security,218.1,57.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Ecosystem & Environmental Stability,253.34,74.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Human Security,198.86,76.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Sustainable Energy,221.97,20.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Climate-Smart Industries and Services,122.57,70.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Knowledge & Capacity Development,49.46,61.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH100000000,X,Cross-Cutting,32.31,75.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Water Sufficiency,279.32,60.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Food Security,348.75,67.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Ecosystem & Environmental Stability,241.26,88.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Human Security,156.31,56.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Sustainable Energy,242.15,32.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Climate-Smart Industries and Services,98.24,87.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Knowledge & Capacity Development,52.88,70.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH110000000,XI,Cross-Cutting,40.47,75.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Water Sufficiency,331.9,68.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Food Security,305.26,71.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Ecosystem & Environmental Stability,218.4,70.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Human Security,200.95,56.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Sustainable Energy,195.52,47.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Climate-Smart Industries and Services,87.83,58.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Knowledge & Capacity Development,55.52,57.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH120000000,XII,Cross-Cutting,38.81,57.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Water Sufficiency,176.66,56.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Food Security,210.78,86.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Ecosystem & Environmental Stability,178.2,60.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Human Security,120.97,59.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Sustainable Energy,120.85,25.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Climate-Smart Industries and Services,66.57,68.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Knowledge & Capacity Development,36.69,89.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH160000000,XIII,Cross-Cutting,20.37,78.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Water Sufficiency,311.61,81.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Food Security,310.15,66.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Ecosystem & Environmental Stability,214.98,70.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Human Security,171.31,74.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Sustainable Energy,171.59,42.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Climate-Smart Industries and Services,91.79,76.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Knowledge & Capacity Development,42.95,56.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2022,PH190000000,BARMM,Cross-Cutting,39.54,72.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Water Sufficiency,836.78,68.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Food Security,673.0,79.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Ecosystem & Environmental Stability,447.23,82.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Human Security,311.36,83.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Sustainable Energy,398.76,35.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Climate-Smart Industries and Services,239.45,66.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Knowledge & Capacity Development,172.09,56.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH130000000,NCR,Cross-Cutting,87.36,65.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Water Sufficiency,146.9,89.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Food Security,175.87,64.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Ecosystem & Environmental Stability,132.11,60.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Human Security,66.17,89.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Sustainable Energy,119.84,38.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Climate-Smart Industries and Services,46.82,83.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Knowledge & Capacity Development,25.33,66.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH140000000,CAR,Cross-Cutting,22.13,69.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Water Sufficiency,422.36,87.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Food Security,299.78,58.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Ecosystem & Environmental Stability,197.5,65.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Human Security,210.83,63.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Sustainable Energy,251.53,43.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Climate-Smart Industries and Services,113.41,89.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Knowledge & Capacity Development,71.87,64.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH010000000,I,Cross-Cutting,51.58,58.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Water Sufficiency,318.46,57.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Food Security,279.3,59.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Ecosystem & Environmental Stability,152.35,89.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Human Security,118.25,70.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Sustainable Energy,176.12,48.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Climate-Smart Industries and Services,90.99,88.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Knowledge & Capacity Development,62.7,66.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH020000000,II,Cross-Cutting,39.37,62.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Water Sufficiency,953.42,74.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Food Security,574.26,56.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Ecosystem & Environmental Stability,485.72,78.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Human Security,304.17,76.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Sustainable Energy,492.54,31.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Climate-Smart Industries and Services,185.14,75.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Knowledge & Capacity Development,175.34,72.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH030000000,III,Cross-Cutting,71.77,73.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Water Sufficiency,958.29,88.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Food Security,675.46,87.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Ecosystem & Environmental Stability,607.85,56.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Human Security,590.93,69.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Sustainable Energy,622.37,24.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Climate-Smart Industries and Services,237.37,66.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Knowledge & Capacity Development,185.53,67.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH040000000,IV-A,Cross-Cutting,103.26,80.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Water Sufficiency,259.95,76.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Food Security,184.57,74.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Ecosystem & Environmental Stability,189.68,79.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Human Security,136.83,64.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Sustainable Energy,112.33,23.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Climate-Smart Industries and Services,72.25,73.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Knowledge & Capacity Development,39.29,64.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH170000000,MIMAROPA,Cross-Cutting,30.36,83.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Water Sufficiency,507.32,75.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Food Security,357.32,84.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Ecosystem & Environmental Stability,338.91,58.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Human Security,197.68,55.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Sustainable Energy,290.23,35.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Climate-Smart Industries and Services,142.2,72.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Knowledge & Capacity Development,83.09,85.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH050000000,V,Cross-Cutting,41.66,87.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Water Sufficiency,596.09,72.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Food Security,486.08,78.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Ecosystem & Environmental Stability,341.89,74.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Human Security,308.05,60.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Sustainable Energy,299.03,32.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Climate-Smart Industries and Services,126.9,58.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Knowledge & Capacity Development,100.39,76.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH060000000,VI,Cross-Cutting,62.68,68.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Water Sufficiency,509.47,86.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Food Security,347.11,78.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Ecosystem & Environmental Stability,423.28,71.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Human Security,271.67,76.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Sustainable Energy,263.0,42.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Climate-Smart Industries and Services,192.31,82.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Knowledge & Capacity Development,96.29,76.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH070000000,VII,Cross-Cutting,59.48,81.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Water Sufficiency,296.03,77.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Food Security,248.5,60.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Ecosystem & Environmental Stability,198.58,72.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Human Security,189.69,71.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Sustainable Energy,176.47,46.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Climate-Smart Industries and Services,116.82,68.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Knowledge & Capacity Development,48.33,59.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH080000000,VIII,Cross-Cutting,30.37,82.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Water Sufficiency,344.92,80.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Food Security,196.99,66.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Ecosystem & Environmental Stability,228.63,65.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Human Security,120.26,61.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Sustainable Energy,178.81,43.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Climate-Smart Industries and Services,104.75,89.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Knowledge & Capacity Development,63.78,62.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH090000000,IX,Cross-Cutting,25.88,60.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Water Sufficiency,384.38,56.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Food Security,291.3,78.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Ecosystem & Environmental Stability,215.87,86.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Human Security,200.29,57.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Sustainable Energy,215.65,34.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Climate-Smart Industries and Services,83.12,72.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Knowledge & Capacity Development,72.09,55.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH100000000,X,Cross-Cutting,34.12,86.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Water Sufficiency,301.9,79.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Food Security,280.1,67.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Ecosystem & Environmental Stability,200.06,61.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Human Security,198.61,70.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Sustainable Energy,207.2,36.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Climate-Smart Industries and Services,127.04,67.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Knowledge & Capacity Development,77.37,69.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH110000000,XI,Cross-Cutting,42.6,74.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Water Sufficiency,380.22,78.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Food Security,293.72,75.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Ecosystem & Environmental Stability,176.26,61.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Human Security,181.22,70.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Sustainable Energy,207.64,37.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Climate-Smart Industries and Services,84.09,80.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Knowledge & Capacity Development,63.69,66.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH120000000,XII,Cross-Cutting,45.26,87.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Water Sufficiency,209.84,63.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Food Security,167.08,65.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Ecosystem & Environmental Stability,143.46,67.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Human Security,137.4,69.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Sustainable Energy,102.97,30.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Climate-Smart Industries and Services,75.66,82.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Knowledge & Capacity Development,41.15,88.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH160000000,XIII,Cross-Cutting,32.59,81.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Water Sufficiency,312.68,74.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Food Security,265.91,57.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Ecosystem & Environmental Stability,193.13,69.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Human Security,183.68,68.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Sustainable Energy,180.86,43.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Climate-Smart Industries and Services,115.23,74.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Knowledge & Capacity Development,56.67,88.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2023,PH190000000,BARMM,Cross-Cutting,36.99,84.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Water Sufficiency,908.69,70.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Food Security,877.72,63.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Ecosystem & Environmental Stability,523.93,77.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Human Security,442.69,61.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Sustainable Energy,514.51,20.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Climate-Smart Industries and Services,290.52,72.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Knowledge & Capacity Development,173.5,80.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH130000000,NCR,Cross-Cutting,100.73,84.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Water Sufficiency,189.09,70.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Food Security,143.21,79.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Ecosystem & Environmental Stability,112.16,86.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Human Security,68.71,65.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Sustainable Energy,94.36,44.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Climate-Smart Industries and Services,58.42,63.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Knowledge & Capacity Development,28.13,81.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH140000000,CAR,Cross-Cutting,23.28,59.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Water Sufficiency,508.07,62.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Food Security,328.28,74.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Ecosystem & Environmental Stability,292.28,70.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Human Security,241.93,78.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Sustainable Energy,224.48,45.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Climate-Smart Industries and Services,90.14,59.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Knowledge & Capacity Development,87.68,79.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH010000000,I,Cross-Cutting,38.35,80.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Water Sufficiency,315.8,82.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Food Security,289.84,68.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Ecosystem & Environmental Stability,146.59,77.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Human Security,179.16,87.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Sustainable Energy,145.84,48.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Climate-Smart Industries and Services,73.11,58.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Knowledge & Capacity Development,51.68,77.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH020000000,II,Cross-Cutting,36.88,88.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Water Sufficiency,892.38,56.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Food Security,681.33,70.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Ecosystem & Environmental Stability,617.42,71.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Human Security,337.4,87.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Sustainable Energy,359.61,29.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Climate-Smart Industries and Services,191.64,70.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Knowledge & Capacity Development,158.76,72.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH030000000,III,Cross-Cutting,95.61,89.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Water Sufficiency,1144.76,78.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Food Security,785.89,71.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Ecosystem & Environmental Stability,855.67,70.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Human Security,427.31,64.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Sustainable Energy,473.85,40.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Climate-Smart Industries and Services,321.93,55.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Knowledge & Capacity Development,155.31,55.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH040000000,IV-A,Cross-Cutting,132.67,63.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Water Sufficiency,236.4,75.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Food Security,230.81,84.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Ecosystem & Environmental Stability,191.41,63.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Human Security,155.97,63.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Sustainable Energy,134.19,22.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Climate-Smart Industries and Services,76.28,88.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Knowledge & Capacity Development,60.38,66.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH170000000,MIMAROPA,Cross-Cutting,25.73,77.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Water Sufficiency,412.48,55.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Food Security,403.24,58.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Ecosystem & Environmental Stability,332.59,55.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Human Security,166.43,75.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Sustainable Energy,251.59,30.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Climate-Smart Industries and Services,142.11,67.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Knowledge & Capacity Development,70.94,58.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH050000000,V,Cross-Cutting,42.88,88.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Water Sufficiency,710.37,60.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Food Security,480.4,69.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Ecosystem & Environmental Stability,357.08,72.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Human Security,237.75,64.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Sustainable Energy,290.4,40.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Climate-Smart Industries and Services,186.69,62.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Knowledge & Capacity Development,95.26,83.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH060000000,VI,Cross-Cutting,53.64,86.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Water Sufficiency,542.03,87.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Food Security,565.78,73.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Ecosystem & Environmental Stability,345.43,58.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Human Security,328.9,66.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Sustainable Energy,388.19,23.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Climate-Smart Industries and Services,165.7,70.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Knowledge & Capacity Development,85.36,84.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH070000000,VII,Cross-Cutting,76.96,65.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Water Sufficiency,429.02,55.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Food Security,276.13,63.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Ecosystem & Environmental Stability,185.06,70.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Human Security,200.69,76.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Sustainable Energy,222.48,44.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Climate-Smart Industries and Services,111.23,70.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Knowledge & Capacity Development,51.34,76.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH080000000,VIII,Cross-Cutting,43.14,66.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Water Sufficiency,282.75,78.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Food Security,246.33,63.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Ecosystem & Environmental Stability,249.96,85.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Human Security,170.97,64.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Sustainable Energy,146.78,44.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Climate-Smart Industries and Services,76.06,79.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Knowledge & Capacity Development,57.71,88.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH090000000,IX,Cross-Cutting,37.95,89.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Water Sufficiency,492.89,84.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Food Security,310.63,77.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Ecosystem & Environmental Stability,194.25,80.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Human Security,171.05,65.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Sustainable Energy,188.81,43.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Climate-Smart Industries and Services,117.23,69.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Knowledge & Capacity Development,68.3,62.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH100000000,X,Cross-Cutting,55.41,72.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Water Sufficiency,378.96,79.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Food Security,338.59,75.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Ecosystem & Environmental Stability,308.52,88.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Human Security,209.8,70.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Sustainable Energy,233.64,22.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Climate-Smart Industries and Services,101.76,55.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Knowledge & Capacity Development,87.62,55.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH110000000,XI,Cross-Cutting,37.76,76.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Water Sufficiency,316.91,63.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Food Security,355.2,66.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Ecosystem & Environmental Stability,190.82,65.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Human Security,210.94,76.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Sustainable Energy,197.15,39.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Climate-Smart Industries and Services,118.84,61.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Knowledge & Capacity Development,61.38,85.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH120000000,XII,Cross-Cutting,37.01,84.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Water Sufficiency,231.17,84.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Food Security,156.7,84.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Ecosystem & Environmental Stability,127.82,77.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Human Security,146.77,65.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Sustainable Energy,135.35,33.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Climate-Smart Industries and Services,60.84,69.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Knowledge & Capacity Development,46.46,59.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH160000000,XIII,Cross-Cutting,25.75,56.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Water Sufficiency,432.65,88.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Food Security,321.37,71.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Ecosystem & Environmental Stability,203.59,64.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Human Security,134.54,83.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Sustainable Energy,156.46,20.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Climate-Smart Industries and Services,88.76,65.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Knowledge & Capacity Development,62.94,55.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2024,PH190000000,BARMM,Cross-Cutting,39.16,89.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Water Sufficiency,1067.03,71.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Food Security,806.25,73.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Ecosystem & Environmental Stability,458.71,78.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Human Security,559.39,59.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Sustainable Energy,501.36,36.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Climate-Smart Industries and Services,317.62,61.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Knowledge & Capacity Development,213.29,75.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH130000000,NCR,Cross-Cutting,85.79,62.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Water Sufficiency,176.41,87.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Food Security,157.3,58.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Ecosystem & Environmental Stability,101.28,74.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Human Security,86.87,65.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Sustainable Energy,96.85,22.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Climate-Smart Industries and Services,54.6,85.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Knowledge & Capacity Development,34.15,84.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH140000000,CAR,Cross-Cutting,19.37,65.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Water Sufficiency,326.91,84.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Food Security,310.34,73.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Ecosystem & Environmental Stability,323.49,84.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Human Security,165.16,68.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Sustainable Energy,181.55,45.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Climate-Smart Industries and Services,105.53,59.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Knowledge & Capacity Development,73.78,59.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH010000000,I,Cross-Cutting,59.85,81.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Water Sufficiency,317.36,59.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Food Security,255.75,80.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Ecosystem & Environmental Stability,206.65,64.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Human Security,139.19,60.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Sustainable Energy,176.68,48.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Climate-Smart Industries and Services,94.86,87.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Knowledge & Capacity Development,69.71,82.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH020000000,II,Cross-Cutting,43.43,84.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Water Sufficiency,1070.04,66.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Food Security,534.31,64.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Ecosystem & Environmental Stability,526.41,60.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Human Security,520.94,64.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Sustainable Energy,468.32,36.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Climate-Smart Industries and Services,238.32,74.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Knowledge & Capacity Development,181.08,75.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH030000000,III,Cross-Cutting,81.31,62.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Water Sufficiency,1268.97,78.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Food Security,882.74,80.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Ecosystem & Environmental Stability,827.71,87.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Human Security,446.49,85.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Sustainable Energy,499.19,37.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Climate-Smart Industries and Services,264.04,64.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Knowledge & Capacity Development,175.64,84.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH040000000,IV-A,Cross-Cutting,139.5,86.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Water Sufficiency,354.19,64.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Food Security,234.64,81.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Ecosystem & Environmental Stability,186.17,88.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Human Security,134.83,67.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Sustainable Energy,148.85,30.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Climate-Smart Industries and Services,65.45,67.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Knowledge & Capacity Development,60.24,62.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH170000000,MIMAROPA,Cross-Cutting,28.5,58.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Water Sufficiency,416.86,71.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Food Security,397.0,85.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Ecosystem & Environmental Stability,287.44,55.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Human Security,279.39,75.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Sustainable Energy,265.74,26.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Climate-Smart Industries and Services,149.11,60.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Knowledge & Capacity Development,84.83,60.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH050000000,V,Cross-Cutting,49.36,68.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Water Sufficiency,583.26,63.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Food Security,568.42,66.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Ecosystem & Environmental Stability,469.85,61.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Human Security,346.34,79.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Sustainable Energy,385.28,45.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Climate-Smart Industries and Services,153.39,81.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Knowledge & Capacity Development,81.57,74.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH060000000,VI,Cross-Cutting,69.61,87.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Water Sufficiency,502.13,81.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Food Security,555.02,59.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Ecosystem & Environmental Stability,461.62,60.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Human Security,346.64,67.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Sustainable Energy,331.4,37.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Climate-Smart Industries and Services,184.44,84.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Knowledge & Capacity Development,92.3,64.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH070000000,VII,Cross-Cutting,70.19,60.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Water Sufficiency,421.82,71.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Food Security,260.77,77.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Ecosystem & Environmental Stability,203.72,85.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Human Security,216.86,63.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Sustainable Energy,188.18,33.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Climate-Smart Industries and Services,125.36,81.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Knowledge & Capacity Development,78.19,80.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH080000000,VIII,Cross-Cutting,40.01,87.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Water Sufficiency,312.19,70.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Food Security,208.08,58.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Ecosystem & Environmental Stability,213.43,61.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Human Security,178.79,82.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Sustainable Energy,161.09,30.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Climate-Smart Industries and Services,107.19,81.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Knowledge & Capacity Development,72.54,86.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH090000000,IX,Cross-Cutting,33.01,84.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Water Sufficiency,397.22,56.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Food Security,284.9,65.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Ecosystem & Environmental Stability,199.79,59.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Human Security,159.19,62.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Sustainable Energy,260.76,42.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Climate-Smart Industries and Services,134.81,55.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Knowledge & Capacity Development,57.99,67.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH100000000,X,Cross-Cutting,36.05,88.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Water Sufficiency,475.48,85.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Food Security,391.91,87.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Ecosystem & Environmental Stability,234.99,71.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Human Security,186.53,81.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Sustainable Energy,237.63,42.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Climate-Smart Industries and Services,121.27,70.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Knowledge & Capacity Development,90.11,64.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH110000000,XI,Cross-Cutting,55.25,79.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Water Sufficiency,454.31,79.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Food Security,371.26,77.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Ecosystem & Environmental Stability,294.3,82.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Human Security,156.43,84.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Sustainable Energy,224.72,21.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Climate-Smart Industries and Services,98.05,56.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Knowledge & Capacity Development,74.34,61.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH120000000,XII,Cross-Cutting,37.42,71.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Water Sufficiency,219.24,84.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Food Security,258.27,79.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Ecosystem & Environmental Stability,176.66,74.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Human Security,152.69,86.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Sustainable Energy,112.96,44.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Climate-Smart Industries and Services,80.49,70.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Knowledge & Capacity Development,50.2,62.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH160000000,XIII,Cross-Cutting,31.82,69.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Water Sufficiency,289.66,72.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Food Security,339.5,85.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Ecosystem & Environmental Stability,238.02,86.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Human Security,196.89,57.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Sustainable Energy,174.88,29.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Climate-Smart Industries and Services,127.85,89.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Knowledge & Capacity Development,54.13,58.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2025,PH190000000,BARMM,Cross-Cutting,31.78,88.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Water Sufficiency,1178.51,55.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Food Security,741.41,69.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Ecosystem & Environmental Stability,522.13,60.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Human Security,386.78,70.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Sustainable Energy,670.58,26.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Climate-Smart Industries and Services,331.21,87.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Knowledge & Capacity Development,190.43,87.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH130000000,NCR,Cross-Cutting,134.32,71.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Water Sufficiency,161.83,79.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Food Security,166.29,69.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Ecosystem & Environmental Stability,140.47,71.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Human Security,118.03,64.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Sustainable Energy,112.65,41.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Climate-Smart Industries and Services,53.59,90.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Knowledge & Capacity Development,43.4,55.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH140000000,CAR,Cross-Cutting,26.96,87.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Water Sufficiency,349.45,87.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Food Security,284.86,80.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Ecosystem & Environmental Stability,343.87,89.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Human Security,213.71,85.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Sustainable Energy,186.62,47.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Climate-Smart Industries and Services,147.16,87.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Knowledge & Capacity Development,75.04,57.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH010000000,I,Cross-Cutting,58.14,61.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Water Sufficiency,383.63,56.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Food Security,299.33,80.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Ecosystem & Environmental Stability,242.57,59.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Human Security,160.65,85.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Sustainable Energy,149.48,30.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Climate-Smart Industries and Services,79.81,83.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Knowledge & Capacity Development,48.86,57.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH020000000,II,Cross-Cutting,37.74,75.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Water Sufficiency,1120.93,81.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Food Security,910.04,74.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Ecosystem & Environmental Stability,703.51,60.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Human Security,360.77,73.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Sustainable Energy,415.53,27.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Climate-Smart Industries and Services,305.32,87.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Knowledge & Capacity Development,159.24,66.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH030000000,III,Cross-Cutting,123.15,66.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Water Sufficiency,1005.33,55.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Food Security,951.7,82.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Ecosystem & Environmental Stability,744.8,63.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Human Security,610.16,80.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Sustainable Energy,500.6,47.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Climate-Smart Industries and Services,369.7,68.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Knowledge & Capacity Development,187.17,77.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH040000000,IV-A,Cross-Cutting,159.41,80.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Water Sufficiency,335.65,55.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Food Security,249.39,79.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Ecosystem & Environmental Stability,235.34,65.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Human Security,111.15,83.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Sustainable Energy,159.56,46.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Climate-Smart Industries and Services,106.37,81.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Knowledge & Capacity Development,63.3,67.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH170000000,MIMAROPA,Cross-Cutting,42.41,65.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Water Sufficiency,494.39,70.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Food Security,445.38,59.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Ecosystem & Environmental Stability,302.75,66.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Human Security,246.03,78.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Sustainable Energy,292.22,24.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Climate-Smart Industries and Services,145.48,82.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Knowledge & Capacity Development,69.92,69.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH050000000,V,Cross-Cutting,46.69,58.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Water Sufficiency,582.78,67.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Food Security,530.71,77.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Ecosystem & Environmental Stability,475.57,84.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Human Security,362.13,61.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Sustainable Energy,315.53,20.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Climate-Smart Industries and Services,201.01,59.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Knowledge & Capacity Development,115.14,87.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH060000000,VI,Cross-Cutting,70.96,73.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Water Sufficiency,578.95,71.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Food Security,635.0,65.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Ecosystem & Environmental Stability,396.9,74.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Human Security,316.4,76.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Sustainable Energy,408.79,23.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Climate-Smart Industries and Services,177.48,82.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Knowledge & Capacity Development,140.54,67.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH070000000,VII,Cross-Cutting,82.33,69.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Water Sufficiency,393.84,57.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Food Security,339.99,83.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Ecosystem & Environmental Stability,228.02,62.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Human Security,225.72,71.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Sustainable Energy,233.62,33.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Climate-Smart Industries and Services,111.74,86.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Knowledge & Capacity Development,74.44,84.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH080000000,VIII,Cross-Cutting,54.68,89.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Water Sufficiency,317.29,89.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Food Security,300.83,74.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Ecosystem & Environmental Stability,193.31,56.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Human Security,156.55,82.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Sustainable Energy,172.26,34.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Climate-Smart Industries and Services,106.18,55.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Knowledge & Capacity Development,54.19,75.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH090000000,IX,Cross-Cutting,38.88,80.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Water Sufficiency,363.67,70.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Food Security,350.84,83.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Ecosystem & Environmental Stability,248.42,70.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Human Security,155.66,62.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Sustainable Energy,216.18,32.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Climate-Smart Industries and Services,125.67,66.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Knowledge & Capacity Development,80.02,81.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH100000000,X,Cross-Cutting,39.45,64.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Water Sufficiency,393.86,87.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Food Security,271.11,76.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Ecosystem & Environmental Stability,269.6,80.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Human Security,184.26,71.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Sustainable Energy,291.47,24.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Climate-Smart Industries and Services,144.75,80.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Knowledge & Capacity Development,82.2,82.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH110000000,XI,Cross-Cutting,40.88,77.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Water Sufficiency,407.49,67.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Food Security,354.34,66.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Ecosystem & Environmental Stability,324.9,87.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Human Security,164.57,66.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Sustainable Energy,284.68,35.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Climate-Smart Industries and Services,97.48,68.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Knowledge & Capacity Development,67.83,78.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH120000000,XII,Cross-Cutting,48.4,60.6,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Water Sufficiency,351.66,67.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Food Security,184.77,81.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Ecosystem & Environmental Stability,204.27,59.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Human Security,163.88,87.7,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Sustainable Energy,154.28,36.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Climate-Smart Industries and Services,92.3,79.0,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Knowledge & Capacity Development,43.1,87.9,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH160000000,XIII,Cross-Cutting,28.74,83.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Water Sufficiency,354.95,57.3,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Food Security,242.19,73.5,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Ecosystem & Environmental Stability,260.14,77.1,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Human Security,163.81,57.8,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Sustainable Energy,174.24,20.2,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Climate-Smart Industries and Services,88.35,55.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Knowledge & Capacity Development,66.89,62.4,Synthetic CCET-like PoC feed,SYNTHETIC
+2026,PH190000000,BARMM,Cross-Cutting,51.64,64.6,Synthetic CCET-like PoC feed,SYNTHETIC
